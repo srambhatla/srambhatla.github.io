@@ -2801,7 +2801,8 @@
 		background-color: #EC0A65;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
-		background-image: url("images/pic04.jpg"), url("images/overlay3.svg");
+		background-image: url("images/pic04.jpg"), url("images/overlay3.svg"), linear-gradient(45deg, #EC0A65
+			, #4fa49a 50%, #9dc66b 95%);
 		background-position: top left,						center center,					center center;
 		background-size: auto,							cover,							cover;
 		overflow: hidden;
