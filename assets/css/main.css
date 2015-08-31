@@ -1346,7 +1346,7 @@
 		color: #6f7577;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 16pt;
-		font-weight: 100;
+		font-weight: 200;
 		line-height: 1.65em;
 	}
 
@@ -1368,7 +1368,7 @@
 
 	strong, b {
 		color: #61686b;
-		font-weight: 100;
+		font-weight: 200;
 	}
 
 	em, i {
@@ -1381,7 +1381,7 @@
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #61686b;
-		font-weight: 400;
+		font-weight: 800;
 		letter-spacing: 0.075em;
 		line-height: 1em;
 		margin: 0 0 1em 0;
