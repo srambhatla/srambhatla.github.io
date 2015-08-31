@@ -27,7 +27,7 @@
 	});
 
 	$(function() {
- if (skel.breakpoint("small").active){}else{
+ if (skel.breakpoint("small").active || skel.breakpoint("xsmall").active  ){}else{
 		var $window = $(window),
 			$body = $('body'),
 			$header = $('#header');
