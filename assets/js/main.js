@@ -8,7 +8,7 @@ var state = window.getComputedStyle(
     document.querySelector('.state-indicator'), ':before'
 ).getPropertyValue('content')
 
-if(getComputedStyle() < 3) { // If desktop or small desktop
+if(getComputedStyle() < 2) { // If desktop or small desktop
     // Show the widget....
 
 
