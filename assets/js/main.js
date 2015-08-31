@@ -4,12 +4,6 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-var state = window.getComputedStyle(
-    document.querySelector('.state-indicator'), ':before'
-).getPropertyValue('content')
-
-if(getComputedStyle() < 2) { // If desktop or small desktop
-    // Show the widget....
 
 
 (function($) {
@@ -33,7 +27,7 @@ if(getComputedStyle() < 2) { // If desktop or small desktop
 	});
 
 	$(function() {
-
+ if (skel.breakpoint("small").active){}else{
 		var $window = $(window),
 			$body = $('body'),
 			$header = $('#header');
@@ -70,6 +64,7 @@ if(getComputedStyle() < 2) { // If desktop or small desktop
 			});
 
 		// Header.
+// no widget if small
 
 			// Parallax background.
 
@@ -123,7 +118,7 @@ if(getComputedStyle() < 2) { // If desktop or small desktop
 
 				});
 
-	});
+	}
+});
 
 })(jQuery);
-}
