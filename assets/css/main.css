@@ -1,3 +1,11 @@
+/* default state */
+.state-indicator {
+    position: absolute;
+    top: -999em;
+    left: -999em;
+
+    z-index: 1;
+}
 @import url("font-awesome.min.css");
 @import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic");
 
@@ -85,8 +93,16 @@
 		width: 960px;
 	}
 
-	@media screen and (max-width: 1800px) {
+	.state-indicator {
+		    position: absolute;
+		    top: -999em;
+		    left: -999em;
 
+		    z-index: 1;
+		}
+
+	@media screen and (max-width: 1800px) {
+		
 		.container.\31 25\25 {
 			width: 100%;
 			max-width: 1200px;
@@ -164,6 +180,9 @@
 	}
 
 	@media screen and (max-width: 736px) {
+		.state-indicator {
+			z-index: 2;
+		}
 
 		.container.\31 25\25 {
 			width: 100%;
@@ -2556,12 +2575,14 @@
 		max-width: 54em;
 		padding: 8em 4em 4em 4em;
 		width: calc(100% - 35%);
+
 	}
 
 		#main > section {
 			border-top: solid 2px #efefef;
 			margin: 4em 0 0 0;
 			padding: 4em 0 0 0;
+
 		}
 
 			#main > section:first-child {

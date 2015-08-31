@@ -4,6 +4,14 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+var state = window.getComputedStyle(
+    document.querySelector('.state-indicator'), ':before'
+).getPropertyValue('content')
+
+if(getComputedStyle() < 3) { // If desktop or small desktop
+    // Show the widget....
+
+
 (function($) {
 
 	var settings = {
@@ -118,3 +126,4 @@
 	});
 
 })(jQuery);
+}
