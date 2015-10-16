@@ -280,7 +280,8 @@ pre {
 
 .page-meta {
   font-size: 14px;
-  color: #828282; }
+  color: #828282;
+  font-variant: small-caps; }
 
 .post-list {
   margin-left: 0;
