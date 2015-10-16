@@ -162,7 +162,7 @@ pre {
 .site-title {
   font-size: 20px;
   line-height: 56px;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
   margin-bottom: 0; }
   .site-title, .site-title:hover {
     color: #00d7d7; }
@@ -172,11 +172,11 @@ pre {
 .site-nav {
   float: right;
   line-height: 56px;
-  letter-spacing: 1px; }
+  letter-spacing: 2px; }
   .site-nav .menu-icon {
     display: none; }
   .site-nav .page-link {
-    margin-left: -280px;
+    margin-left: -250px;
     font-size: 18px;
     float: relative;
     color: #828282; }
@@ -277,6 +277,10 @@ pre {
 .page-heading {
   font-size: 25px;
   color: #424242; }
+
+.page-meta {
+  font-size: 14px;
+  color: #828282; }
 
 .post-list {
   margin-left: 0;

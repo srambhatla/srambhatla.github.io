@@ -17,7 +17,7 @@
 .site-title {
     font-size: 20px;
     line-height: 56px;
-    letter-spacing: 1px;
+    letter-spacing: 2px;
     margin-bottom: 0;
     
     &,
@@ -35,14 +35,14 @@
     
     float: right;
     line-height: 56px;
-    letter-spacing: 1px;
+    letter-spacing: 2px;
 
     .menu-icon {
         display: none;
     }
 
     .page-link {
-        margin-left: -280px;
+        margin-left: -250px;
         font-size: 18px;
         float:relative;
         color: $grey-color;
@@ -52,6 +52,8 @@
         &:not(:first-child) {
             margin-left: 20px;
         }
+
+    
     }
 
     @include media-query($on-palm) {
@@ -188,6 +190,11 @@
     color: $grey-color-dark;
 
 }
+.page-meta {
+    font-size: 14px;
+    color: $grey-color;
+
+        }
 
 .post-list {
     margin-left: 0;

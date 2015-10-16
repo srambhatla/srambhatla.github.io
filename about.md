@@ -1,6 +1,7 @@
 ---
 layout: page
 title: about
+date:   2015-10-16 04:36:43
 permalink: /about/
 ---
 {% include image.html url="/images/avatar.jpg"%}
