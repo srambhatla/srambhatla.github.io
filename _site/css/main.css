@@ -160,12 +160,12 @@ pre {
   position: relative; }
 
 .site-title {
-  font-size: 28px;
+  font-size: 20px;
   line-height: 56px;
   letter-spacing: 1px;
   margin-bottom: 0; }
   .site-title, .site-title:hover {
-    color: #003e3e; }
+    color: #00d7d7; }
   .site-title, .site-title:visited {
     color: #00bdbd; }
 
@@ -176,13 +176,13 @@ pre {
   .site-nav .menu-icon {
     display: none; }
   .site-nav .page-link {
-    margin-left: -195px;
-    font-size: 25px;
+    margin-left: -280px;
+    font-size: 18px;
     float: relative;
     color: #828282; }
     .site-nav .page-link:not(:first-child) {
       margin-left: 20px; }
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 400px) {
     .site-nav {
       position: absolute;
       top: 9px;
@@ -263,7 +263,7 @@ pre {
   .footer-col-3 {
     width: -webkit-calc(100% - (30px / 2));
     width: calc(100% - (30px / 2)); } }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 400px) {
   .footer-col {
     float: none;
     width: -webkit-calc(100% - (30px / 2));

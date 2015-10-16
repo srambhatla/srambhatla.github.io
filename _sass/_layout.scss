@@ -15,14 +15,14 @@
 }
 
 .site-title {
-    font-size: 28px;
+    font-size: 20px;
     line-height: 56px;
     letter-spacing: 1px;
     margin-bottom: 0;
     
     &,
     &:hover {
-        color: darken($blue-color, 15%);
+        color: lighten($blue-color, 15%);
     }
 
     &,
@@ -42,8 +42,8 @@
     }
 
     .page-link {
-        margin-left: -195px;
-        font-size: 25px;
+        margin-left: -280px;
+        font-size: 18px;
         float:relative;
         color: $grey-color;
         
