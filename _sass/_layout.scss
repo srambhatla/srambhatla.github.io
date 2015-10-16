@@ -2,38 +2,51 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
+    border-top: 5px solid $grey-color-light;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
+    text-align: center;
+    margin-left: -100px;
+    color: $blue-color-light;
 
+    
     // Positioning context for the mobile navigation icon
     position: relative;
 }
 
 .site-title {
-    font-size: 26px;
+    font-size: 28px;
     line-height: 56px;
-    letter-spacing: -1px;
+    letter-spacing: 1px;
     margin-bottom: 0;
-    float: left;
+    
+    &,
+    &:hover {
+        color: darken($blue-color, 15%);
+    }
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: $blue-color-light;
     }
 }
 
 .site-nav {
+    
     float: right;
     line-height: 56px;
+    letter-spacing: 1px;
 
     .menu-icon {
         display: none;
     }
 
     .page-link {
-        color: $text-color;
-        line-height: $base-line-height;
+        margin-left: -195px;
+        font-size: 25px;
+        float:relative;
+        color: $grey-color;
+        
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
@@ -98,6 +111,7 @@
 
 .footer-heading {
     font-size: 18px;
+    color: $grey-color-dark;
     margin-bottom: $spacing-unit / 2;
 }
 
@@ -123,16 +137,19 @@
 .footer-col-1 {
     width: -webkit-calc(35% - (#{$spacing-unit} / 2));
     width:         calc(35% - (#{$spacing-unit} / 2));
+
 }
 
 .footer-col-2 {
     width: -webkit-calc(20% - (#{$spacing-unit} / 2));
+
     width:         calc(20% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-3 {
     width: -webkit-calc(45% - (#{$spacing-unit} / 2));
     width:         calc(45% - (#{$spacing-unit} / 2));
+    text-align: right;
 }
 
 @include media-query($on-laptop) {
@@ -163,29 +180,36 @@
  */
 .page-content {
     padding: $spacing-unit 0;
+
 }
 
 .page-heading {
-    font-size: 20px;
+    font-size: 25px;
+    color: $grey-color-dark;
+
 }
 
 .post-list {
     margin-left: 0;
     list-style: none;
+    
 
     > li {
         margin-bottom: $spacing-unit;
+
     }
 }
 
 .post-meta {
-    font-size: $small-font-size;
+    font-size: 14px;
     color: $grey-color;
+
 }
 
 .post-link {
     display: block;
-    font-size: 24px;
+    font-size: 26px;
+
 }
 
 
@@ -195,12 +219,16 @@
  */
 .post-header {
     margin-bottom: $spacing-unit;
+    text-align: center;
+
 }
 
 .post-title {
-    font-size: 42px;
+    font-size: 40px;
     letter-spacing: -1px;
+    color: $grey-color-dark;
     line-height: 1;
+    text-align: center;
 
     @include media-query($on-laptop) {
         font-size: 36px;
@@ -209,6 +237,7 @@
 
 .post-content {
     margin-bottom: $spacing-unit;
+    text-align: left;
 
     h2 {
         font-size: 32px;

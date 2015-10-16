@@ -1,11 +1,19 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 ---
+{% include image.html url="/images/avatar.jpg"%}
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+<br/>
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+
+
+
+
+
+
+I am a second year Ph.D. (EE) student advised by [Prof. Jarvis Haupt](http://www.ece.umn.edu/~jdhaupt/) at the [University of Minnesota- Twin Cities](http://www.ece.umn.edu/). 
+
+My areas of interests are machine learning, statistical signal processing, compressive sensing, source separation and image processing.

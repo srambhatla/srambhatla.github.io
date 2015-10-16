@@ -15,14 +15,19 @@ $spacing-unit:     30px;
 
 $text-color:       #111;
 $background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$brand-color:      #111;
+$brand-color-dark:  darken($brand-color, 50%);
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
+$blue-color:       #008A8A;
+$blue-color-light: lighten($blue-color, 10%);
+$blue-color-dark:  darken($blue-color, 25%);
+
 // Width of the content area
-$content-width:    800px;
+$content-width:    600px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
