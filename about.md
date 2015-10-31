@@ -23,7 +23,7 @@ I am a second year Ph.D. (EE) student advised by [Prof. Jarvis Haupt](http://www
 My areas of interests are machine learning, statistical signal processing, compressive sensing, source separation and image processing.
 
 
-<br/>
+
 <ul class="timeline">
   <!-- Item 1 -->
   <li>
