@@ -164,9 +164,11 @@ pre {
   background-color: #fff;
   min-height: 56px;
   text-align: center;
-  padding-left: 11.5cm;
-  padding-right: 10cm;
   color: #00bdbd;
+  width: 75%;
+  position: fixed;
+  left: 50%;
+  margin-left: -37.5%;
   z-index: 20;
   position: fixed; }
 
