@@ -33,7 +33,7 @@ My areas of interests are machine learning, statistical signal processing, compr
         <span class="flag">Ph.D. (E.E.) Student @ UMN</span>
         <span class="time-wrapper"><span class="time">Sept. 2014 - Present</span></span>
       </div>
-      <div class="desc"> Currently analyzing the SBMCA problem to develop theoretical guarentees. </div>
+      <div class="desc"> Currently analyzing the SBMCA problem to develop theoretical guarantees. </div>
     </div>
   </li>
 
