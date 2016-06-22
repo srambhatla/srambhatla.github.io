@@ -6,17 +6,36 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>ABOUT</title>
-  
-
-  <meta name="description" content="Hello World!
+  <title>About</title>
+  <meta name="description" content="Hello World!  
 ">
 
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="stylesheet" href="/css/component.css">
   <link rel="canonical" href="https://srambhatla.github.io//about/">
   <link rel="alternate" type="application/rss+xml" title="Sirisha Rambhatla" href="https://srambhatla.github.io//feed.xml" />
+  <link href='https://fonts.googleapis.com/css?family=Pacifico|Kaushan+Script' rel='stylesheet' type='text/css'>
+  <!-- js -->
+<script src="js/classie.js"></script>
+<script>
+    function init() {
+        window.addEventListener('scroll', function(e){
+            var distanceY = window.pageYOffset || document.documentElement.scrollTop,
+                shrinkOn = 100,
+                header = document.querySelector(".site-header");
+                
+            if (distanceY > shrinkOn) {            
+                classie.add(header,".site-header.smaller");
+              
 
+            } else {
+                if (classie.has(header,".site-header.smaller")) {
+                    classie.remove(header,".site-header.smaller");
+                }
+            }
+        });
+    }
+    window.onload = init();
+</script>
 </head>
 
 
@@ -27,74 +46,189 @@
   <div class="wrapper">
    
         
-    <a class="site-title" href="/"> <img src="/title_1.png" alt="Sirisha Rambhatla" style="width:300px;height:50px;" class="imgtitle"> </a>
+  <a class="site-title" href="/"> <!--<img src="/title_1.png" alt="Sirisha Rambhatla" style="width:250px;height:40px;" class="imgtitle">--> Sirisha Rambhatla</a>
 
-
-
-
-    <nav class="site-nav" >
+    <nav class="site-nav">
       <a href="#" class="menu-icon">
-
         <svg viewBox="0 0 18 15">
           <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
           <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
           <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
         </svg>
       </a>
- 
-      <div class="trigger" >
-      <a class="page-link" href="/" > BLOG </a>
+
+      <div class="trigger">
         
-
+         
           
-
-
-
-          <a class="page-link" href="/about/" >ABOUT </a>
+            
+            <a class="page-link" href="/about/">About</a>
+           
           
-        
-
+         
           
-        
-
+         
+          
+         
           
         
-
+       
+         
+          
+         
+          
+         
+          
+         
           
         
-
+       
+         
           
-
-
-
-          <a class="page-link" href="/projects/" >PROJECTS </a>
+         
           
-        
-
+         
           
-
-
-
-          <a class="page-link" href="/research/" >RESEARCH </a>
+         
           
         
+       
+         
+          
+         
+          
+         
+          
+         
+          
+        
+       
+         
+          
+         
+          
+         
+          
+         
+          
+        
+       
+         
+          
+         
+          
+         
+          
+         
+          
+        
+       
+         
+          
+         
+          
+         
+          
+         
+          
+        
+       
+         
+          
+         
+          
+         
+          
+         
+          
+        
+       
+         
+          
+         
+          
+         
+          
+         
+          
+        
+       
+         
+          
+         
+          
+         
+          
+         
+          
+        
+       
+         
+          
+         
+          
+         
+          
+         
+          
+        
+       
+         
+          
+         
+          
+         
+          
+         
+          
+        
+       
+         
+          
+         
+          
+         
+          
+         
+          
+        
+       
+         
+          
+         
+          
+         
+          
+         
+          
+        
+       
+         
+          
+         
+          
+         
+          
+         
+          
+        
+      
       </div>
     </nav>
 
   </div>
 
 </header>
-
-<br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/>
     <div class="page-content">
       <div class="wrapper">
         <div class="post">
- 
- <!-- <header class="post-header">
-    <h1 class="post-title">ABOUT</h1>
-  </header> -->
- 
+ <!--
+ <header class="post-header">
+    <h1 class="post-title">About</h1>
+  </header>
 
+-->
   <article class="post-content">
     
 <table align="center" class="image">
@@ -105,77 +239,11 @@
 
 <p><br /></p>
 
-<p>I am a second year Ph.D. (EE) student advised by <a href="http://www.ece.umn.edu/~jdhaupt/">Prof. Jarvis Haupt</a> at the <a href="http://www.ece.umn.edu/">University of Minnesota- Twin Cities</a>.</p>
+<p>I am a second year Ph.D. (EE) student advised by <a href="http://www.ece.umn.edu/~jdhaupt/">Prof. Jarvis Haupt</a> at the <a href="http://www.ece.umn.edu/">University of Minnesota- Twin Cities</a>. My areas of interests are machine learning, statistical signal processing, compressive sensing, source separation and image processing.</p>
 
-<p>My areas of interests are machine learning, statistical signal processing, compressive sensing, source separation and image processing.</p>
-
-<ul class="timeline">
-  <!-- Item 1 -->
-  <li>
-    <div class="direction-r">
-      <div class="flag-wrapper">
-        <span class="hexa"></span>
-        <span class="flag">Ph.D. (E.E.) Student @ UMN</span>
-        <span class="time-wrapper"><span class="time">Sept. 2014 - Present</span></span>
-      </div>
-      <div class="desc"> Currently analyzing the SBMCA problem to develop theoretical guarantees. </div>
-    </div>
-  </li>
-
-  <!-- Item 2 -->
-  <li>
-    <div class="direction-l">
-      <div class="flag-wrapper">
-        <span class="hexa"></span>
-        <span class="flag">Science Advisor @ Robins Kaplan</span>
-        <span class="time-wrapper"><span class="time">Mar. 2013 - Jul. 2014</span></span>
-      </div>
-      <div class="desc">Assist Attorneys in strategizing for various technical issues involved in Technology Licensing and Intellectual Property (IP) Litigation. Apply technical expertise to analyze potential IP cases, and evaluate their validity and scope in order to determine their impact on current products and processes in the industry. Perform infringement analysis, code inspection and devise strategies to procure infringing evidence.</div>
-    </div>
-  </li>
-
-   <!-- Item 3 -->
-  <li>
-    <div class="direction-r">
-      <div class="flag-wrapper">
-        <span class="hexa"></span>
-        <span class="flag">M.S. Electrical Engg. @ UMN</span>
-        <span class="time-wrapper"><span class="time">Sept. 2010 - Dec. 2012</span></span>
-      </div>
-      <div class="desc">Explore the applications of Sparse Signal Processing and Compressed Sensing in Image, Video and Audio Signal Processing, with specific focus on the semi-blind source separation problem. <br /> Develop and analyze Audio, Image and Video segmentation applications of semi-blind source separation using sparse approximations and online dictionary learning.</div>
-    </div>
-  </li>
-
-  <!-- Item 4 -->
-  <li>
-    <div class="direction-l">
-      <div class="flag-wrapper">
-        <span class="hexa"></span>
-        <span class="flag">Engg. Intern (R&amp;D) @ Ativa Medical</span>
-        <span class="time-wrapper"><span class="time">Jun-Aug 2012 + Jun-Oct 2013</span></span>
-      </div>
-      <div class="desc">Develop signal and data processing tools for flow-cytometric time-series data analysis to analyze the performance of the instrument being developed and identify potential issues. <br /> Develop a Wavelet based Focus-Stacking Algorithm for improving the quality of microscopic images to lay the foundation of an imaging based blood diagnostics product.</div>
-    </div>
-  </li>
-
-
-
-<!-- Item 5 -->
-<li>
-  <div class="direction-r">
-    <div class="flag-wrapper">
-      <span class="hexa"></span>
-      <span class="flag">B.Tech. Electonics &amp; Telecom. @ UTU, Dehradun</span>
-      <span class="time-wrapper"><span class="time">Sept. 2006 - May 2010</span></span>
-    </div>
-    <div class="desc">  Third Position in the University (Class of 2010) <br />Proficiency Award for Academic Excellence for session 2006-2007</div>
-  </div>
-</li>
-</ul>
-<p><br /></p>
 
   </article>
-
+ 
 </div>
 
       </div>
@@ -188,13 +256,15 @@
     <div class="footer-col-wrapper">
       <div class="footer-col  footer-col-1">
         <ul class="contact-list">
-          <li>Sirisha Rambhatla</li>
-          <li><a href="mailto:rambh002@umn.edu">rambh002@umn.edu</a></li>
+          <li> <span  style = "font-size: 18px; font-family: 'Kaushan Script', cursive;">Sirisha Rambhatla </span></li>
+          <li> Ph.D. E.E. Student</li>
+          <li> University of Minnesota - Twin Cities</li>
+         <!-- <li><span style="font-family: sans-serif;"><a href="mailto:rambh002@umn.edu">rambh002@umn.edu</a></span></li> -->
         </ul>
       </div>
 
       <div class="footer-col  footer-col-2">
-        <ul class="social-media-list">
+      <!--  <ul class="social-media-list">
           
           <li>
             <a href="https://github.com/srambhatla">
@@ -203,13 +273,13 @@
                   <path fill="#828282" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761 c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32 c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472 c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037 C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65 c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261 c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082 c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129 c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/>
                 </svg>
               </span>
-
-              <span class="username">srambhatla</span>
+           
+            <span class="username">srambhatla</span> 
             </a>
           </li>
           
 
-          
+      <!--    
           <li>
             <a href="https://twitter.com/siri_r">
               <span class="icon  icon--twitter">
@@ -222,7 +292,7 @@
               <span class="username">siri_r</span>
             </a>
           </li>
-          
+           
 
           
           <li>
@@ -235,13 +305,54 @@
             </a>
           </li>
           
-        </ul>
+
+          
+          <li>
+          <a href="mailto:rambh002@umn.edu">
+           <span class="fa fa-envelope" aria-hidden="true" style="color: #828282;"></span>
+           rambh002@umn.edu
+            </a>
+          </li>
+          
+        </ul> -->
       </div>
 
       <div class="footer-col  footer-col-3">
-        <p class="text">Hello World!
-</p>
-        <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p>
+         <ul class="rss">
+         <li> Hello World!  
+</li>
+        
+        
+        <li> 
+            <a href="https://github.com/srambhatla">
+              <span>
+                <svg width="40" height="40" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1664 896q0 251-146.5 451.5t-378.5 277.5q-27 5-39.5-7t-12.5-30v-211q0-97-52-142 57-6 102.5-18t94-39 81-66.5 53-105 20.5-150.5q0-121-79-206 37-91-8-204-28-9-81 11t-92 44l-38 24q-93-26-192-26t-192 26q-16-11-42.5-27t-83.5-38.5-86-13.5q-44 113-7 204-79 85-79 206 0 85 20.5 150t52.5 105 80.5 67 94 39 102.5 18q-40 36-49 103-21 10-45 15t-57 5-65.5-21.5-55.5-62.5q-19-32-48.5-52t-49.5-24l-20-3q-21 0-29 4.5t-5 11.5 9 14 13 12l7 5q22 10 43.5 38t31.5 51l10 23q13 38 44 61.5t67 30 69.5 7 55.5-3.5l23-4q0 38 .5 89t.5 54q0 18-13 30t-40 7q-232-77-378.5-277.5t-146.5-451.5q0-209 103-385.5t279.5-279.5 385.5-103 385.5 103 279.5 279.5 103 385.5z" fill ="#828282"/></svg>
+              </span>
+
+             
+            </a>
+
+
+            <a href="https://twitter.com/siri_r">
+                <svg width="40" height="40" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1684 408q-67 98-162 167 1 14 1 42 0 130-38 259.5t-115.5 248.5-184.5 210.5-258 146-323 54.5q-271 0-496-145 35 4 78 4 225 0 401-138-105-2-188-64.5t-114-159.5q33 5 61 5 43 0 85-11-112-23-185.5-111.5t-73.5-205.5v-4q68 38 146 41-66-44-105-115t-39-154q0-88 44-163 121 149 294.5 238.5t371.5 99.5q-8-38-8-74 0-134 94.5-228.5t228.5-94.5q140 0 236 102 109-21 205-78-37 115-142 178 93-10 186-50z" fill ="#828282"/></svg>
+            </a>
+
+             <a href="https://www.linkedin.com/in/sirisharambhatla">
+               <span>
+                <svg width="40" height="40" viewBox="0 -20 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M365 1414h231v-694h-231v694zm246-908q-1-52-36-86t-93-34-94.5 34-36.5 86q0 51 35.5 85.5t92.5 34.5h1q59 0 95-34.5t36-85.5zm585 908h231v-398q0-154-73-233t-193-79q-136 0-209 117h2v-101h-231q3 66 0 694h231v-388q0-38 7-56 15-35 45-59.5t74-24.5q116 0 116 157v371zm468-998v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" fill ="#828282"/></svg>
+              </span>
+
+            
+            </a>
+
+             <a href="mailto:rambh002@umn.edu">
+           <svg width="40" height="40" viewBox="0 20 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z" fill ="#828282"/></svg>
+           
+            </a>
+        </li>
+
+        <!-- <li> subscribe <a href="/feed.xml">via RSS</a></li> -->
+       
       </div>
     </div>
 

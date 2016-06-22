@@ -2,7 +2,7 @@
 title: Sirisha Rambhatla     
 email: rambh002@umn.edu
 description: > # this means to ignore newlines until "baseurl:"
- Hello World!
+ Hello World!  
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://srambhatla.github.io/" # the base hostname & protocol for your site
 twitter_username: siri_r
