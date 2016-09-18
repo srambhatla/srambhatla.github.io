@@ -14,39 +14,18 @@
   <link rel="canonical" href="https://srambhatla.github.io//">
   <link rel="alternate" type="application/rss+xml" title="Sirisha Rambhatla" href="https://srambhatla.github.io//feed.xml" />
   <link href='https://fonts.googleapis.com/css?family=Pacifico|Kaushan+Script' rel='stylesheet' type='text/css'>
-  <!-- js -->
-<script src="js/classie.js"></script>
-<script>
-    function init() {
-        window.addEventListener('scroll', function(e){
-            var distanceY = window.pageYOffset || document.documentElement.scrollTop,
-                shrinkOn = 100,
-                header = document.querySelector(".site-header");
-                
-            if (distanceY > shrinkOn) {            
-                classie.add(header,".site-header.smaller");
-              
 
-            } else {
-                if (classie.has(header,".site-header.smaller")) {
-                    classie.remove(header,".site-header.smaller");
-                }
-            }
-        });
-    }
-    window.onload = init();
-</script>
 </head>
 
 
   <body>
-
+   
     <header class="site-header">
 
   <div class="wrapper">
    
         
-  <a class="site-title" href="/"> <!--<img src="/title_1.png" alt="Sirisha Rambhatla" style="width:250px;height:40px;" class="imgtitle">--> Sirisha Rambhatla</a>
+  <a class="site-title" href="/"> <!--<img src="/title_1.png" alt="Sirisha Rambhatla" style="width:250px;height:40px;" class="imgtitle">--> <img src="/images/avatar.jpg" style="width:60px;height:60px;" class="imgT"/> Sirisha Rambhatla </a>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -59,6 +38,12 @@
 
       <div class="trigger">
         
+         
+          
+            
+            <a class="page-link" href="/blog/">Blog</a>
+           
+          
          
           
             
@@ -81,28 +66,12 @@
           
          
           
-        
-       
-         
-          
-         
-          
-         
-          
          
           
         
        
          
           
-         
-          
-         
-          
-         
-          
-        
-       
          
           
          
@@ -121,28 +90,12 @@
           
          
           
-        
-       
-         
-          
-         
-          
-         
-          
          
           
         
        
          
           
-         
-          
-         
-          
-         
-          
-        
-       
          
           
          
@@ -161,28 +114,12 @@
           
          
           
-        
-       
-         
-          
-         
-          
-         
-          
          
           
         
        
          
           
-         
-          
-         
-          
-         
-          
-        
-       
          
           
          
@@ -201,8 +138,84 @@
           
          
           
+         
+          
         
        
+         
+          
+         
+          
+         
+          
+         
+          
+         
+          
+        
+       
+         
+          
+         
+          
+         
+          
+         
+          
+         
+          
+        
+       
+         
+          
+         
+          
+         
+          
+         
+          
+         
+          
+        
+       
+         
+          
+         
+          
+         
+          
+         
+          
+         
+          
+        
+       
+         
+          
+         
+          
+         
+          
+         
+          
+         
+          
+        
+       
+         
+          
+         
+          
+         
+          
+         
+          
+         
+          
+        
+       
+         
+          
          
           
          
@@ -219,13 +232,14 @@
   </div>
 
 </header>
-<br/><br/><br/>
     <div class="page-content">
       <div class="wrapper">
         <div class="home">
 <a href="/about/">
 <center>
-<img src="colorado_crop.png" alt="Colorado" align="middle" style="width:740px;height:300px;">
+<img src= "/images/black-and-white-nature-sky-field.jpg" alt="sparsity" align="middle" style="width:760px;height:500px;">
+<!--
+<img src="colorado_crop.png" alt="Colorado" align="middle" style="width:740px;height:300px;"> -->
 </center>
 </a>
 </div>
@@ -241,16 +255,18 @@
     <div class="footer-col-wrapper">
       <div class="footer-col  footer-col-1">
         <ul class="contact-list">
-          <li> <span  style = "font-size: 18px; font-family: 'Kaushan Script', cursive;">Sirisha Rambhatla </span></li>
-          <li> Ph.D. E.E. Student</li>
-          <li> University of Minnesota - Twin Cities</li>
+          <li> &#169 <span  style = "font-size: 18px; font-family: 'Kaushan Script', cursive;">Sirisha Rambhatla </span></li>
+          <li> <span  style = "font-size: 14px;font-family: $base-font-family;">Ph.D. E.E. Student </span></li>
+          <li> <span  style = "font-size: 14px;font-family: $base-font-family;">University of Minnesota - Twin Cities </span></li>
+
          <!-- <li><span style="font-family: sans-serif;"><a href="mailto:rambh002@umn.edu">rambh002@umn.edu</a></span></li> -->
         </ul>
       </div>
 
       <div class="footer-col  footer-col-2">
-      <!--  <ul class="social-media-list">
-          
+      <ul> </ul>
+       <!-- <ul class="social-media-list">
+           
           <li>
             <a href="https://github.com/srambhatla">
               <span class="icon  icon--github">
@@ -263,6 +279,7 @@
             </a>
           </li>
           
+      }
 
       <!--    
           <li>
@@ -298,16 +315,15 @@
            rambh002@umn.edu
             </a>
           </li>
-          
+           
         </ul> -->
       </div>
 
       <div class="footer-col  footer-col-3">
          <ul class="rss">
-         <li> Hello World!  
-</li>
-        
-        
+         <!--<li> Hello World!  
+</li> -->
+
         <li> 
             <a href="https://github.com/srambhatla">
               <span>
@@ -336,7 +352,7 @@
             </a>
         </li>
 
-        <!-- <li> subscribe <a href="/feed.xml">via RSS</a></li> -->
+         <li> subscribe <a href="/feed.xml">via RSS</a></li> 
        
       </div>
     </div>

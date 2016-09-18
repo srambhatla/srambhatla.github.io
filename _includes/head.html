@@ -10,26 +10,5 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
   <link href='https://fonts.googleapis.com/css?family=Pacifico|Kaushan+Script' rel='stylesheet' type='text/css'>
-  <!-- js -->
-<script src="js/classie.js"></script>
-<script>
-    function init() {
-        window.addEventListener('scroll', function(e){
-            var distanceY = window.pageYOffset || document.documentElement.scrollTop,
-                shrinkOn = 100,
-                header = document.querySelector(".site-header");
-                
-            if (distanceY > shrinkOn) {            
-                classie.add(header,".site-header.smaller");
-              
 
-            } else {
-                if (classie.has(header,".site-header.smaller")) {
-                    classie.remove(header,".site-header.smaller");
-                }
-            }
-        });
-    }
-    window.onload = init();
-</script>
 </head>

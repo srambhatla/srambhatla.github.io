@@ -51,6 +51,15 @@ ul, ol, dl, figure,
     margin-right: auto;
      
 }
+.imgT {
+    max-width: 100%;
+    vertical-align: top;
+    border-radius: 100px;
+    border: 5px solid $grey-color-light;
+    margin-left: auto;
+    margin-right: auto;
+     
+}
 
 .imgtitle {
   
@@ -97,6 +106,7 @@ li {
 h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
     font-family: 'Kaushan Script', cursive;
+    color: $grey-color-dark;
     
 }
 

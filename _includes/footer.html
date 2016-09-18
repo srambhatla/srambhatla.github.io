@@ -5,16 +5,18 @@
     <div class="footer-col-wrapper">
       <div class="footer-col  footer-col-1">
         <ul class="contact-list">
-          <li> <span  style = "font-size: 18px; font-family: 'Kaushan Script', cursive;">Sirisha Rambhatla </span></li>
-          <li> Ph.D. E.E. Student</li>
-          <li> University of Minnesota - Twin Cities</li>
+          <li> &#169 <span  style = "font-size: 18px; font-family: 'Kaushan Script', cursive;">Sirisha Rambhatla </span></li>
+          <li> <span  style = "font-size: 14px;font-family: $base-font-family;">Ph.D. E.E. Student </span></li>
+          <li> <span  style = "font-size: 14px;font-family: $base-font-family;">University of Minnesota - Twin Cities </span></li>
+
          <!-- <li><span style="font-family: sans-serif;"><a href="mailto:{{ site.email }}">{{ site.email }}</a></span></li> -->
         </ul>
       </div>
 
       <div class="footer-col  footer-col-2">
-      <!--  <ul class="social-media-list">
-          {% if site.github_username %}
+      <ul> </ul>
+       <!-- <ul class="social-media-list">
+           {% if site.github_username %}
           <li>
             <a href="https://github.com/{{ site.github_username }}">
               <span class="icon  icon--github">
@@ -27,6 +29,7 @@
             </a>
           </li>
           {% endif %}
+      }
 
       <!--    {% if site.twitter_username %}
           <li>
@@ -62,15 +65,14 @@
            {{ site.email }}
             </a>
           </li>
-          {% endif %}
+          {% endif %} 
         </ul> -->
       </div>
 
       <div class="footer-col  footer-col-3">
          <ul class="rss">
-         <li> {{site.description}}</li>
-        
-        
+         <!--<li> {{site.description}}</li> -->
+
         <li> 
             <a href="https://github.com/{{ site.github_username }}">
               <span>
@@ -99,7 +101,7 @@
             </a>
         </li>
 
-        <!-- <li> subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></li> -->
+         <li> subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></li> 
        
       </div>
     </div>

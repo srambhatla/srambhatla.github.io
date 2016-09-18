@@ -40,6 +40,14 @@ ul, ol, dl, figure,
   margin-left: auto;
   margin-right: auto; }
 
+.imgT {
+  max-width: 100%;
+  vertical-align: top;
+  border-radius: 100px;
+  border: 5px solid #e8e8e8;
+  margin-left: auto;
+  margin-right: auto; }
+
 .imgtitle {
   vertical-align: middle;
   margin-left: auto;
@@ -69,7 +77,8 @@ li > ol {
  */
 h1, h2, h3, h4, h5, h6 {
   font-weight: 300;
-  font-family: 'Kaushan Script', cursive; }
+  font-family: 'Kaushan Script', cursive;
+  color: #424242; }
 
 /**
  * Links
@@ -129,7 +138,7 @@ pre {
   margin-left: auto;
   padding-right: 30px;
   padding-left: 30px; }
-  @media screen and (max-width: 1200px) {
+  @media screen and (max-width: 2000px) {
     .wrapper {
       max-width: -webkit-calc(800px - (30px));
       max-width: calc(800px - (30px));
@@ -162,7 +171,7 @@ pre {
   border-top: 10px solid #e8e8e8;
   border-bottom: 0px solid #e8e8e8;
   padding-top: 0.5cm;
-  background-color: #fff;
+  background-color: #fdfdfd;
   min-height: 56px;
   text-align: center;
   overflow: hidden;
@@ -171,16 +180,7 @@ pre {
   position: fixed;
   left: 50%;
   margin-left: -50%;
-  z-index: 20;
-  -webkit-transition: height 0.3s;
-  -moz-transition: height 0.3s;
-  -ms-transition: height 0.3s;
-  -o-transition: height 0.3s;
-  transition: height 0.3s;
-  position: fixed; }
-
-.site-header.smaller {
-  width: 10%; }
+  z-index: 20; }
 
 .site-title {
   font-size: 35px;
@@ -197,15 +197,19 @@ pre {
 
 /*
 .site-title {
-    background-color : #fff;
+    background-color : $background-color;
     font-size: 20px;
     line-height: 56px;
     letter-spacing: 2px;
     margin-bottom: 0;
-    font-weight: 200;
+    font-weight: 100;
+
+
+
     &,
     &:hover {
         color: lighten($blue-color, 15%);
+   
     }
 
     &,
@@ -214,7 +218,7 @@ pre {
     }
 }*/
 .site-nav {
-  background-color: #fff;
+  background-color: #fdfdfd;
   padding-top: 0m;
   float: right;
   line-height: 56px;
@@ -267,13 +271,15 @@ pre {
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid #e8e8e8;
-  padding: 30px 0; }
+  border-top: 2px solid #e8e8e8;
+  padding: 30px 0;
+  margin-top: -1em; }
 
 .footer-heading {
   font-size: 18px;
   color: #424242;
-  margin-bottom: 15px; }
+  margin-bottom: 15px;
+  margin-top: -1em; }
 
 .contact-list,
 .social-media-list,
@@ -292,24 +298,27 @@ pre {
   padding-left: 15px; }
 
 .footer-col-1 {
-  width: -webkit-calc(40% - (30px / 2)); }
+  width: -webkit-calc(35% - (30px / 2)); }
 
 .footer-col-2 {
-  width: -webkit-calc(25% - (30px / 2)); }
+  width: -webkit-calc(35% - (30px / 2)); }
 
 .footer-col-3 {
-  width: -webkit-calc(35% - (30px / 2));
+  width: -webkit-calc(30% - (30px / 2));
   text-align: right; }
 
-@media screen and (max-width: 1200px) {
-  .footer-col-1,
+@media screen and (max-width: 2000px) {
+  .footer-col-1 {
+    width: -webkit-calc(35% - (30px / 2));
+    width: calc(35% - (30px / 2)); }
+
   .footer-col-2 {
-    width: -webkit-calc(50% - (30px / 2));
-    width: calc(50% - (30px / 2)); }
+    width: -webkit-calc(35% - (30px / 2));
+    width: calc(35% - (30px / 2)); }
 
   .footer-col-3 {
-    width: -webkit-calc(100% - (30px / 2));
-    width: calc(100% - (30px / 2)); } }
+    width: -webkit-calc(30% - (30px / 2));
+    width: calc(30% - (30px / 2)); } }
 @media screen and (max-width: 400px) {
   .footer-col {
     float: none;
@@ -332,7 +341,8 @@ pre {
 
 .post-list {
   margin-left: 0;
-  list-style: none; }
+  list-style: none;
+  color: #424242; }
   .post-list > li {
     margin-bottom: 30px; }
 
@@ -342,7 +352,8 @@ pre {
 
 .post-link {
   display: block;
-  font-size: 26px; }
+  font-size: 26px;
+  color: #424242; }
 
 /**
  * Posts
@@ -357,7 +368,7 @@ pre {
   color: #424242;
   line-height: 1;
   text-align: center; }
-  @media screen and (max-width: 1200px) {
+  @media screen and (max-width: 2000px) {
     .post-title {
       font-size: 36px; } }
 
@@ -366,19 +377,24 @@ pre {
   text-align: left; }
   .post-content h2 {
     font-size: 32px; }
-    @media screen and (max-width: 1200px) {
+    @media screen and (max-width: 2000px) {
       .post-content h2 {
-        font-size: 28px; } }
+        font-size: 28px;
+        color: #424242; } }
   .post-content h3 {
-    font-size: 26px; }
-    @media screen and (max-width: 1200px) {
+    font-size: 26px;
+    color: #424242; }
+    @media screen and (max-width: 2000px) {
       .post-content h3 {
-        font-size: 22px; } }
+        font-size: 22px;
+        color: #424242; } }
   .post-content h4 {
-    font-size: 20px; }
-    @media screen and (max-width: 1200px) {
+    font-size: 20px;
+    color: #424242; }
+    @media screen and (max-width: 2000px) {
       .post-content h4 {
-        font-size: 18px; } }
+        font-size: 18px;
+        color: #424242; } }
 
 /**
  * Syntax highlighting styles
