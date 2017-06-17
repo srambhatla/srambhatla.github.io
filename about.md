@@ -84,7 +84,7 @@ I am a third year Ph.D. (EE) student working with [Prof. Jarvis Haupt](http://ww
   <div class="front face"> 
   <br/>
   <br/>
-    <img src="/images/ativa.png" style="width:180px;height:90px;"/>
+    <img src="/images/Ativa.png" style="width:180px;height:90px;"/>
   </div>
   <div class="back face center">
    <br/>
