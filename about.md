@@ -5,46 +5,189 @@ date:   2015-10-16 04:36:43
 permalink: /about/
 weight : 1
 ---
-<br/>
 
+
+<br/>
 {%comment%}
+
 <br/>
 {% include image.html url="/images/avatar.jpg"%}
 <br/>
+
 {%endcomment%}
-
-
 <br/>
 
-I am a third year Ph.D. (EE) student working with [Prof. Jarvis Haupt](http://www.ece.umn.edu/~jdhaupt/) in the Department of Electrical and Computer Engineering at the [University of Minnesota-Twin Cities](http://www.ece.umn.edu/).
 
+
+I am a third year Ph.D. (EE) student working with [Prof. Jarvis Haupt](http://www.ece.umn.edu/~jdhaupt/) in the Department of Electrical and Computer Engineering at the [University of Minnesota-Twin Cities](http://www.ece.umn.edu/).
+[<a href="/docs/CV_SirishaRambhatla.pdf">CV</a>]
 
 ## Areas of interest
-machine learning + statistical signal processing.
+<div style="text-align:center;"> machine learning + statistical signal processing.</div>
+
 
 ## Publications
 <div>
 <ul>
-<li> <strong>A Dictionary Based Generalization of Robust PCA. </strong> [<i>preprint coming soon</i>]  <br> S. Rambhatla, X. Li and J. Haupt. <br> <em> 2016 IEEE Global Conference on Signal and Information Processing (Accepted) </em>
+<li> <strong>A Dictionary Based Generalization of Robust PCA with Applications </strong> 
+ <br> S. Rambhatla, X. Li and J. Haupt. [<i> In preparation </i>]  <br>
+ </li>
+ <li> <strong>Provable Matrix Completion Under Sparse Factor Model </strong>
+   <br> S. Rambhatla and J. Haupt. [<i> In preparation </i>] <br>
+ </li>
+ <li> <strong>A Provable Method For Sparse CPD/PARAFAC Tensor Decomposition </strong> 
+   <br> S. Rambhatla, D. Xiao, J. Haupt and N. Sidiropoulos <br> <em> 2017 IEEE Asilomar Conference on Signals, Systems and Computers. </em> [<i> In preparation </i>] <br>
+ </li>
+<li> <strong> Target-Based Hyperspectral Demixing via Generalized Robust PCA. </strong>[<i>preprint coming soon</i>]  <br> S. Rambhatla, X. Li and J. Haupt. <br> <em> 2017 IEEE Asilomar Conference on Signals, Systems and Computers. </em> [<i>submitted</i>] <br>
+[<a href="http://127.0.0.1:4444/grpca/2017/05/11/HyperSpectral.html">Demo</a>]
+
+ </li>
+<li> <a href="http://ieeexplore.ieee.org/document/7906054/">A Dictionary Based Generalization of Robust PCA. </a>   <br> S. Rambhatla, X. Li and J. Haupt. <br> <em> 2016 IEEE Global Conference on Signal and Information Processing </em> <br>
+  &#127942; <em style="color:#AAA;"> National Science Foundation (NSF) Travel Award </em> <br>
+  [<a href="/docs/Dictionary_based_generalization_of_robust_PCA_Sirisha_R.pdf">slides</a>]
  </li>
 
-<li> <strong>Semi-Blind Source Separation via Sparse Representations and Online Dictionary Learning. </strong>[<a href="http://arxiv.org/pdf/1212.0451v2.pdf">pdf</a>] <br> S. Rambhatla and J. Haupt. <br> <em> 2013 IEEE Asilomar Conference on Signals, Systems and Computers.</em>
+<li> <a href="http://ieeexplore.ieee.org/document/6810587/">Semi-Blind Source Separation via Sparse Representations and Online Dictionary Learning. </a><br> S. Rambhatla and J. Haupt. <br> <em> 2013 IEEE Asilomar Conference on Signals, Systems and Computers.</em> <br> [<a href="http://arxiv.org/pdf/1212.0451v2.pdf">pdf</a>] [<a href="/docs/PresentationThesisPDF.pdf">slides</a>][<a href="/sbmca/2013/11/15/SBMCA.html"> Results</a>]
+
  </li>
 </ul>
 </div>
+
+## Experience
+<div>
+<table >
+<tr >
+<td >
+<div id="f1_container" >
+<div id="f1_card" class="shadow">
+  <div class="front face">
+  <br/>
+  <br/>
+  <br/>
+
+    <img src="/images/RKMC.jpg" style="width:200px;height:40px;"/>
+    
+  </div>
+  <div class="back face center">
+   <br/>
+  <br/>
+    <p>Science Advisor</p>
+    <p>Intellectual Property Litigation</p>
+    <p>(2013-2014)</p>
+  </div>
+</div>
+</div>
+</td>
+<td>
+<div id="f1_container" >
+<div id="f1_card" class="shadow">
+  <div class="front face"> 
+  <br/>
+  <br/>
+  
+    <img src="/images/ativa.png" style="width:180px;height:90px;"/>
+  </div>
+  <div class="back face center">
+   <br/>
+  <br/>
+    <p>Engineering Intern (R&D)</p>
+    <p>Summer 2011 & 2012</p>
+    <p> &#127942; SciTechsperience intern</p>
+  </div>
+</div>
+</div>
+</td>
+<td>
+<div id="f1_container">
+<div id="f1_card" class="shadow">
+  <div class="front face">
+    <img src="/images/IITK.png" style="width:200px;height:200px;"/>
+  </div>
+  <div class="back face center">
+   <br/>
+  <br/>
+    <p> Intern</p>
+    <p>Networked Control Systems Lab.</p>
+        <p> Summer 2009</p>
+  </div>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+## Education
+<div>
+<table border="0" >
+<tr >
+<td >
+<div id="f1_container" >
+<div id="f1_card" class="shadow">
+  <div class="front face">
+    <img src="/images/umn.jpeg" style="width:215px;height:215px;"/>
+  </div>
+  <div class="back face center">
+    <br> 
+    <br> 
+    <p> Ph.D. Electrical Engineering <br> (2014 - Present)</p>
+    <p> &#127942; ECE Departmental Fellowship (2014-2015)</p>
+    <p>M.S. Electrical Engineering <br> (2010 - 2012)</p>
+    
+
+      </div>
+  </div>
+</div>
+
+</td>
+<td>
+<div id="f1_container" >
+<div id="f1_card" class="shadow">
+  <div class="front face"> 
+   <img src="/images/coer.png" style="width:215px;height:215px;"/>
+  </div>
+  <div class="back face center">
+    <p> 
+    B.Tech. <br>Electronics and Telecommunication Engineering <br> (2006 - 2010)</p>
+    <p> &#127942; Placed Third in the university</p>
+    <p> &#127942; Proficiency Award for Academic Excellence (2006-07 & 2009-10)</p>
+  </div>
+</div>
+</div>
+</td>
+<td>
+<div id="f1_container">
+<div id="f1_card" class="shadow">
+  <div class="front face">
+    <img src="/images/stanns.png" style="width:215px;height:215px;"/>
+  </div>
+  <div class="back face center">
+   <br/>
+  <br/>
+    <p> Senior School Certificate</p>
+    <p>&#127942; Prabha Kapoor Memorial Award</p>
+  </div>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
 
 ## Technical Service
 <div>
 <ul>
+<li> Reviewer, IEEE  Transactions on Industrial Informatics (T-II) 2017</li>
 <li> Reviewer, IEEE  Transactions on Signal Processing (T-SP) 2016</li>
 <li> Reviewer, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2016</li>
 <li> Reviewer, International Conference on Artificial Intelligence and Statistics (AISTATS) 2016</li>
 <li> Reviewer, IEEE  Transactions on Signal Processing (T-SP) 2015</li>
+<li> Reviewer, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2015</li>
 <li> Reviewer, IEEE  Transactions on Signal Processing (T-SP) 2014</li>
 </ul>
 </div>
-
-
 {% comment %} 
 ## Education and Work Experience
 
