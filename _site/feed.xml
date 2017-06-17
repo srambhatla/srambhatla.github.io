@@ -6,8 +6,8 @@
 </description>
     <link>https://srambhatla.github.io//</link>
     <atom:link href="https://srambhatla.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 16 Jun 2017 23:57:32 -0400</pubDate>
-    <lastBuildDate>Fri, 16 Jun 2017 23:57:32 -0400</lastBuildDate>
+    <pubDate>Sat, 17 Jun 2017 17:07:33 -0400</pubDate>
+    <lastBuildDate>Sat, 17 Jun 2017 17:07:33 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -40,7 +40,7 @@
         <description>&lt;p&gt;This tutorial is an overview of my thesis work carried out at the Department of Electrical and Computer Engineering, University of Minnesota-Twin Cities. My thesis work examines a semi-blind source separation problem which finds applications in audio, image, and video processing. The primary aim of this tutorial is to develop an overall intuitive understanding of my work. Suitable examples from our day-to-day lives are employed to motivate and develop the algorithmic framework.&lt;/p&gt;
 
 &lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
-&lt;p&gt;If you have ever been to a really noisy party or a large gathering, you must have noticed that you can turn your attention to a specific person and &lt;i&gt;listen&lt;/i&gt; to him/her in spite of all the other sounds. It is interesting how you can recognize and keep track of which voice(s) to follow. This process of selective hearing, in signal processing literature, is referred to as the &lt;i&gt;cocktail-party&lt;/i&gt; problem or the source separation problem. This problem has been well studied in literature and is of great interest in the signal processing community. However, most of the previous work in this area deals with separating the sources based on either of two simplifying assumptions [ICA],&lt;/p&gt;
+&lt;p&gt;If you have ever been to a really noisy party or a large gathering, you must have noticed that you can turn your attention to a specific person and &lt;i&gt;listen&lt;/i&gt; to him/her in spite of all the other sounds. It is interesting how you can recognize and keep track of which voice(s) to follow. This process of selective hearing, in signal processing literature, is referred to as the &lt;i&gt;cocktail-party&lt;/i&gt; problem or the source separation problem. This problem has been well studied in literature and is of great interest in the signal processing community. However, most of the previous work in this area deals with separating the sources based on either of two simplifying assumptions &lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S0893608000000265&quot;&gt;ICA&lt;/a&gt;,&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;The sources (speakers) which are inherently &lt;i&gt;independent&lt;/i&gt;, meaning they sound very differently to begin with.&lt;/li&gt;
@@ -73,7 +73,7 @@
 
 &lt;p&gt;There is yet another term to be tackled before we describe Dictionary Learning, this is &lt;i&gt;Sparsity&lt;/i&gt;. When we say that a signal has a &lt;i&gt;Sparse&lt;/i&gt; representation in a dictionary, we mean that that signal can be formed by using a few elements of a specific Dictionary.  It is like saying that you have a set of spices and you use a certain (small) number of spices for a specific dish. These individual spices will form the &lt;i&gt;sparse&lt;/i&gt; basis for all spice preparations you will use in you meals. All these individual spices hence form the dictionary of spices.&lt;/p&gt;
 
-&lt;p&gt;Now, Dictionary Learning is a process by which we aim to learn these distinguishing features of a class from a dataset (known as &lt;i&gt;training data&lt;/i&gt;). This technique essentially learns the &lt;i&gt;sparsifying&lt;/i&gt; features of a dataset. So why are we interested in sparsifying dictionaries (dictionaries which yield sparse representations)? Sparsifying dictionaries help us to represent the signals succinctly, such compact representations can help us define a particular class efficiently. When such dictionaries are learned on the go, without the use of prior training, it is known as &lt;i&gt;Online Dictionary Learning&lt;/i&gt; &lt;a href=&quot;http://jekyllrb.com&quot;&gt;DL10&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Now, Dictionary Learning is a process by which we aim to learn these distinguishing features of a class from a dataset (known as &lt;i&gt;training data&lt;/i&gt;). This technique essentially learns the &lt;i&gt;sparsifying&lt;/i&gt; features of a dataset. So why are we interested in sparsifying dictionaries (dictionaries which yield sparse representations)? Sparsifying dictionaries help us to represent the signals succinctly, such compact representations can help us define a particular class efficiently. When such dictionaries are learned on the go, without the use of prior training, it is known as &lt;i&gt;Online Dictionary Learning&lt;/i&gt; [&lt;a href=&quot;http://www.jmlr.org/papers/v11/mairal10a.html&quot;&gt;Mairal 2010&lt;/a&gt;].&lt;/p&gt;
 
 &lt;h1 id=&quot;semi-blind-morphological-component-analysis&quot;&gt;Semi-Blind Morphological Component Analysis&lt;/h1&gt;
 &lt;div&gt;&lt;img src=&quot;/docs/sbmca_asilomar_data/Model_sims.png&quot; style=&quot;width:550px;display:block; margin: 0px auto;margin-top: -5px;margin-bottom: 5px;&quot; /&gt;&lt;/div&gt;
@@ -85,7 +85,7 @@
 
 &lt;p&gt;Imagine that you have individual dictionaries containing the defining features of each instrument being played at the orchestra except for the Cello. Our essential aim here is to find the part of the musical piece which cannot be represented in these &lt;i&gt;a priori&lt;/i&gt; known dictionaries and learn a new dictionary of features describing this unrepresented part (or instrument). This new dictionary (for our example) hence describes the Cello.&lt;/p&gt;
 
-&lt;p&gt;This forms the algorithmic basis of the technique developed to solve the single channel semi-blind source separation problem. More formally, in each iteration of the algorithm we aim to find the representation of a signal in a set of known dictionaries and in the next step learn the unknown dictionary. After a few iterations, we have the desired source separation via their representations in these distinct dictionaries. We call this algorithmic framework as the Semi-Blind Morphological Component Analysis (SBMCA) as it is similar to the Morphological Component Analysis (MCA) [StarckED05], [MicroLoc10], [BobinSFMD07] technique for which all dictionaries are known.&lt;/p&gt;
+&lt;p&gt;This forms the algorithmic basis of the technique developed to solve the single channel semi-blind source separation problem. More formally, in each iteration of the algorithm we aim to find the representation of a signal in a set of known dictionaries and in the next step learn the unknown dictionary. After a few iterations, we have the desired source separation via their representations in these distinct dictionaries. We call this algorithmic framework as the Semi-Blind Morphological Component Analysis (SBMCA) as it is similar to the Morphological Component Analysis (MCA) [&lt;a href=&quot;http://ieeexplore.ieee.org/abstract/document/1510691/&quot;&gt;Starck 2005&lt;/a&gt;], [&lt;a href=&quot;https://arxiv.org/abs/1004.3006&quot;&gt;Donoho 2010&lt;/a&gt;], [&lt;a href=&quot;http://ieeexplore.ieee.org/abstract/document/4337756/&quot;&gt;Bobin 2007&lt;/a&gt;] technique for which all dictionaries are known.&lt;/p&gt;
 
 &lt;h2 id=&quot;back-to-the-audio-forensics-application&quot;&gt;Back to the Audio Forensics Application&lt;/h2&gt;
 &lt;p&gt;For the Audio Forensics application described in Section 2, we can obtain the information about the delivering and non-delivering current states by triggering the device in a laboratory setting. We form the known dictionaries by using this information about the state signals of the device. In addition, we use the algorithm described above to separate the state signal from the unknown background signal. Subsequently, the state signal can be used to identify the time instants at which the current was being delivered by the electro-shock law enforcement device.&lt;/p&gt;
@@ -148,10 +148,7 @@
 &lt;/table&gt;
 
 &lt;h1 id=&quot;conclusions&quot;&gt;Conclusions&lt;/h1&gt;
-&lt;p&gt;We motivate and propose a technique to solve the single channel semi-blind source separation problem via Semi-Blind Morphological Component Analysis. We base our discussion on intuition and motivating examples from day to day life. For a deeper analysis, algorithmic details and the results please see [SBMCA12].&lt;/p&gt;
-
-&lt;p&gt;\cite{StarckED05, MicroLoc10, BobinSFMD07, SBMCA12}
-[ICA]:		   https://www.msi.umn.edu&lt;/p&gt;
+&lt;p&gt;We motivate and propose a technique to solve the single channel semi-blind source separation problem via Semi-Blind Morphological Component Analysis. We base our discussion on intuition and motivating examples from day to day life. For a deeper analysis, algorithmic details and the results please see [&lt;a href=&quot;http://ieeexplore.ieee.org/document/6810587/&quot;&gt;Rambhatla 2013&lt;/a&gt;].&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;
 &lt;script src=&quot;//platform.linkedin.com/in.js&quot; type=&quot;text/javascript&quot;&gt; lang: en_US&lt;/script&gt;

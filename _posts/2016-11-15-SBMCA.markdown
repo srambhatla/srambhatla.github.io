@@ -40,7 +40,7 @@ The word dictionary paints a picture of a resource which contains the meanings o
 
 There is yet another term to be tackled before we describe Dictionary Learning, this is <i>Sparsity</i>. When we say that a signal has a <i>Sparse</i> representation in a dictionary, we mean that that signal can be formed by using a few elements of a specific Dictionary.  It is like saying that you have a set of spices and you use a certain (small) number of spices for a specific dish. These individual spices will form the <i>sparse</i> basis for all spice preparations you will use in you meals. All these individual spices hence form the dictionary of spices. 
 
-Now, Dictionary Learning is a process by which we aim to learn these distinguishing features of a class from a dataset (known as <i>training data</i>). This technique essentially learns the <i>sparsifying</i> features of a dataset. So why are we interested in sparsifying dictionaries (dictionaries which yield sparse representations)? Sparsifying dictionaries help us to represent the signals succinctly, such compact representations can help us define a particular class efficiently. When such dictionaries are learned on the go, without the use of prior training, it is known as <i>Online Dictionary Learning</i> [DL10]. 
+Now, Dictionary Learning is a process by which we aim to learn these distinguishing features of a class from a dataset (known as <i>training data</i>). This technique essentially learns the <i>sparsifying</i> features of a dataset. So why are we interested in sparsifying dictionaries (dictionaries which yield sparse representations)? Sparsifying dictionaries help us to represent the signals succinctly, such compact representations can help us define a particular class efficiently. When such dictionaries are learned on the go, without the use of prior training, it is known as <i>Online Dictionary Learning</i> [[Mairal 2010]]. 
 
 
 # Semi-Blind Morphological Component Analysis
@@ -53,7 +53,7 @@ We describe the algorithmic motivation to solve the single channel semi-blind so
 
 Imagine that you have individual dictionaries containing the defining features of each instrument being played at the orchestra except for the Cello. Our essential aim here is to find the part of the musical piece which cannot be represented in these <i>a priori</i> known dictionaries and learn a new dictionary of features describing this unrepresented part (or instrument). This new dictionary (for our example) hence describes the Cello. 
 
-This forms the algorithmic basis of the technique developed to solve the single channel semi-blind source separation problem. More formally, in each iteration of the algorithm we aim to find the representation of a signal in a set of known dictionaries and in the next step learn the unknown dictionary. After a few iterations, we have the desired source separation via their representations in these distinct dictionaries. We call this algorithmic framework as the Semi-Blind Morphological Component Analysis (SBMCA) as it is similar to the Morphological Component Analysis (MCA) [StarckED05], [MicroLoc10], [BobinSFMD07] technique for which all dictionaries are known.
+This forms the algorithmic basis of the technique developed to solve the single channel semi-blind source separation problem. More formally, in each iteration of the algorithm we aim to find the representation of a signal in a set of known dictionaries and in the next step learn the unknown dictionary. After a few iterations, we have the desired source separation via their representations in these distinct dictionaries. We call this algorithmic framework as the Semi-Blind Morphological Component Analysis (SBMCA) as it is similar to the Morphological Component Analysis (MCA) [[Starck 2005]], [[Donoho 2010]], [[Bobin 2007]] technique for which all dictionaries are known.
 
 ## Back to the Audio Forensics Application
 For the Audio Forensics application described in Section 2, we can obtain the information about the delivering and non-delivering current states by triggering the device in a laboratory setting. We form the known dictionaries by using this information about the state signals of the device. In addition, we use the algorithm described above to separate the state signal from the unknown background signal. Subsequently, the state signal can be used to identify the time instants at which the current was being delivered by the electro-shock law enforcement device. 
@@ -123,15 +123,15 @@ For the Audio Forensics application described in Section 2, we can obtain the in
 
 
 # Conclusions
-We motivate and propose a technique to solve the single channel semi-blind source separation problem via Semi-Blind Morphological Component Analysis. We base our discussion on intuition and motivating examples from day to day life. For a deeper analysis, algorithmic details and the results please see [SBMCA12].
+We motivate and propose a technique to solve the single channel semi-blind source separation problem via Semi-Blind Morphological Component Analysis. We base our discussion on intuition and motivating examples from day to day life. For a deeper analysis, algorithmic details and the results please see [[Rambhatla 2013]].
 
-\cite{StarckED05, MicroLoc10, BobinSFMD07, SBMCA12}
-[ICA]:		   https://www.msi.umn.edu
-
+[ICA]:		     http://www.sciencedirect.com/science/article/pii/S0893608000000265
 [UMTC]:        https://twin-cities.umn.edu
-[DL10]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+[Mairal 2010]: http://www.jmlr.org/papers/v11/mairal10a.html
+[Starck 2005]: http://ieeexplore.ieee.org/abstract/document/1510691/
+[Donoho 2010]: https://arxiv.org/abs/1004.3006
+[Bobin 2007]: http://ieeexplore.ieee.org/abstract/document/4337756/
+[Rambhatla 2013]: http://ieeexplore.ieee.org/document/6810587/
 
 <br/>
 <script  src="//platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
