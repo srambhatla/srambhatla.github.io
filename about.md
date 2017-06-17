@@ -84,7 +84,6 @@ I am a third year Ph.D. (EE) student working with [Prof. Jarvis Haupt](http://ww
   <div class="front face"> 
   <br/>
   <br/>
-  
     <img src="/images/ativa.png" style="width:180px;height:90px;"/>
   </div>
   <div class="back face center">
@@ -92,7 +91,7 @@ I am a third year Ph.D. (EE) student working with [Prof. Jarvis Haupt](http://ww
   <br/>
     <p>Engineering Intern (R&D)</p>
     <p>Summer 2011 & 2012</p>
-    <p> &#127942; SciTechsperience intern</p>
+    <p> &#127942; SciTechsperience Intern</p>
   </div>
 </div>
 </div>
