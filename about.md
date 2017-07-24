@@ -39,7 +39,7 @@ I am a third year Ph.D. (EE) student working with [Prof. Jarvis Haupt](http://ww
    <br> S. Rambhatla, D. Xiao, J. Haupt and N. Sidiropoulos <br> <em> 2017 IEEE Asilomar Conference on Signals, Systems and Computers. </em> [<i> Accepted  </i>] <br>
  </li>
 <li> <strong> Target-Based Hyperspectral Demixing via Generalized Robust PCA. </strong>[<i>preprint coming soon</i>]  <br> S. Rambhatla, X. Li and J. Haupt. <br> <em> 2017 IEEE Asilomar Conference on Signals, Systems and Computers. </em> [<i>accepted</i>] <br>
-  &#127942; <em style="color:#AAA;"> Finalist, Student Best Paper Award (TBD at the conference)</em> <br>
+  &#127942; <em style="color:#AAA;"> Currently Shortlisted for the Student Best Paper Award </em> <br>
 [<a href="http://127.0.0.1:4444/grpca/2017/05/11/HyperSpectral.html">Demo</a>]
 
  </li>
