@@ -35,11 +35,11 @@ I am a third year Ph.D. (EE) student working with [Prof. Jarvis Haupt](http://ww
  <li> <a href="http://srambhatla.github.io/about/">Provable Matrix Completion Under Sparse Factor Model </a>
    <br> S. Rambhatla and J. Haupt. [<i> In preparation </i>] <br>
  </li>
- <li> <a href="http://srambhatla.github.io/about/">A Provable Method For Sparse CPD/PARAFAC Tensor Decomposition </a> 
-   <br> S. Rambhatla, D. Xiao, J. Haupt and N. Sidiropoulos <br> <em> 2017 IEEE Asilomar Conference on Signals, Systems and Computers. </em> [<i> Accepted  </i>] <br>
+ <li> <a href="http://srambhatla.github.io/about/">A Provable Method For Sparse CPD/PARAFAC Tensor Decomposition </a> [<i>preprint coming soon</i>] 
+   <br> S. Rambhatla, D. Xiao, J. Haupt and N. Sidiropoulos <br> <em> 2017 IEEE Asilomar Conference on Signals, Systems and Computers. </em> <br>
  </li>
-<li> <a href="http://srambhatla.github.io/about/">Target-Based Hyperspectral Demixing via Generalized Robust PCA. </a>[<i>preprint coming soon</i>]  <br> S. Rambhatla, X. Li and J. Haupt. <br> <em> 2017 IEEE Asilomar Conference on Signals, Systems and Computers. </em> [<i>Accepted</i>] <br>
-  &#127942; <em style="color:#AAA;"> Currently Shortlisted for the Student Best Paper Award </em> <br>
+<li> <a href="http://srambhatla.github.io/about/">Target-Based Hyperspectral Demixing via Generalized Robust PCA. </a>[<i>preprint coming soon</i>]  <br> S. Rambhatla, X. Li and J. Haupt. <br> <em> 2017 IEEE Asilomar Conference on Signals, Systems and Computers. </em> <br>
+  &#127942; <em style="color:#AAA;"> Finalist, Student Best Paper Award </em> <br>
 [<a href="http://127.0.0.1:4444/grpca/2017/05/11/HyperSpectral.html">Demo</a>]
 
  </li>
@@ -53,7 +53,12 @@ I am a third year Ph.D. (EE) student working with [Prof. Jarvis Haupt](http://ww
  </li>
 </ul>
 </div>
-
+## Talks 
+<div>
+<ul> 
+<li> "Provably Recovering Patterns from Data: Matrix to Tensors", <em>Yahoo!</em>, November 2017</li>
+</ul>
+</div>
 ## Experience
 <div>
 <table >
@@ -178,7 +183,9 @@ I am a third year Ph.D. (EE) student working with [Prof. Jarvis Haupt](http://ww
 
 ## Technical Service
 <div>
-<ul>
+<ul> 
+<li> Reviewer, Signal Processing Letters 2017</li>
+<li> Reviewer, SIAM Journal of Imaging Sciences 2017</li>
 <li> Reviewer, IEEE  Transactions on Industrial Informatics (T-II) 2017</li>
 <li> Reviewer, IEEE  Transactions on Signal Processing (T-SP) 2016</li>
 <li> Reviewer, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2016</li>
