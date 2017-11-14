@@ -56,7 +56,7 @@ I am a fourth year Ph.D. (EE) student working with [Prof. Jarvis Haupt](http://w
 ## Talks 
 <div>
 <ul> 
-<li> "Provably Recovering Patterns from Data: Matrix to Tensors", <em>Yahoo!</em>, November 2017</li>
+<li> "Provably Recovering Patterns from Data: Matrix to Tensors", <em>Yahoo! Research</em>, November 2017</li>
 </ul>
 </div>
 ## Experience
