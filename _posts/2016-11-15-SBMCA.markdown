@@ -5,7 +5,7 @@ date:   2016-11-15 21:36:43
 categories: SBMCA
 ---
 
-This tutorial is an overview of my thesis work carried out at the Department of Electrical and Computer Engineering, University of Minnesota-Twin Cities. My thesis work examines a semi-blind source separation problem which finds applications in audio, image, and video processing. The primary aim of this tutorial is to develop an overall intuitive understanding of my work. Suitable examples from our day-to-day lives are employed to motivate and develop the algorithmic framework. 
+This post is an overview of my thesis work carried out at the Department of Electrical and Computer Engineering, University of Minnesota-Twin Cities. My thesis work examines a semi-blind source separation problem which finds applications in audio, image, and video processing. The primary aim of this tutorial is to develop an overall intuitive understanding of my work. Suitable examples from our day-to-day lives are employed to motivate and develop the algorithmic framework. 
 
 # Introduction
 If you have ever been to a really noisy party or a large gathering, you must have noticed that you can turn your attention to a specific person and <i>listen</i> to him/her in spite of all the other sounds. It is interesting how you can recognize and keep track of which voice(s) to follow. This process of selective hearing, in signal processing literature, is referred to as the <i>cocktail-party</i> problem or the source separation problem. This problem has been well studied in literature and is of great interest in the signal processing community. However, most of the previous work in this area deals with separating the sources based on either of two simplifying assumptions [[ICA]],
