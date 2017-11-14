@@ -19,7 +19,7 @@ weight : 1
 
 
 
-I am a third year Ph.D. (EE) student working with [Prof. Jarvis Haupt](http://www.ece.umn.edu/~jdhaupt/) in the Department of Electrical and Computer Engineering at the [University of Minnesota-Twin Cities](http://www.ece.umn.edu/).
+I am a fourth year Ph.D. (EE) student working with [Prof. Jarvis Haupt](http://www.ece.umn.edu/~jdhaupt/) in the Department of Electrical and Computer Engineering at the [University of Minnesota-Twin Cities](http://www.ece.umn.edu/).
 [<a href="/docs/CV_SirishaRambhatla.pdf">CV</a>]
 
 ## Areas of interest
@@ -35,7 +35,7 @@ I am a third year Ph.D. (EE) student working with [Prof. Jarvis Haupt](http://ww
  <li> <a href="http://srambhatla.github.io/about/">Provable Matrix Completion Under Sparse Factor Model </a>
    <br> S. Rambhatla and J. Haupt. [<i> In preparation </i>] <br>
  </li>
- <li> <a href="http://srambhatla.github.io/about/">A Provable Method For Sparse CPD/PARAFAC Tensor Decomposition </a> [<i>preprint coming soon</i>] 
+ <li> <a href="http://srambhatla.github.io/about/">Exact Recovery of Multiple Sparse CPD/PARAFAC Factors of a Tensor via Dictionary Learning </a> [<i>preprint coming soon</i>] 
    <br> S. Rambhatla, D. Xiao, J. Haupt and N. Sidiropoulos <br> <em> 2017 IEEE Asilomar Conference on Signals, Systems and Computers. </em> <br>
  </li>
 <li> <a href="http://srambhatla.github.io/about/">Target-Based Hyperspectral Demixing via Generalized Robust PCA. </a>[<i>preprint coming soon</i>]  <br> S. Rambhatla, X. Li and J. Haupt. <br> <em> 2017 IEEE Asilomar Conference on Signals, Systems and Computers. </em> <br>
@@ -184,8 +184,8 @@ I am a third year Ph.D. (EE) student working with [Prof. Jarvis Haupt](http://ww
 ## Technical Service
 <div>
 <ul> 
-<li> Reviewer, Signal Processing Letters 2017</li>
-<li> Reviewer, SIAM Journal of Imaging Sciences 2017</li>
+<li> Reviewer, Signal Processing Letters, 2017</li>
+<li> Reviewer, SIAM Journal of Imaging Sciences, 2017</li>
 <li> Reviewer, IEEE  Transactions on Industrial Informatics (T-II) 2017</li>
 <li> Reviewer, IEEE  Transactions on Signal Processing (T-SP) 2016</li>
 <li> Reviewer, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2016</li>
