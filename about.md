@@ -19,7 +19,7 @@ weight : 1
 
 
 
-I am a fourth year Ph.D. (EE) student working with [Prof. Jarvis Haupt](http://www.ece.umn.edu/~jdhaupt/) in the Department of Electrical and Computer Engineering at the [University of Minnesota-Twin Cities](http://www.ece.umn.edu/).
+I am a fourth year Ph.D. (EE) student working with [Prof. Jarvis Haupt](https://www.ece.umn.edu/~jdhaupt/) in the Department of Electrical and Computer Engineering at the [University of Minnesota-Twin Cities](https://www.ece.umn.edu/).
 [<a href="/docs/CV_SirishaRambhatla.pdf">CV</a>]
 
 ## Areas of interest
