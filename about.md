@@ -23,7 +23,8 @@ I am a fourth year Ph.D. (EE) student working with [Prof. Jarvis Haupt](https://
 [<a href="/docs/Resume_Sirisha_Rambhatla.pdf">Resume</a>][<a href="/docs/CV_SirishaRambhatla.pdf">CV</a>]
 
 ## Areas of interest
-<div style="text-align:center;"> machine learning + statistical signal processing.</div>
+<div style="text-align:center;"> machine learning + Optimization + Statistical Signal Processing +Probability and Statistics +
+Algorithms + Tensor Analysis + Natural Language Processing + Deep Learning + Topic Modeling + Text Mining</div>
 
 
 ## Publications
