@@ -59,8 +59,6 @@ I am a fourth year Ph.D. (EE) student working with [Prof. Jarvis Haupt](https://
  </li>
 </ul>
 </div>
-”
-— 
 ## Talks 
 <div>
 <ul> 
