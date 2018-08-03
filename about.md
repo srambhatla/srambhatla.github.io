@@ -20,24 +20,23 @@ weight : 1
 
 
 I am a fourth year Ph.D. (EE) student working with [Prof. Jarvis Haupt](https://www.ece.umn.edu/~jdhaupt/) in the Department of Electrical and Computer Engineering at the [University of Minnesota-Twin Cities](https://www.ece.umn.edu/).
-[<a href="/docs/Resume_Sirisha_Rambhatla.pdf">Resume</a>][<a href="/docs/CV_Sirisha_Rambhatla.pdf">CV</a>]
+[<a href="/docs/Resume_Sirisha_Rambhatla.pdf">Resume</a>]
 
 ## Areas of interest
-<div style="text-align:center;"> Machine learning + Optimization + Statistical Signal Processing +Probability and Statistics +
-Algorithms + Tensor Analysis + Natural Language Processing + Deep Learning + Topic Modeling + Text Mining</div>
-
+<div style="text-align:center;"> | Statistical Modeling | Machine Learning | Convex & Non-Convex Optimization |</div>
 
 ## Publications
 <div>
 <ul>
-<li> <a href="http://sirisharambhatla.com/about/">A Dictionary Based Generalization of Robust PCA with Applications </a> 
+<li> <a href="http://sirisharambhatla.com/about/">A Dictionary Based Generalization of Robust PCA: Theory </a> 
+ <br> S. Rambhatla, X. Li and J. Haupt. [<i> Journal in preparation </i>]  <br>
+ </li>
+ <li> <a href="http://sirisharambhatla.com/about/">A Dictionary Based Generalization of Robust PCA: Applications to Hyperspectral Imaging </a> 
  <br> S. Rambhatla, X. Li and J. Haupt. [<i> In preparation </i>]  <br>
  </li>
- <li> <a href="http://sirisharambhatla.com/about/">Provable Matrix Completion Under Sparse Factor Model </a>
-   <br> S. Rambhatla and J. Haupt. [<i> In preparation </i>] <br>
- </li>
- <li> <a href="http://sirisharambhatla.com/about/">Exact Recovery of Multiple Sparse CPD/PARAFAC Factors of a Tensor via Dictionary Learning </a> [<i>preprint coming soon</i>] 
-   <br> S. Rambhatla, D. Xiao, J. Haupt and N. Sidiropoulos <br> <em> 2017 IEEE Asilomar Conference on Signals, Systems and Computers. </em> <br>
+<li> <a href="http://sirisharambhatla.com/about/">Lidar-based Topological Mapping and Localization via Tensor Decompositions
+ </a> 
+ <br> S. Rambhatla, N. D. Sidiropoulos, and J. Haupt. [<i> submitted </i>]  <br>
  </li>
 <li> <a href="http://sirisharambhatla.com/about/">Target-Based Hyperspectral Demixing via Generalized Robust PCA. </a>[<i>preprint coming soon</i>]  <br> S. Rambhatla, X. Li and J. Haupt. <br> <em> 2017 IEEE Asilomar Conference on Signals, Systems and Computers. </em> <br>
   &#127942; <em style="color:#AAA;"> Finalist, Student Best Paper Award </em> <br>
@@ -188,12 +187,9 @@ Algorithms + Tensor Analysis + Natural Language Processing + Deep Learning + Top
 <li> Reviewer, Signal Processing Letters, 2017</li>
 <li> Reviewer, SIAM Journal of Imaging Sciences, 2017</li>
 <li> Reviewer, IEEE  Transactions on Industrial Informatics (T-II) 2017</li>
-<li> Reviewer, IEEE  Transactions on Signal Processing (T-SP) 2016</li>
-<li> Reviewer, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2016</li>
+<li> Reviewer, IEEE  Transactions on Signal Processing (T-SP) 2014, 2015, 2016, and 2018</li>
+<li> Reviewer, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2015, 2016</li>
 <li> Reviewer, International Conference on Artificial Intelligence and Statistics (AISTATS) 2016</li>
-<li> Reviewer, IEEE  Transactions on Signal Processing (T-SP) 2015</li>
-<li> Reviewer, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2015</li>
-<li> Reviewer, IEEE  Transactions on Signal Processing (T-SP) 2014</li>
 </ul>
 </div>
 {% comment %} 
