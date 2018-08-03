@@ -44,7 +44,6 @@ I am a fourth year Ph.D. (EE) student working with [Prof. Jarvis Haupt](https://
 <li> <a href="https://ieeexplore.ieee.org/document/8335372/">Target-Based Hyperspectral Demixing via Generalized Robust PCA. </a> 
  <br> S. Rambhatla, X. Li and J. Haupt. [<a href="http://sirisharambhatla.com/grpca/2017/05/11/HyperSpectral.html">Demo</a>]<br> <em> 2017 IEEE Asilomar Conference on Signals, Systems and Computers. </em> <br>
   &#127942; <em style="color:#AAA;"> Finalist, Student Best Paper Award </em> <br>
-   <br>
  </li>
 <li> <a href="http://ieeexplore.ieee.org/document/7906054/">A Dictionary Based Generalization of Robust PCA. </a>
    <br> S. Rambhatla, X. Li and J. Haupt. [<a href="/docs/Dictionary_based_generalization_of_robust_PCA_Sirisha_R.pdf">slides</a>]<br> <em> 2016 IEEE Global Conference on Signal and Information Processing </em> <br>
@@ -59,10 +58,16 @@ I am a fourth year Ph.D. (EE) student working with [Prof. Jarvis Haupt](https://
 ## Talks 
 <div>
 <ul> 
-<li> "Target-Based Hyper Spectral Demixing via Generalized Robust PCA.", <em>ECE Seminar on Signal Processing, Information Theory, and Communication, University of Minnesota-Twin Cities, Minneapolis, MN.</em>, March, 2018</li>
-<li> "Provably Recovering Patterns from Data: Matrix to Tensors", <em>Yahoo! Research, San Jose, CA</em>, November 2017</li>
-<li> "Dictionary based Generalization of Robust PCA", <em>GlobalSIP, Washington D.C. </em>, December 2016</li>
-<li> "Semi-Blind Source Separation via Sparse Approximation & Online Dictionary Learning.", <em>Asilomar Conference on Signals, Systems & Computers, Pacific Grove, CA.</em>, November 2013</li>
+<li> "Target-Based Hyper Spectral Demixing via Generalized Robust PCA.", <br>
+  <em>ECE Seminar on Signal Processing, Information Theory, and Communications </em> <br>
+   University of Minnesota-Twin Cities, Minneapolis, MN., March, 2018
+</li>
+<li> "Provably Recovering Patterns from Data: Matrix to Tensors",<br>
+  <em>Yahoo! Research, San Jose, CA</em>, November 2017</li>
+<li> "Dictionary based Generalization of Robust PCA", <br>
+  <em>GlobalSIP, Washington D.C. </em> December 2016</li>
+<li> "Semi-Blind Source Separation via Sparse Approximation & Online Dictionary Learning.", <br>
+  <em>Asilomar Conference on Signals, Systems & Computers, Pacific Grove, CA.</em>, November 2013</li>
 </ul>
 </div>
 ## Experience
