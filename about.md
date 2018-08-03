@@ -29,15 +29,15 @@ I am a fourth year Ph.D. (EE) student working with [Prof. Jarvis Haupt](https://
 <div>
 <ul>
 <li> <a href="http://sirisharambhatla.com/about/">A Dictionary Based Generalization of Robust PCA: Theory </a> 
- <br> S. Rambhatla, X. Li and J. Haupt. [<i> Journal in preparation </i>]  <br>
+ <br> S. Rambhatla, X. Li and J. Haupt. [<i> journal in preparation </i>]  <br>
  </li>
  <li> <a href="http://sirisharambhatla.com/about/">A Dictionary Based Generalization of Robust PCA: Applications to Hyperspectral Imaging </a> 
- <br> S. Rambhatla, X. Li and J. Haupt. [<i> Journal in preparation </i>]  <br>
+ <br> S. Rambhatla, X. Li and J. Haupt. [<i> journal in preparation </i>]  <br>
  </li>
 <li> <a href="http://sirisharambhatla.com/about/">TensorMap: Lidar-based Topological Mapping and Localization via Tensor Decompositions</a> 
  <br> S. Rambhatla, N. D. Sidiropoulos, and J. Haupt. [<i> submitted </i>]  <br>
  </li>
-<li> <a href="http://sirisharambhatla.com/about/">Robust PCA via Dictionary Based Outlier Pursuit. </a>  <br> X. Li, J. Ren, S. Rambhatla, Y. Xu, and J. Haupt <br> <em> 2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) </em> [<i> preprint coming soon </i>]
+<li> <a href="http://sirisharambhatla.com/about/">Robust PCA via Dictionary Based Outlier Pursuit. </a>  <br> X. Li, J. Ren, S. Rambhatla, Y. Xu, and J. Haupt <br> <em> 2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) </em> <br> [<i> preprint coming soon </i>]
  </li>
 <li> <a href="https://ieeexplore.ieee.org/document/8335372/">Target-Based Hyperspectral Demixing via Generalized Robust PCA. </a>  <br> S. Rambhatla, X. Li and J. Haupt. <br> <em> 2017 IEEE Asilomar Conference on Signals, Systems and Computers. </em> <br>
   &#127942; <em style="color:#AAA;"> Finalist, Student Best Paper Award </em> <br>
