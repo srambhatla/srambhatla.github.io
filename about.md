@@ -30,32 +30,29 @@ I am a fourth year Ph.D. (EE) student working with [Prof. Jarvis Haupt](https://
 <ul>
 <li> <a href="http://sirisharambhatla.com/about/">A Dictionary Based Generalization of Robust PCA: Theory </a> 
  <br> S. Rambhatla, X. Li and J. Haupt. 
- [<i> journal in preparation </i>] <br>
+ [<i> Journal in preparation </i>] <br>
  </li>
  <li> <a href="http://sirisharambhatla.com/about/">A Dictionary Based Generalization of Robust PCA: Applications to Hyperspectral Imaging </a> 
  <br> S. Rambhatla, X. Li and J. Haupt.  
- [<i> journal in preparation </i>] <br>
+ [<i> Journal in preparation </i>] <br>
  </li>
 <li> <a href="http://sirisharambhatla.com/about/">TensorMap: Lidar-based Topological Mapping and Localization via Tensor Decompositions</a>
- <br> S. Rambhatla, N. D. Sidiropoulos, and J. Haupt. <br>
- [<i> submitted </i>]
+ <br> S. Rambhatla, N. D. Sidiropoulos, and J. Haupt.[<i> submitted </i>] <br>
  </li>
-<li> <a href="http://sirisharambhatla.com/about/">Robust PCA via Dictionary Based Outlier Pursuit. </a>  <br> X. Li, J. Ren, S. Rambhatla, Y. Xu, and J. Haupt <br> <em> 2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) </em> [<i> preprint coming soon </i>]<br> 
+<li> <a href="http://sirisharambhatla.com/about/">Robust PCA via Dictionary Based Outlier Pursuit. </a>  <br> X. Li, J. Ren, S. Rambhatla, Y. Xu, and J. Haupt [<i> preprint coming soon </i>] <br> <em> 2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) </em> <br> 
  </li>
 <li> <a href="https://ieeexplore.ieee.org/document/8335372/">Target-Based Hyperspectral Demixing via Generalized Robust PCA. </a> 
- <br> S. Rambhatla, X. Li and J. Haupt. <br> <em> 2017 IEEE Asilomar Conference on Signals, Systems and Computers. </em> <br>
+ <br> S. Rambhatla, X. Li and J. Haupt. [<a href="http://sirisharambhatla.com/grpca/2017/05/11/HyperSpectral.html">Demo</a>]<br> <em> 2017 IEEE Asilomar Conference on Signals, Systems and Computers. </em> <br>
   &#127942; <em style="color:#AAA;"> Finalist, Student Best Paper Award </em> <br>
-  [<a href="http://sirisharambhatla.com/grpca/2017/05/11/HyperSpectral.html">Demo</a>] <br>
+   <br>
  </li>
 <li> <a href="http://ieeexplore.ieee.org/document/7906054/">A Dictionary Based Generalization of Robust PCA. </a>
-   <br> S. Rambhatla, X. Li and J. Haupt. <br> <em> 2016 IEEE Global Conference on Signal and Information Processing </em> <br>
+   <br> S. Rambhatla, X. Li and J. Haupt. [<a href="/docs/Dictionary_based_generalization_of_robust_PCA_Sirisha_R.pdf">slides</a>]<br> <em> 2016 IEEE Global Conference on Signal and Information Processing </em> <br>
   &#127942; <em style="color:#AAA;"> National Science Foundation (NSF) Travel Award </em> <br>
-  [<a href="/docs/Dictionary_based_generalization_of_robust_PCA_Sirisha_R.pdf">slides</a>] <br>
  </li>
 
 <li> <a href="http://ieeexplore.ieee.org/document/6810587/">Semi-Blind Source Separation via Sparse Representations and Online Dictionary Learning. </a>
-  <br> S. Rambhatla and J. Haupt. <br> <em> 2013 IEEE Asilomar Conference on Signals, Systems and Computers.</em> <br> 
-[<a href="http://arxiv.org/pdf/1212.0451v2.pdf">pdf</a>] [<a href="/docs/PresentationThesisPDF.pdf">slides</a>][<a href="http://sirisharambhatla.com/sbmca/2016/11/15/SBMCA.html"> Results</a>] <br>
+  <br> S. Rambhatla and J. Haupt. [<a href="http://arxiv.org/pdf/1212.0451v2.pdf">pdf</a>] [<a href="/docs/PresentationThesisPDF.pdf">slides</a>][<a href="http://sirisharambhatla.com/sbmca/2016/11/15/SBMCA.html"> Results</a>]<br> <em> 2013 IEEE Asilomar Conference on Signals, Systems and Computers.</em> <br>
  </li>
 </ul>
 </div>
