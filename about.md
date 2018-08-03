@@ -34,7 +34,7 @@ I am a fourth year Ph.D. (EE) student working with [Prof. Jarvis Haupt](https://
  <li> <a href="http://sirisharambhatla.com/about/">A Dictionary Based Generalization of Robust PCA: Applications to Hyperspectral Imaging </a> 
  <br> S. Rambhatla, X. Li and J. Haupt. [<i> Journal in preparation </i>]  <br>
  </li>
-<li> <a href="http://sirisharambhatla.com/about/">Lidar-based Topological Mapping and Localization via Tensor Decompositions</a> 
+<li> <a href="http://sirisharambhatla.com/about/">TensorMap: Lidar-based Topological Mapping and Localization via Tensor Decompositions</a> 
  <br> S. Rambhatla, N. D. Sidiropoulos, and J. Haupt. [<i> submitted </i>]  <br>
  </li>
 <li> <a href="http://sirisharambhatla.com/about/">Robust PCA via Dictionary Based Outlier Pursuit. </a>  <br> X. Li, J. Ren, S. Rambhatla, Y. Xu, and J. Haupt <br> <em> 2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) </em> [<i> preprint coming soon </i>]
