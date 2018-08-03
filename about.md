@@ -54,10 +54,15 @@ I am a fourth year Ph.D. (EE) student working with [Prof. Jarvis Haupt](https://
  </li>
 </ul>
 </div>
+”
+— 
 ## Talks 
 <div>
 <ul> 
-<li> "Provably Recovering Patterns from Data: Matrix to Tensors", <em>Yahoo! Research</em>, November 2017</li>
+<li> "Target-Based Hyper Spectral Demixing via Generalized Robust PCA.", <em>ECE Seminar on Signal Processing, Information Theory, and Communication, University of Minnesota-Twin Cities, Minneapolis, MN.</em>, March, 2018</li>
+<li> "Provably Recovering Patterns from Data: Matrix to Tensors", <em>Yahoo! Research, San Jose, CA</em>, November 2017</li>
+<li> "Dictionary based Generalization of Robust PCA", <em>GlobalSIP, Washington D.C. </em>, December 2016</li>
+<li> "Semi-Blind Source Separation via Sparse Approximation & Online Dictionary Learning.", <em>Asilomar Conference on Signals, Systems & Computers, Pacific Grove, CA.</em>, November 2013</li>
 </ul>
 </div>
 ## Experience
