@@ -37,7 +37,7 @@ I am a fourth year Ph.D. (EE) student working with [Prof. Jarvis Haupt](https://
  [<i> Journal in preparation </i>] <br>
  </li>
 <li> <a href="http://sirisharambhatla.com/about/">TensorMap: Lidar-based Topological Mapping and Localization via Tensor Decompositions</a>
- <br> S. Rambhatla, N. D. Sidiropoulos, and J. Haupt.[<i> submitted </i>] <br>
+ <br> S. Rambhatla, N. D. Sidiropoulos, and J. Haupt.[<i> accepted </i>] <br><em> 2018 IEEE Global Conference on Signal and Information Processing </em> <br>
  </li>
 <li> <a href="http://sirisharambhatla.com/about/">Robust PCA via Dictionary Based Outlier Pursuit. </a>  <br> X. Li, J. Ren, S. Rambhatla, Y. Xu, and J. Haupt [<i> preprint coming soon </i>] <br> <em> 2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) </em> <br> 
  </li>
