@@ -19,25 +19,17 @@ weight : 1
 
 
 
-I am a fourth year Ph.D. (EE) student working with [Prof. Jarvis Haupt](https://www.ece.umn.edu/~jdhaupt/) in the Department of Electrical and Computer Engineering at the [University of Minnesota-Twin Cities](https://www.ece.umn.edu/).
-[<a href="/docs/Resume_Sirisha_Rambhatla.pdf">Resume</a>]
+I am a Ph.D. (EE) Candidate working with [Prof. Jarvis Haupt](https://www.ece.umn.edu/~jdhaupt/) in the Department of Electrical and Computer Engineering at the [University of Minnesota-Twin Cities](https://www.ece.umn.edu/).
+[<a href="/docs/CV_Sirisha_Rambhatla.pdf">Curriculum Vitae</a>] 
 
 ## Areas of interest
-<div style="text-align:center;"> | Statistical Modeling | Machine Learning | Convex & Non-Convex Optimization |</div>
+<div style="text-align:center;"> | Statistical Machine Learning | Optimization | Design of Provable Learning Algorithms | Deep Learning | Knowledge Representations |</div>
 
-## Publications
+## Conference Publications
 <div>
 <ul>
-<li> <a href="http://sirisharambhatla.com/about/">A Dictionary Based Generalization of Robust PCA: Theory </a> 
- <br> S. Rambhatla, X. Li and J. Haupt. 
- [<i> Journal in preparation </i>] <br>
- </li>
- <li> <a href="http://sirisharambhatla.com/about/">A Dictionary Based Generalization of Robust PCA: Applications to Hyperspectral Imaging </a> 
- <br> S. Rambhatla, X. Li and J. Haupt.  
- [<i> Journal in preparation </i>] <br>
- </li>
-<li> <a href="http://sirisharambhatla.com/about/">TensorMap: Lidar-based Topological Mapping and Localization via Tensor Decompositions</a>
- <br> S. Rambhatla, N. D. Sidiropoulos, and J. Haupt [<i> accepted </i>] <br><em> 2018 IEEE Global Conference on Signal and Information Processing </em> <br>
+<li> <a href="/docs/papers/TensorMap.pdf"> TensorMap: Lidar-based Topological Mapping and Localization via Tensor Decompositions</a>
+ <br> S. Rambhatla, N. D. Sidiropoulos, and J. Haupt <br><em> 2018 IEEE Global Conference on Signal and Information Processing </em> <br>
  </li>
 <li> <a href="http://sirisharambhatla.com/about/">Robust PCA via Dictionary Based Outlier Pursuit. </a>  <br> X. Li, J. Ren, S. Rambhatla, Y. Xu, and J. Haupt [<i> preprint coming soon </i>] <br> <em> 2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) </em> <br> 
  </li>
@@ -55,19 +47,53 @@ I am a fourth year Ph.D. (EE) student working with [Prof. Jarvis Haupt](https://
  </li>
 </ul>
 </div>
+
+## Journal Publications
+<div>
+<ul>
+<li> <a href="/docs/papers/Dictionary-Based_Generalization_of_Robust_PCA_Part_I_Theory.pdf"> A Dictionary-Based Generalization of Robust PCA Part I:  Study of Theoretical Properties. </a> 
+ <br> S. Rambhatla, X. Li, J. Ren, and J. Haupt. 
+ [<i> Journal under review </i>], 2018 <br>
+ </li>
+ <li> <a href="/docs/papers/Dictionary-Based_Generalization_of_Robust_PCA_Part_II_Applications.pdf"> A Dictionary-Based Generalization of Robust PCA Part II: Applications to Target Localization in Hyperspectral Imaging </a> 
+ <br> S. Rambhatla, X. Li, J. Ren, and J. Haupt.  
+ [<i> Journal under review </i>], 2018 <br>
+ </li>
+<li> <a href="http://sirisharambhatla.com/about/"> TensorMap: Lidar-based Topological Mapping and Localization via Tensor Decompositions</a>
+ <br> S. Rambhatla, N. D. Sidiropoulos, and J. Haupt [<i> accepted </i>] 
+  [<i> Journal in preparation </i>], 2018 <br>
+ </li>
+</ul>
+</div>
+
 ## Talks 
 <div>
 <ul> 
+<li> "Lidar-based Topological Mapping \textit{\&} Localization via Tensor Decompositions.", <br>
+   <em>ECE Seminar on Signal Processing, Information Theory, and Communications </em> <br>
+    <em>GlobalSIP, Anaheim, CA </em> November 2018
+</li>
+<li> "Provable Online Dictionary Learning and Matrix Factorization.", <br>
+   <em>ECE Seminar on Signal Processing, Information Theory, and Communications </em> <br>
+    <em>Digital Technology Center, Minneapolis, MN  </em> September 2018
+</li>
+<li> "Target-Based Hyper Spectral Demixing via Generalized Robust PCA.", <br>
+  <em>ECE Seminar on Signal Processing, Information Theory, and Communications </em> <br>
+   University of Minnesota-Twin Cities, Minneapolis, MN., March, 2018
+</li>
 <li> "Target-Based Hyper Spectral Demixing via Generalized Robust PCA.", <br>
   <em>ECE Seminar on Signal Processing, Information Theory, and Communications </em> <br>
    University of Minnesota-Twin Cities, Minneapolis, MN., March, 2018
 </li>
 <li> "Provably Recovering Patterns from Data: Matrix to Tensors",<br>
-  <em>Yahoo! Research, San Jose, CA</em>, November 2017</li>
+  <em>Yahoo! Research, San Jose, CA</em>, November 2017
+</li>
 <li> "Dictionary based Generalization of Robust PCA", <br>
-  <em>GlobalSIP, Washington D.C. </em> December 2016</li>
+  <em>GlobalSIP, Washington D.C. </em> December 2016
+</li>
 <li> "Semi-Blind Source Separation via Sparse Approximation & Online Dictionary Learning.", <br>
-  <em>Asilomar Conference on Signals, Systems & Computers, Pacific Grove, CA.</em>, November 2013</li>
+  <em>Asilomar Conference on Signals, Systems & Computers, Pacific Grove, CA.</em>, November 2013
+</li>
 </ul>
 </div>
 ## Experience
@@ -195,12 +221,13 @@ I am a fourth year Ph.D. (EE) student working with [Prof. Jarvis Haupt](https://
 ## Technical Service
 <div>
 <ul> 
+<li>  Session Chair, Deep learning-based Signal Processing for Wireless Communication, IEEE Global Conference on Signal and Information Processing (GlobalSIP), 2018</li>
+<li> Reviewer, IEEE  Transactions on Signal Processing (T-SP) 2014, 2015, 2016, and 2018</li>
+<li> Reviewer, International Conference on Artificial Intelligence and Statistics (AISTATS) 2016, 2018</li>
 <li> Reviewer, Signal Processing Letters, 2017</li>
 <li> Reviewer, SIAM Journal of Imaging Sciences, 2017</li>
 <li> Reviewer, IEEE  Transactions on Industrial Informatics (T-II) 2017</li>
-<li> Reviewer, IEEE  Transactions on Signal Processing (T-SP) 2014, 2015, 2016, and 2018</li>
 <li> Reviewer, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2015, 2016</li>
-<li> Reviewer, International Conference on Artificial Intelligence and Statistics (AISTATS) 2016</li>
 </ul>
 </div>
 {% comment %} 
