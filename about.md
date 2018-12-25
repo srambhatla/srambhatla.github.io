@@ -28,6 +28,9 @@ I am a Ph.D. (EE) Candidate working with [Prof. Jarvis Haupt](https://www.ece.um
 ## Conference Publications
 <div>
 <ul>
+<li> <a href="https://openreview.net/forum?id=HJeu43ActQ&noteId=ByxrhUoBe4">Provable Online Dictionary Learning and Sparse Coding. </a>
+   <br> S. Rambhatla, X. Li and J. Haupt. [<a href="https://openreview.net/forum?id=HJeu43ActQ&noteId=ByxrhUoBe4">slides</a>]<br> <em> To appear in the 2019 International Conference on Learning Representations (ICLR) </em> <br>
+</li>
 <li> <a href="/docs/papers/TensorMap.pdf"> TensorMap: Lidar-based Topological Mapping and Localization via Tensor Decompositions</a>
  <br> S. Rambhatla, N. D. Sidiropoulos, and J. Haupt <br><em> 2018 IEEE Global Conference on Signal and Information Processing </em> <br>
  </li>
@@ -37,7 +40,7 @@ I am a Ph.D. (EE) Candidate working with [Prof. Jarvis Haupt](https://www.ece.um
  <br> S. Rambhatla, X. Li and J. Haupt. [<a href="http://sirisharambhatla.com/grpca/2017/05/11/HyperSpectral.html">Demo</a>]<br> <em> 2017 IEEE Asilomar Conference on Signals, Systems and Computers. </em> <br>
   &#127942; <em style="color:#AAA;"> Finalist, Student Best Paper Award </em> <br>
  </li>
-<li> <a href="http://ieeexplore.ieee.org/document/7906054/">A Dictionary Based Generalization of Robust PCA. </a>
+<li> <a href="/docs/papers/A_dictionary_based_generalization_of_robust_PCA.pdf">A Dictionary Based Generalization of Robust PCA. </a>
    <br> S. Rambhatla, X. Li and J. Haupt. [<a href="/docs/Dictionary_based_generalization_of_robust_PCA_Sirisha_R.pdf">slides</a>]<br> <em> 2016 IEEE Global Conference on Signal and Information Processing </em> <br>
   &#127942; <em style="color:#AAA;"> National Science Foundation (NSF) Travel Award </em> <br>
  </li>
