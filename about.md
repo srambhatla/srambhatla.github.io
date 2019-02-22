@@ -34,7 +34,7 @@ I am a Ph.D. (EE) Candidate working with [Prof. Jarvis Haupt](https://www.ece.um
 <li> <a href="/docs/papers/TensorMap.pdf"> TensorMap: Lidar-based Topological Mapping and Localization via Tensor Decompositions</a>
  <br> S. Rambhatla, N. D. Sidiropoulos, and J. Haupt <br><em> 2018 IEEE Global Conference on Signal and Information Processing </em> <br>
  </li>
-<li> <a href="/docs/papers/Robust_PCA_via_Dictionary_Based_Outlier_Pursuit.pdf">Robust PCA via Dictionary Based Outlier Pursuit. </a>  <br> X. Li, J. Ren, S. Rambhatla, Y. Xu, and J. Haupt [<i> preprint coming soon </i>] <br> <em> 2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) </em> <br> 
+<li> <a href="/docs/papers/Robust_PCA_via_Dictionary_Based_Outlier_Pursuit.pdf">Robust PCA via Dictionary Based Outlier Pursuit. </a>  <br> X. Li, J. Ren, S. Rambhatla, Y. Xu, and J. Haupt <br> <em> 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) </em> <br> 
  </li>
 <li> <a href="/docs/papers/Target_Based_Hyperspectral_Demixing_via_Generalized_Robust_PCA_Rambhatla_Li_Haupt.pdf">Target-Based Hyperspectral Demixing via Generalized Robust PCA. </a> 
  <br> S. Rambhatla, X. Li and J. Haupt. [<a href="http://sirisharambhatla.com/grpca/2017/05/11/HyperSpectral.html">Demo</a>]<br> <em> 2017 IEEE Asilomar Conference on Signals, Systems and Computers. </em> <br>
@@ -72,7 +72,7 @@ I am a Ph.D. (EE) Candidate working with [Prof. Jarvis Haupt](https://www.ece.um
 ## Talks 
 <div>
 <ul> 
-<li> "Lidar-based Topological Mapping \textit{\&} Localization via Tensor Decompositions.", <br>
+<li> "Lidar-based Topological Mapping & Localization via Tensor Decompositions.", <br>
    <em>ECE Seminar on Signal Processing, Information Theory, and Communications </em> <br>
     <em>GlobalSIP, Anaheim, CA </em> November 2018
 </li>
