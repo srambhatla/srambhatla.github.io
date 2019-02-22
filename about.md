@@ -63,7 +63,7 @@ I am a Ph.D. (EE) Candidate working with [Prof. Jarvis Haupt](https://www.ece.um
  [<i> Journal under review </i>], 2018 <br>
  </li>
 <li> <a href="http://sirisharambhatla.com/about/"> TensorMap: Lidar-based Topological Mapping and Localization via Tensor Decompositions</a>
- <br> S. Rambhatla, N. D. Sidiropoulos, and J. Haupt [<i> accepted </i>] 
+ <br> S. Rambhatla, N. D. Sidiropoulos, and J. Haupt
   [<i> Journal in preparation </i>], 2018 <br>
  </li>
 </ul>
