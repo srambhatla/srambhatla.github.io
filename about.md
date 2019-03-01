@@ -31,21 +31,21 @@ I am a Ph.D. (EE) Candidate working with [Prof. Jarvis Haupt](https://www.ece.um
 <li> <a href="https://openreview.net/forum?id=HJeu43ActQ&noteId=ByxrhUoBe4">NOODL: Provable Online Dictionary Learning and Sparse Coding. </a>
    <br> S. Rambhatla, X. Li and J. Haupt. [<a href="https://openreview.net/forum?id=HJeu43ActQ&noteId=ByxrhUoBe4">Open Review</a>]<br> <em> To appear in the 2019 International Conference on Learning Representations (ICLR) </em> <br>
 </li>
-<li> <a href="/docs/papers/TensorMap.pdf"> TensorMap: Lidar-based Topological Mapping and Localization via Tensor Decompositions</a>
+<li> <a href="https://arxiv.org/abs/1902.10226"> TensorMap: Lidar-based Topological Mapping and Localization via Tensor Decompositions</a>
  <br> S. Rambhatla, N. D. Sidiropoulos, and J. Haupt <br><em> 2018 IEEE Global Conference on Signal and Information Processing </em> <br>
  </li>
 <li> <a href="/docs/papers/Robust_PCA_via_Dictionary_Based_Outlier_Pursuit.pdf">Robust PCA via Dictionary Based Outlier Pursuit. </a>  <br> X. Li, J. Ren, S. Rambhatla, Y. Xu, and J. Haupt [<i> preprint coming soon </i>] <br> <em> 2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) </em> <br> 
  </li>
-<li> <a href="/docs/papers/Target_Based_Hyperspectral_Demixing_via_Generalized_Robust_PCA_Rambhatla_Li_Haupt.pdf">Target-Based Hyperspectral Demixing via Generalized Robust PCA. </a> 
+<li> <a href="https://arxiv.org/abs/1902.11111">Target-Based Hyperspectral Demixing via Generalized Robust PCA. </a> 
  <br> S. Rambhatla, X. Li and J. Haupt. [<a href="http://sirisharambhatla.com/grpca/2017/05/11/HyperSpectral.html">Demo</a>]<br> <em> 2017 IEEE Asilomar Conference on Signals, Systems and Computers. </em> <br>
   &#127942; <em style="color:#AAA;"> Finalist, Student Best Paper Award </em> <br>
  </li>
-<li> <a href="/docs/papers/A_dictionary_based_generalization_of_robust_PCA.pdf">A Dictionary Based Generalization of Robust PCA. </a>
+<li> <a href="https://arxiv.org/abs/1902.08171">A Dictionary Based Generalization of Robust PCA. </a>
    <br> S. Rambhatla, X. Li and J. Haupt. [<a href="/docs/Dictionary_based_generalization_of_robust_PCA_Sirisha_R.pdf">slides</a>]<br> <em> 2016 IEEE Global Conference on Signal and Information Processing </em> <br>
   &#127942; <em style="color:#AAA;"> National Science Foundation (NSF) Travel Award </em> <br>
  </li>
 
-<li> <a href="http://ieeexplore.ieee.org/document/6810587/">Semi-Blind Source Separation via Sparse Representations and Online Dictionary Learning. </a>
+<li> <a href="https://arxiv.org/abs/1212.0451">Semi-Blind Source Separation via Sparse Representations and Online Dictionary Learning. </a>
   <br> S. Rambhatla and J. Haupt. [<a href="http://arxiv.org/pdf/1212.0451v2.pdf">pdf</a>] [<a href="/docs/PresentationThesisPDF.pdf">slides</a>][<a href="http://sirisharambhatla.com/sbmca/2016/11/15/SBMCA.html"> Results</a>]<br> <em> 2013 IEEE Asilomar Conference on Signals, Systems and Computers.</em> <br>
  </li>
 </ul>
@@ -54,11 +54,11 @@ I am a Ph.D. (EE) Candidate working with [Prof. Jarvis Haupt](https://www.ece.um
 ## Journal Publications
 <div>
 <ul>
-<li> <a href="/docs/papers/Dictionary-Based_Generalization_of_Robust_PCA_Part_I_Theory.pdf"> A Dictionary-Based Generalization of Robust PCA Part I:  Study of Theoretical Properties. </a> 
+<li> <a href="https://arxiv.org/abs/1902.08304"> A Dictionary-Based Generalization of Robust PCA Part I:  Study of Theoretical Properties. </a> 
  <br> S. Rambhatla, X. Li, J. Ren, and J. Haupt. 
  [<i> Journal under review </i>], 2018 <br>
  </li>
- <li> <a href="/docs/papers/Dictionary-Based_Generalization_of_Robust_PCA_Part_II_Applications.pdf"> A Dictionary-Based Generalization of Robust PCA Part II: Applications to Target Localization in Hyperspectral Imaging </a> 
+ <li> <a href="https://arxiv.org/abs/1902.10238"> A Dictionary-Based Generalization of Robust PCA Part II: Applications to Target Localization in Hyperspectral Imaging </a> 
  <br> S. Rambhatla, X. Li, J. Ren, and J. Haupt.  
  [<i> Journal under review </i>], 2018 <br>
  </li>
@@ -69,9 +69,13 @@ I am a Ph.D. (EE) Candidate working with [Prof. Jarvis Haupt](https://www.ece.um
 </ul>
 </div>
 
-## Talks 
+## Talks/Posters 
 <div>
 <ul> 
+<li> "Provable Online Dictionary Learning and Sparse Coding", <br>
+   <em>Information Theory and Applications (ITA) Workshop, </em> <br>
+    <em>San Diego, CA </em> Feb. 2019
+</li>
 <li> "Lidar-based Topological Mapping \textit{\&} Localization via Tensor Decompositions.", <br>
    <em>ECE Seminar on Signal Processing, Information Theory, and Communications </em> <br>
     <em>GlobalSIP, Anaheim, CA </em> November 2018
@@ -224,8 +228,10 @@ I am a Ph.D. (EE) Candidate working with [Prof. Jarvis Haupt](https://www.ece.um
 ## Technical Service
 <div>
 <ul> 
+<li> Session Co-Chair, Reinforcement Learning, Information Theory and Applications (ITA) Workshop, 2019 </li>
+<li> Session Co-Chair, High-dimensional Statistics, Information Theory and Applications (ITA) Workshop, 2019 </li>
 <li>  Session Chair, Deep learning-based Signal Processing for Wireless Communication, IEEE Global Conference on Signal and Information Processing (GlobalSIP), 2018</li>
-<li> Reviewer, IEEE  Transactions on Signal Processing (T-SP) 2014, 2015, 2016, and 2018</li>
+<li> Reviewer, IEEE  Transactions on Signal Processing (T-SP) 2014, 2015, 2016, 2018, and 2019</li>
 <li> Reviewer, International Conference on Artificial Intelligence and Statistics (AISTATS) 2016, 2018</li>
 <li> Reviewer, Signal Processing Letters, 2017</li>
 <li> Reviewer, SIAM Journal of Imaging Sciences, 2017</li>
