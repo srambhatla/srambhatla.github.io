@@ -34,7 +34,7 @@ I am a Ph.D. (EE) Candidate working with [Prof. Jarvis Haupt](https://www.ece.um
 <li> <a href="https://arxiv.org/abs/1902.10226"> TensorMap: Lidar-based Topological Mapping and Localization via Tensor Decompositions</a>
  <br> S. Rambhatla, N. D. Sidiropoulos, and J. Haupt <br><em> 2018 IEEE Global Conference on Signal and Information Processing </em> <br>
  </li>
-<li> <a href="/docs/papers/Robust_PCA_via_Dictionary_Based_Outlier_Pursuit.pdf">Robust PCA via Dictionary Based Outlier Pursuit. </a>  <br> X. Li, J. Ren, S. Rambhatla, Y. Xu, and J. Haupt [<i> preprint coming soon </i>] <br> <em> 2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) </em> <br> 
+<li> <a href="/docs/papers/Robust_PCA_via_Dictionary_Based_Outlier_Pursuit.pdf">Robust PCA via Dictionary Based Outlier Pursuit. </a>  <br> X. Li, J. Ren, S. Rambhatla, Y. Xu, and J. Haupt <br> <em> 2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) </em> <br> 
  </li>
 <li> <a href="https://arxiv.org/abs/1902.11111">Target-Based Hyperspectral Demixing via Generalized Robust PCA. </a> 
  <br> S. Rambhatla, X. Li and J. Haupt. [<a href="http://sirisharambhatla.com/grpca/2017/05/11/HyperSpectral.html">Demo</a>]<br> <em> 2017 IEEE Asilomar Conference on Signals, Systems and Computers. </em> <br>
@@ -63,7 +63,7 @@ I am a Ph.D. (EE) Candidate working with [Prof. Jarvis Haupt](https://www.ece.um
  [<i> Journal under review </i>], 2018 <br>
  </li>
 <li> <a href="http://sirisharambhatla.com/about/"> TensorMap: Lidar-based Topological Mapping and Localization via Tensor Decompositions</a>
- <br> S. Rambhatla, N. D. Sidiropoulos, and J. Haupt [<i> accepted </i>] 
+ <br> S. Rambhatla, N. D. Sidiropoulos, and J. Haupt
   [<i> Journal in preparation </i>], 2018 <br>
  </li>
 </ul>
@@ -76,7 +76,7 @@ I am a Ph.D. (EE) Candidate working with [Prof. Jarvis Haupt](https://www.ece.um
    <em>Information Theory and Applications (ITA) Workshop, </em> <br>
     <em>San Diego, CA </em> Feb. 2019
 </li>
-<li> "Lidar-based Topological Mapping \textit{\&} Localization via Tensor Decompositions.", <br>
+<li> "Lidar-based Topological Mapping & Localization via Tensor Decompositions.", <br>
    <em>ECE Seminar on Signal Processing, Information Theory, and Communications </em> <br>
     <em>GlobalSIP, Anaheim, CA </em> November 2018
 </li>
