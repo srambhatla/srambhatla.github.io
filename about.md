@@ -30,6 +30,7 @@ I am a Ph.D. (EE) Candidate working with [Prof. Jarvis Haupt](https://www.ece.um
 <ul>
 <li> <a href="https://openreview.net/forum?id=HJeu43ActQ&noteId=ByxrhUoBe4">NOODL: Provable Online Dictionary Learning and Sparse Coding. </a>
    <br> S. Rambhatla, X. Li and J. Haupt. [<a href="https://openreview.net/forum?id=HJeu43ActQ&noteId=ByxrhUoBe4">Open Review</a>]<br> <em> To appear in the 2019 International Conference on Learning Representations (ICLR) </em> <br>
+   &#127942; <em style="color:#AAA;"> Student Travel Award </em> <br>
 </li>
 <li> <a href="https://arxiv.org/abs/1902.10226"> TensorMap: Lidar-based Topological Mapping and Localization via Tensor Decompositions</a>
  <br> S. Rambhatla, N. D. Sidiropoulos, and J. Haupt <br><em> 2018 IEEE Global Conference on Signal and Information Processing </em> <br>
