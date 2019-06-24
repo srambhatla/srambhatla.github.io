@@ -20,7 +20,7 @@ weight : 1
 
 
 I am a Ph.D. (EE) Candidate working with [Prof. Jarvis Haupt](https://www.ece.umn.edu/~jdhaupt/) in the Department of Electrical and Computer Engineering at the [University of Minnesota-Twin Cities](https://www.ece.umn.edu/).
-[<a href="/docs/CV_Sirisha_Rambhatla.pdf">Curriculum Vitae</a>] 
+[<a href="/docs/CV.pdf">Curriculum Vitae</a>] 
 
 ## Areas of interest
 <div style="text-align:center;"> | Statistical Machine Learning | Optimization | Design of Provable Learning Algorithms | Deep Learning | Knowledge Representations |</div>
