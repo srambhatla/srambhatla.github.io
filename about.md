@@ -18,14 +18,15 @@ weight : 1
 <br/>
 
 
+I am a Postdoctoral scholar at the [Melady Lab](https://melady.usc.edu/) mentored by Prof. Yan Liu in the Computer Science Department, Viterbi School of Engineering, at the [University of Southern California](https://www.cs.usc.edu/). 
 
-I am a Ph.D. (EE) Candidate working with [Prof. Jarvis Haupt](https://www.ece.umn.edu/~jdhaupt/) in the Department of Electrical and Computer Engineering at the [University of Minnesota-Twin Cities](https://www.ece.umn.edu/).
+I undertook my doctoral studies working with [Prof. Jarvis Haupt](https://www.ece.umn.edu/~jdhaupt/) in the Department of Electrical and Computer Engineering at the [University of Minnesota-Twin Cities](https://www.ece.umn.edu/).
 [<a href="/docs/CV.pdf">Curriculum Vitae</a>] 
 
 ## Areas of interest
-<div style="text-align:center;"> | Statistical Machine Learning | Optimization | Design of Provable Learning Algorithms | Deep Learning | Knowledge Representations |</div>
+<div style="text-align:center;"> | Statistical Machine Learning | Optimization | Design of Provable Learning Algorithms | Time Series Analysis | Interpretability | Knowledge Representations |</div>
 
-## Conference Publications
+## Publications
 <div>
 <ul>
 <li> <a href="https://openreview.net/forum?id=HJeu43ActQ&noteId=ByxrhUoBe4">NOODL: Provable Online Dictionary Learning and Sparse Coding. </a>
@@ -52,7 +53,7 @@ I am a Ph.D. (EE) Candidate working with [Prof. Jarvis Haupt](https://www.ece.um
 </ul>
 </div>
 
-## Journal Publications
+## Preprints
 <div>
 <ul>
 <li> <a href="https://arxiv.org/abs/1902.08304"> A Dictionary-Based Generalization of Robust PCA Part I:  Study of Theoretical Properties. </a> 
@@ -62,10 +63,6 @@ I am a Ph.D. (EE) Candidate working with [Prof. Jarvis Haupt](https://www.ece.um
  <li> <a href="https://arxiv.org/abs/1902.10238"> A Dictionary-Based Generalization of Robust PCA Part II: Applications to Target Localization in Hyperspectral Imaging </a> 
  <br> S. Rambhatla, X. Li, J. Ren, and J. Haupt.  
  [<i> Journal under review </i>], 2018 <br>
- </li>
-<li> <a href="http://sirisharambhatla.com/about/"> TensorMap: Lidar-based Topological Mapping and Localization via Tensor Decompositions</a>
- <br> S. Rambhatla, N. D. Sidiropoulos, and J. Haupt
-  [<i> Journal in preparation </i>], 2018 <br>
  </li>
 </ul>
 </div>
@@ -304,7 +301,7 @@ th#t01, td#t01 {
 #### Experience
 
 
-Ph.D. (E.E.) Student @ UMN Sept. 2014 - Present 
+Ph.D. (E.E.) Student @ UMN Sept. 2014 - Sept. 2019 
 
 Science Advisor @ Robins Kaplan Mar. 2013 - Jul. 2014
 

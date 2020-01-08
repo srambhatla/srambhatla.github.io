@@ -7,10 +7,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>Semi-Blind Morphological Component Analysis</title>
-  <meta name="description" content="This tutorial is an overview of my thesis work carried out at the Department of Electrical and Computer Engineering, University of Minnesota-Twin Cities. My ...">
+  <meta name="description" content="This post is an overview of my thesis work carried out at the Department of Electrical and Computer Engineering, University of Minnesota-Twin Cities. My thes...">
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="https://srambhatla.github.io//sbmca/2016/11/15/SBMCA.html">
-  <link rel="alternate" type="application/rss+xml" title="Sirisha Rambhatla" href="https://srambhatla.github.io//feed.xml" />
+  <link rel="canonical" href="http://localhost:4000/sbmca/2016/11/15/SBMCA.html">
+  <link rel="alternate" type="application/rss+xml" title="Sirisha Rambhatla" href="http://localhost:4000/feed.xml" />
   <link href='https://fonts.googleapis.com/css?family=Pacifico|Kaushan+Script' rel='stylesheet' type='text/css'>
 
 </head>
@@ -246,7 +246,7 @@
   </header>
 
   <article class="post-content">
-    <p>This tutorial is an overview of my thesis work carried out at the Department of Electrical and Computer Engineering, University of Minnesota-Twin Cities. My thesis work examines a semi-blind source separation problem which finds applications in audio, image, and video processing. The primary aim of this tutorial is to develop an overall intuitive understanding of my work. Suitable examples from our day-to-day lives are employed to motivate and develop the algorithmic framework.</p>
+    <p>This post is an overview of my thesis work carried out at the Department of Electrical and Computer Engineering, University of Minnesota-Twin Cities. My thesis work examines a semi-blind source separation problem which finds applications in audio, image, and video processing. The primary aim of this tutorial is to develop an overall intuitive understanding of my work. Suitable examples from our day-to-day lives are employed to motivate and develop the algorithmic framework.</p>
 
 <h1 id="introduction">Introduction</h1>
 <p>If you have ever been to a really noisy party or a large gathering, you must have noticed that you can turn your attention to a specific person and <i>listen</i> to him/her in spite of all the other sounds. It is interesting how you can recognize and keep track of which voice(s) to follow. This process of selective hearing, in signal processing literature, is referred to as the <i>cocktail-party</i> problem or the source separation problem. This problem has been well studied in literature and is of great interest in the signal processing community. However, most of the previous work in this area deals with separating the sources based on either of two simplifying assumptions [<a href="http://www.sciencedirect.com/science/article/pii/S0893608000000265">ICA</a>],</p>
@@ -308,7 +308,7 @@
   <tr>
   <td colspan="3"> <div text-align="center" style="margin-top:-80px;"> <strong>Original Mixture</strong></div><br />
   <img text-align="center" style="width:500px;display:block;margin-left: auto;margin-right: auto;margin-top:-10px;" src="/docs/sbmca_asilomar_data/OrigMix.png" /> <br />
-  <audio align="center" style="width:500px;display:block;margin-left: auto;margin-right: auto;margin-top: -10px;" controls="" preload=""><source type="audio/wav" src="/docs/sbmca_asilomar_data/OrigMix.wav" /><p>Your browser does not support the audio element.</p></audio> </td>
+  <audio align="center" style="width:500px;display:block;margin-left: auto;margin-right: auto;margin-top: -10px;" controls="" preload=""><source type="audio/wav" src="/docs/sbmca_asilomar_data/OrigMix.wav" />&lt;/source&gt;<p>Your browser does not support the audio element.</p></audio> </td>
   </tr>
 <!--SBMCA-->
   <tr>
@@ -317,8 +317,8 @@
     <td><img src="/docs/sbmca_asilomar_data/XuSBMCA.png" alt="Drawing" style="width:350px;float:right;" /></td>
   </tr>
   <tr>
-    <td><audio style="width:350px;display:block;float:left;margin-top: -10px;" controls="" preload=""><source type="audio/wav" src="/docs/sbmca_asilomar_data/XpSBMCA.wav" /><p>Your browser does not support the audio element.</p></audio> </td>
-    <td><audio style="width:350px;display:block;float:right;margin-top: -10px;" controls="" preload=""><source type="audio/wav" src="/docs/sbmca_asilomar_data/XuSBMCA.wav" /><p>Your browser does not support the audio element.</p></audio></td>
+    <td><audio style="width:350px;display:block;float:left;margin-top: -10px;" controls="" preload=""><source type="audio/wav" src="/docs/sbmca_asilomar_data/XpSBMCA.wav" />&lt;/source&gt;<p>Your browser does not support the audio element.</p></audio> </td>
+    <td><audio style="width:350px;display:block;float:right;margin-top: -10px;" controls="" preload=""><source type="audio/wav" src="/docs/sbmca_asilomar_data/XuSBMCA.wav" />&lt;/source&gt;<p>Your browser does not support the audio element.</p></audio></td>
   </tr>
   <!--DCT-->
   <tr>
@@ -328,8 +328,8 @@
   </tr>
   <br />
   <tr>
-    <td><audio style="width:350px;display:block;float:left;margin-top: -10px;" controls="" preload=""><source type="audio/wav" src="/docs/sbmca_asilomar_data/XpDCT.wav" /><p>Your browser does not support the audio element.</p></audio> </td>
-    <td><audio style="width:350px;display:block;float:right;margin-top: -10px;" controls="" preload=""><source type="audio/wav" src="/docs/sbmca_asilomar_data/XuDCT.wav" /><p>Your browser does not support the audio element.</p></audio></td>
+    <td><audio style="width:350px;display:block;float:left;margin-top: -10px;" controls="" preload=""><source type="audio/wav" src="/docs/sbmca_asilomar_data/XpDCT.wav" />&lt;/source&gt;<p>Your browser does not support the audio element.</p></audio> </td>
+    <td><audio style="width:350px;display:block;float:right;margin-top: -10px;" controls="" preload=""><source type="audio/wav" src="/docs/sbmca_asilomar_data/XuDCT.wav" />&lt;/source&gt;<p>Your browser does not support the audio element.</p></audio></td>
   </tr>
   <!--EYE-->
   <tr>
@@ -339,8 +339,8 @@
   </tr>
   <br />
   <tr>
-    <td><audio style="width:350px;display:block;float:left;margin-top: -10px;" controls="" preload=""><source type="audio/wav" src="/docs/sbmca_asilomar_data/XpEYE.wav" /><p>Your browser does not support the audio element.</p></audio> </td>
-    <td><audio style="width:350px;display:block;float:right;margin-top: -10px;" controls="" preload=""><source type="audio/wav" src="/docs/sbmca_asilomar_data/XuEYE.wav" /><p>Your browser does not support the audio element.</p></audio></td>
+    <td><audio style="width:350px;display:block;float:left;margin-top: -10px;" controls="" preload=""><source type="audio/wav" src="/docs/sbmca_asilomar_data/XpEYE.wav" />&lt;/source&gt;<p>Your browser does not support the audio element.</p></audio> </td>
+    <td><audio style="width:350px;display:block;float:right;margin-top: -10px;" controls="" preload=""><source type="audio/wav" src="/docs/sbmca_asilomar_data/XuEYE.wav" />&lt;/source&gt;<p>Your browser does not support the audio element.</p></audio></td>
   </tr>
   <!--NNSC-->
   <tr>
@@ -350,8 +350,8 @@
   </tr>
   <br />
   <tr>
-    <td><audio style="width:350px;display:block;float:left;margin-top: -10px;" controls="" preload=""><source type="audio/wav" src="/docs/sbmca_asilomar_data/XpNNSC.wav" /><p>Your browser does not support the audio element.</p></audio> </td>
-    <td><audio style="width:350px;display:block;float:right;margin-top: -10px;" controls="" preload=""><source type="audio/wav" src="/docs/sbmca_asilomar_data/XuNNSC.wav" /><p>Your browser does not support the audio element.</p></audio></td>
+    <td><audio style="width:350px;display:block;float:left;margin-top: -10px;" controls="" preload=""><source type="audio/wav" src="/docs/sbmca_asilomar_data/XpNNSC.wav" />&lt;/source&gt;<p>Your browser does not support the audio element.</p></audio> </td>
+    <td><audio style="width:350px;display:block;float:right;margin-top: -10px;" controls="" preload=""><source type="audio/wav" src="/docs/sbmca_asilomar_data/XuNNSC.wav" />&lt;/source&gt;<p>Your browser does not support the audio element.</p></audio></td>
   </tr>
   <br />
    <br />
@@ -451,7 +451,7 @@
         <li> 
             <a href="https://github.com/srambhatla">
               <span>
-                <svg width="40" height="40" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1664 896q0 251-146.5 451.5t-378.5 277.5q-27 5-39.5-7t-12.5-30v-211q0-97-52-142 57-6 102.5-18t94-39 81-66.5 53-105 20.5-150.5q0-121-79-206 37-91-8-204-28-9-81 11t-92 44l-38 24q-93-26-192-26t-192 26q-16-11-42.5-27t-83.5-38.5-86-13.5q-44 113-7 204-79 85-79 206 0 85 20.5 150t52.5 105 80.5 67 94 39 102.5 18q-40 36-49 103-21 10-45 15t-57 5-65.5-21.5-55.5-62.5q-19-32-48.5-52t-49.5-24l-20-3q-21 0-29 4.5t-5 11.5 9 14 13 12l7 5q22 10 43.5 38t31.5 51l10 23q13 38 44 61.5t67 30 69.5 7 55.5-3.5l23-4q0 38 .5 89t.5 54q0 18-13 30t-40 7q-232-77-378.5-277.5t-146.5-451.5q0-209 103-385.5t279.5-279.5 385.5-103 385.5 103 279.5 279.5 103 385.5z" fill ="#828282"/></svg>
+                <svg width="40" height="40" viewBox="0 0 1792 1792" xmlns="https://www.w3.org/2000/svg"><path d="M1664 896q0 251-146.5 451.5t-378.5 277.5q-27 5-39.5-7t-12.5-30v-211q0-97-52-142 57-6 102.5-18t94-39 81-66.5 53-105 20.5-150.5q0-121-79-206 37-91-8-204-28-9-81 11t-92 44l-38 24q-93-26-192-26t-192 26q-16-11-42.5-27t-83.5-38.5-86-13.5q-44 113-7 204-79 85-79 206 0 85 20.5 150t52.5 105 80.5 67 94 39 102.5 18q-40 36-49 103-21 10-45 15t-57 5-65.5-21.5-55.5-62.5q-19-32-48.5-52t-49.5-24l-20-3q-21 0-29 4.5t-5 11.5 9 14 13 12l7 5q22 10 43.5 38t31.5 51l10 23q13 38 44 61.5t67 30 69.5 7 55.5-3.5l23-4q0 38 .5 89t.5 54q0 18-13 30t-40 7q-232-77-378.5-277.5t-146.5-451.5q0-209 103-385.5t279.5-279.5 385.5-103 385.5 103 279.5 279.5 103 385.5z" fill ="#828282"/></svg>
               </span>
 
              
@@ -459,19 +459,19 @@
 
 
             <a href="https://twitter.com/siri_r">
-                <svg width="40" height="40" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1684 408q-67 98-162 167 1 14 1 42 0 130-38 259.5t-115.5 248.5-184.5 210.5-258 146-323 54.5q-271 0-496-145 35 4 78 4 225 0 401-138-105-2-188-64.5t-114-159.5q33 5 61 5 43 0 85-11-112-23-185.5-111.5t-73.5-205.5v-4q68 38 146 41-66-44-105-115t-39-154q0-88 44-163 121 149 294.5 238.5t371.5 99.5q-8-38-8-74 0-134 94.5-228.5t228.5-94.5q140 0 236 102 109-21 205-78-37 115-142 178 93-10 186-50z" fill ="#828282"/></svg>
+                <svg width="40" height="40" viewBox="0 0 1792 1792" xmlns="https://www.w3.org/2000/svg"><path d="M1684 408q-67 98-162 167 1 14 1 42 0 130-38 259.5t-115.5 248.5-184.5 210.5-258 146-323 54.5q-271 0-496-145 35 4 78 4 225 0 401-138-105-2-188-64.5t-114-159.5q33 5 61 5 43 0 85-11-112-23-185.5-111.5t-73.5-205.5v-4q68 38 146 41-66-44-105-115t-39-154q0-88 44-163 121 149 294.5 238.5t371.5 99.5q-8-38-8-74 0-134 94.5-228.5t228.5-94.5q140 0 236 102 109-21 205-78-37 115-142 178 93-10 186-50z" fill ="#828282"/></svg>
             </a>
 
              <a href="https://www.linkedin.com/in/sirisharambhatla">
                <span>
-                <svg width="40" height="40" viewBox="0 -20 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M365 1414h231v-694h-231v694zm246-908q-1-52-36-86t-93-34-94.5 34-36.5 86q0 51 35.5 85.5t92.5 34.5h1q59 0 95-34.5t36-85.5zm585 908h231v-398q0-154-73-233t-193-79q-136 0-209 117h2v-101h-231q3 66 0 694h231v-388q0-38 7-56 15-35 45-59.5t74-24.5q116 0 116 157v371zm468-998v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" fill ="#828282"/></svg>
+                <svg width="40" height="40" viewBox="0 -20 1792 1792" xmlns="https://www.w3.org/2000/svg"><path d="M365 1414h231v-694h-231v694zm246-908q-1-52-36-86t-93-34-94.5 34-36.5 86q0 51 35.5 85.5t92.5 34.5h1q59 0 95-34.5t36-85.5zm585 908h231v-398q0-154-73-233t-193-79q-136 0-209 117h2v-101h-231q3 66 0 694h231v-388q0-38 7-56 15-35 45-59.5t74-24.5q116 0 116 157v371zm468-998v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" fill ="#828282"/></svg>
               </span>
 
             
             </a>
 
              <a href="mailto:rambh002@umn.edu">
-           <svg width="40" height="40" viewBox="0 20 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z" fill ="#828282"/></svg>
+           <svg width="40" height="40" viewBox="0 20 1792 1792" xmlns="https://www.w3.org/2000/svg"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z" fill ="#828282"/></svg>
            
             </a>
         </li>
