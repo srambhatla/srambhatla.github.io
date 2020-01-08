@@ -30,7 +30,7 @@ I undertook my doctoral studies with [Prof. Jarvis Haupt](https://www.ece.umn.ed
 <div>
 <ul>
 <li> <a href="https://openreview.net/forum?id=HJeu43ActQ&noteId=ByxrhUoBe4">NOODL: Provable Online Dictionary Learning and Sparse Coding. </a>
-   <br> S. Rambhatla, X. Li and J. Haupt. [<a href="https://openreview.net/forum?id=HJeu43ActQ&noteId=ByxrhUoBe4">Open Review</a>]<br> <em> To appear in the 2019 International Conference on Learning Representations (ICLR) </em> <br>
+   <br> S. Rambhatla, X. Li and J. Haupt. [<a href="https://openreview.net/forum?id=HJeu43ActQ&noteId=ByxrhUoBe4">Open Review</a>]<br> <em> 2019 International Conference on Learning Representations (ICLR) </em> <br>
    &#127942; <em style="color:#AAA;"> Student Travel Award </em> <br>
 </li>
 <li> <a href="https://arxiv.org/abs/1902.10226"> TensorMap: Lidar-based Topological Mapping and Localization via Tensor Decompositions</a>
@@ -177,7 +177,7 @@ I undertook my doctoral studies with [Prof. Jarvis Haupt](https://www.ece.umn.ed
   <div class="back face center">
     <br> 
     <br> 
-    <p> Ph.D. Electrical Engineering <br> (2014 - Present)</p>
+    <p> Ph.D. Electrical Engineering <br> (2014 - 2019)</p>
     <p> &#127942; ECE Departmental Fellowship (2014-2015)</p>
     <p>M.S. Electrical Engineering <br> (2010 - 2012)</p>
     
