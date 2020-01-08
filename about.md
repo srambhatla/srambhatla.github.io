@@ -20,7 +20,7 @@ weight : 1
 
 I am a Postdoctoral scholar at the [Melady Lab](https://melady.usc.edu/) mentored by Prof. Yan Liu in the Computer Science Department, Viterbi School of Engineering, at the [University of Southern California](https://www.cs.usc.edu/). 
 
-I undertook my doctoral studies working with [Prof. Jarvis Haupt](https://www.ece.umn.edu/~jdhaupt/) in the Department of Electrical and Computer Engineering at the [University of Minnesota-Twin Cities](https://www.ece.umn.edu/).
+I undertook my doctoral studies with [Prof. Jarvis Haupt](https://www.ece.umn.edu/~jdhaupt/) in the Department of Electrical and Computer Engineering at the [University of Minnesota-Twin Cities](https://www.ece.umn.edu/).
 [<a href="/docs/CV.pdf">Curriculum Vitae</a>] 
 
 ## Areas of interest
