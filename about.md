@@ -29,6 +29,9 @@ I undertook my doctoral studies with [Prof. Jarvis Haupt](https://www.ece.umn.ed
 ## Publications
 <div>
 <ul>
+  <li> <a href="https://ieeexplore.ieee.org/abstract/document/9019651">A Dictionary-Based Generalization of Robust PCA With Applications to Target Localization in Hyperspectral Imaging.</a>
+   <br> S. Rambhatla, X. Li, J. Ren and J. Haupt. [<a href="https://ieeexplore.ieee.org/abstract/document/9019651">Full Paper</a>]<br> <em> 2020 IEEE Transactions on Signal Processing</em> <br>
+</li>
 <li> <a href="https://openreview.net/forum?id=HJeu43ActQ&noteId=ByxrhUoBe4">NOODL: Provable Online Dictionary Learning and Sparse Coding. </a>
    <br> S. Rambhatla, X. Li and J. Haupt. [<a href="https://openreview.net/forum?id=HJeu43ActQ&noteId=ByxrhUoBe4">Open Review</a>]<br> <em> 2019 International Conference on Learning Representations (ICLR) </em> <br>
    &#127942; <em style="color:#AAA;"> Student Travel Award </em> <br>
@@ -53,19 +56,6 @@ I undertook my doctoral studies with [Prof. Jarvis Haupt](https://www.ece.umn.ed
 </ul>
 </div>
 
-## Preprints
-<div>
-<ul>
-<li> <a href="https://arxiv.org/abs/1902.08304"> A Dictionary-Based Generalization of Robust PCA Part I:  Study of Theoretical Properties. </a> 
- <br> S. Rambhatla, X. Li, J. Ren, and J. Haupt. 
- [<i> Journal under review </i>], 2018 <br>
- </li>
- <li> <a href="https://arxiv.org/abs/1902.10238"> A Dictionary-Based Generalization of Robust PCA Part II: Applications to Target Localization in Hyperspectral Imaging </a> 
- <br> S. Rambhatla, X. Li, J. Ren, and J. Haupt.  
- [<i> Journal under review </i>], 2018 <br>
- </li>
-</ul>
-</div>
 
 ## Talks/Posters 
 <div>
