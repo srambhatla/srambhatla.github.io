@@ -33,7 +33,7 @@ I undertook my doctoral studies with [Prof. Jarvis Haupt](https://www.ece.umn.ed
    <br> S. Rambhatla, X. Li, J. Ren and J. Haupt. [<a href="https://ieeexplore.ieee.org/abstract/document/9019651">Full Paper</a>]<br> <em> 2020 IEEE Transactions on Signal Processing</em> <br>
 </li>
 <li> <a href="https://openreview.net/forum?id=HJeu43ActQ&noteId=ByxrhUoBe4">NOODL: Provable Online Dictionary Learning and Sparse Coding. </a>
-   <br> S. Rambhatla, X. Li and J. Haupt. [<a href="https://openreview.net/forum?id=HJeu43ActQ&noteId=ByxrhUoBe4">Open Review</a>]<br> <em> 2019 International Conference on Learning Representations (ICLR) </em> <br>
+   <br> S. Rambhatla, X. Li and J. Haupt. [<a href="https://openreview.net/forum?id=HJeu43ActQ&noteId=ByxrhUoBe4">Open Review</a>]  [<a href="https://s3.amazonaws.com/postersession.ai/560f7712-6163-4697-b1e2-7064c0654eb3.pdf">Poster</a>]<br> <em> 2019 International Conference on Learning Representations (ICLR) </em> <br>
    &#127942; <em style="color:#AAA;"> Student Travel Award </em> <br>
 </li>
 <li> <a href="https://arxiv.org/abs/1902.10226"> TensorMap: Lidar-based Topological Mapping and Localization via Tensor Decompositions</a>
@@ -53,45 +53,85 @@ I undertook my doctoral studies with [Prof. Jarvis Haupt](https://www.ece.umn.ed
 <li> <a href="https://arxiv.org/abs/1212.0451">Semi-Blind Source Separation via Sparse Representations and Online Dictionary Learning. </a>
   <br> S. Rambhatla and J. Haupt. [<a href="http://arxiv.org/pdf/1212.0451v2.pdf">pdf</a>] [<a href="/docs/PresentationThesisPDF.pdf">slides</a>][<a href="http://sirisharambhatla.com/sbmca/2016/11/15/SBMCA.html"> Results</a>]<br> <em> 2013 IEEE Asilomar Conference on Signals, Systems and Computers.</em> <br>
  </li>
+
+<br>
+<b>Under Review/Preprints</b>
+ <li> <a href="https://arxiv.org/abs/2006.16442">Provable Online CP/PARAFAC Decomposition of a Structured Tensor via Dictionary Learning. </a>
+  <br> S. Rambhatla, X. Li, and J. Haupt. [<a href="https://arxiv.org/pdf/2006.16442.pdf">pdf</a>] <br> <em> Manuscript Under Review, 2020</em> <br>
+ </li>
+
+ <li> <a href="https://arxiv.org/abs/2006.10965">How does this interaction affect me? Interpretable attribution for feature interactions. </a>
+  <br> M. Tsang, S. Rambhatla, Y. Liu. [<a href="https://arxiv.org/pdf/2006.10965.pdf">pdf</a>] <br> <em> Manuscript Under Review, 2020</em> <br>
+ </li>
+
+  <li> <a href="https://arxiv.org/abs/2006.15473">Interpretable Deepfake Detection via Dynamic Prototypes. </a>
+  <br> L. Trinh, M. Tsang, S. Rambhatla, Y. Liu. [<a href="https://arxiv.org/pdf/2006.15473.pdf">pdf</a>] <br> <em> Manuscript Under Review, 2020</em> <br>
+ </li>
+
+  <li> <a href="https://arxiv.org/abs/2006.10965">Physics-aware Spatiotemporal Modules with Auxiliary Tasks for Meta-Learning. </a>
+  <br> S. Seo, C. Meng, S. Rambhatla, Y. Liu. [<a href="https://arxiv.org/pdf/2006.10965.pdf">pdf</a>] <br> <em> Manuscript Under Review, 2020</em> <br>
+ </li>
+
+  <li> <a href="https://sirisharambhatla.com/about/">PolSIRD: Modeling Epidemic Spread under Intervention Policies and an Application to the Spread of COVID-19. </a>
+  <br> N. Kamra, Y. Zhang, S. Rambhatla, C. Meng, Y. Liu. <br> <em> Manuscript Under Review, 2020</em> <br>
+ </li>
+
+  <li> <a href="https://arxiv.org/abs/2003.12309">Coronavirus on Social Media: Analyzing Misinformation in Twitter Conversations. </a>
+  <br>  K. Sharma, S. Seo, C. Meng, S. Rambhatla, Y. Liu. [<a href="https://arxiv.org/pdf/2003.12309.pdf">pdf</a>] <br> <em> Preprint, 2020</em> <br>
+ </li>
+
 </ul>
 </div>
+
 
 
 ## Talks/Posters 
 <div>
 <ul> 
 <li> "Provable Online Dictionary Learning and Sparse Coding", <br>
+   <em>CyberOptics Corporation, </em> <br>
+    <em>Minneapolis, MN, </em> Jun. 2019
+</li>
+<li> "NOODL: Provable Online Dictionary Learning and Sparse Coding", <br>
+   <em>International Conference on Learning Representations (ICLR), </em> <br>
+    <em>New Orleans, LA, </em> May 2019
+</li>
+<li> "Provable Online Dictionary Learning and Sparse Coding", <br>
+   <em>Department of Electrical and Computer Engineering, Georgia Tech. </em> <br>
+    <em>Atlanta, GA, </em> May 2019
+</li>
+<li> "Provable Online Dictionary Learning and Sparse Coding", <br>
    <em>Information Theory and Applications (ITA) Workshop, </em> <br>
-    <em>San Diego, CA </em> Feb. 2019
+    <em>San Diego, CA, </em> Feb. 2019
 </li>
 <li> "Lidar-based Topological Mapping & Localization via Tensor Decompositions.", <br>
    <em>ECE Seminar on Signal Processing, Information Theory, and Communications </em> <br>
-    <em>GlobalSIP, Anaheim, CA </em> November 2018
+    <em>GlobalSIP, Anaheim, CA, </em> November 2018
 </li>
 <li> "Provable Online Dictionary Learning and Matrix Factorization.", <br>
    <em>ECE Seminar on Signal Processing, Information Theory, and Communications </em> <br>
-    <em>Digital Technology Center, Minneapolis, MN  </em> September 2018
+    <em>Digital Technology Center, Minneapolis, MN,  </em> September 2018
 </li>
 <li> "Target-Based Hyper Spectral Demixing via Generalized Robust PCA.", <br>
   <em>ECE Seminar on Signal Processing, Information Theory, and Communications </em> <br>
-   University of Minnesota-Twin Cities, Minneapolis, MN., March, 2018
+   University of Minnesota-Twin Cities, Minneapolis, MN, March, 2018
 </li>
 <li> "Target-Based Hyper Spectral Demixing via Generalized Robust PCA.", <br>
   <em>ECE Seminar on Signal Processing, Information Theory, and Communications </em> <br>
-   University of Minnesota-Twin Cities, Minneapolis, MN., March, 2018
+   <em>University of Minnesota-Twin Cities, Minneapolis, MN,</em> March, 2018
 </li>
 <li> "Provably Recovering Patterns from Data: Matrix to Tensors",<br>
-  <em>Yahoo! Research, San Jose, CA</em>, November 2017
+  <em>Yahoo! Research, San Jose, CA,</em> November 2017
 </li>
 <li> "Dictionary based Generalization of Robust PCA", <br>
-  <em>GlobalSIP, Washington D.C. </em> December 2016
+  <em>GlobalSIP, Washington D.C.,</em> December 2016
 </li>
 <li> "Semi-Blind Source Separation via Sparse Approximation & Online Dictionary Learning.", <br>
-  <em>Asilomar Conference on Signals, Systems & Computers, Pacific Grove, CA.</em>, November 2013
+  <em>Asilomar Conference on Signals, Systems & Computers, Pacific Grove, CA,</em> November 2013
 </li>
 </ul>
 </div>
-## Experience
+<!-- ## Experience
 <div>
 <table >
 <tr >
@@ -209,7 +249,7 @@ I undertook my doctoral studies with [Prof. Jarvis Haupt](https://www.ece.umn.ed
 </td>
 </tr>
 </table>
-</div>
+</div> -->
 
 
 
@@ -219,12 +259,13 @@ I undertook my doctoral studies with [Prof. Jarvis Haupt](https://www.ece.umn.ed
 <li> Session Co-Chair, Reinforcement Learning, Information Theory and Applications (ITA) Workshop, 2019 </li>
 <li> Session Co-Chair, High-dimensional Statistics, Information Theory and Applications (ITA) Workshop, 2019 </li>
 <li>  Session Chair, Deep learning-based Signal Processing for Wireless Communication, IEEE Global Conference on Signal and Information Processing (GlobalSIP), 2018</li>
-<li> Reviewer, IEEE  Transactions on Signal Processing (T-SP) 2014, 2015, 2016, 2018, and 2019</li>
+<li>Reviewer, International Conference on Machine Learning (ICML), 2020</li>
+<li> Reviewer, IEEE  Transactions on Signal Processing (T-SP) 2020, 2019, 2018, 2016, 2015, and 2014</li>
 <li> Reviewer, International Conference on Artificial Intelligence and Statistics (AISTATS) 2016, 2018</li>
 <li> Reviewer, Signal Processing Letters, 2017</li>
 <li> Reviewer, SIAM Journal of Imaging Sciences, 2017</li>
 <li> Reviewer, IEEE  Transactions on Industrial Informatics (T-II) 2017</li>
-<li> Reviewer, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2015, 2016</li>
+<li> Reviewer, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2016, 2015</li>
 </ul>
 </div>
 {% comment %} 
