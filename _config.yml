@@ -75,7 +75,7 @@ google_analytics: UA-361324-2
 
 future: true
 # Location the site is to be built. The source can't be inside the destination
-destination: ./site  #Build into a directory at the same level as the source
+destination: ./_site  #Build into a directory at the same level as the source
 
 # Files or directories inside the destination that you don't want to clobber
 keep_files: [Readme.md, course, doc, figures, images, papers, talks, videos, .gitignore]
