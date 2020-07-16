@@ -23,33 +23,31 @@
 # in the templates via {{ site.myvariable }}.
 ##################################################################
 
-title: Sirisha Rambhatla
-author: Sirisha Rambhatla
+title: j.m. lilly
+author: Jonathan M. Lilly
 description: >- # this means to ignore newlines until "baseurl:"
   The research website of Sirisha Rambhatla.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://sirisharambhatla.com" # the base hostname & protocol for your site
+url: "http://jmlilly.net" # the base hostname & protocol for your site
 
 # The order to list your pages in the nav bar, separated by single spaces
 # The first element is whatever you would like index.html to be called
 # All others refer to files with the ".md" extension in your base directory
-pageorder: "home blog publications software talks vita"
+pageorder: "home blog publications software data talks course vita"
 # The order to list social media in the footer, separated by single spaces
-socialorder: "email github googlescholar linkedin twitter"
-# researchgate"
+socialorder: "email github googlescholar twitter researchgate"
 
 # Contact and social media information ... comment out what you don't have
-email: sirishar@usc.edu
-twitter_username: siri_r
-github_username:  srambhatla
-linkedin_username: sirisharambhatla
-#researchgate_username:
-googlescholar_id: EOSZeBMAAAAJ&hl
+email: eponym@jmlilly.net
+twitter_username: jmlilly
+github_username:  jonathanlilly
+researchgate_username: Jonathan_Lilly
+googlescholar_id: os-j4rIAAAAJ
 # Find this from your Google Scholar address, after "user=" and before the "&"
 # e.g. https://scholar.google.com/citations?user=os-j4rIAAAAJ&hl=en
-#mailchimp_username: jmlilly #Whatver you log in with
-#mailchimp_user_id: 5c78995e12e1229e3cf788002
-#mailchimp_audience_id: b3df7d8423
+mailchimp_username: jmlilly #Whatver you log in with
+mailchimp_user_id: 5c78995e12e1229e3cf788002
+mailchimp_audience_id: b3df7d8423
 # To find your mailchimp IDs is to go to Create > Signup Form > Embedded Form,
 # then look for a string like u=5c78995e12e1229e3cf788002&amp;id=b3df7d8423
 # Your user ID is between "u=" and "&amp", and the audience ID is after "id="
