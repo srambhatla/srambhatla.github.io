@@ -73,6 +73,7 @@ ghostly:
 # See https://support.google.com/analytics/answer/1008080?hl=en to find your ID
 google_analytics: UA-361324-2
 
+future: true
 # Location the site is to be built. The source can't be inside the destination
 destination: ./site  #Build into a directory at the same level as the source
 
