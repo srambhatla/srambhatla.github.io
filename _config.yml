@@ -100,7 +100,7 @@ exclude:
    - ghostly/skeleton
    - Ghostly-make-skeleton.sh #bash shell I use for copying files for skeleton
 sass:
-  sass_dir: _sass
+  sass_dir: ghostly/_sass
   style: compressed
 
 # This paragraph is reproduced from Jekyll's default Minima theme
