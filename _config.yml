@@ -57,7 +57,7 @@ googlescholar_id: EOSZeBMAAAAJ&hl
 commentbox_id: 5640936277147648-proj
 
 # Theme specifications
-theme: ghostly
+remote_theme: https://github.com/jonathanlilly/ghostly
 ghostly:
   date_format: "%B %-d, %Y" # Corresponds to e.g. January 1, 2020
   # see http://shopify.github.io/liquid/filters/date/ for customization
@@ -75,6 +75,7 @@ google_analytics: UA-361324-2
 
 future: true
 # Location the site is to be built. The source can't be inside the destination
+#source: ../
 destination: ./_site  #Build into a directory at the same level as the source
 
 # Files or directories inside the destination that you don't want to clobber
@@ -91,6 +92,7 @@ kramdown:
 plugins:
   - jekyll-feed # For generating a feed of blog posts
   - jekyll-seo-tag #For search engine optimization
+  - jekyll-remote-theme
   # See https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md and
   # https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md
 
