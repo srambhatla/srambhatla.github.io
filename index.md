@@ -26,6 +26,6 @@ I undertook my doctoral studies with [Prof. Jarvis Haupt](https://www.ece.umn.ed
 <a href="/docs/CV.pdf">Curriculum Vitae</a>
 -->
 <p style="text-align: center;">
-| Statistical Machine Learning | Design of Provable Learning Algorithms | Knowledge Representations | Optimization | <br> | Interpretability of Deep Learning Models | <br> | Spatiotemporal Data Analysis |</p>
+| Statistical Machine Learning | Design of Provable Learning Algorithms | Sparse Signal Processing | Optimization | <br> | Interpretability of Deep Learning Models | <br> | Spatiotemporal Data Analysis |</p>
 
 
