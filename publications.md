@@ -40,7 +40,7 @@ title: publications
 
 ## Other Publications
 1. S. Rambhatla (2012). [Semi-blind source separation via sparse representations and online dictionary learning.](http://hdl.handle.net/11299/143883) _Master's Thesis_ [pdf](./docs/Sirisha_Rambhatla_Masters_Thesis.pdf)
-2. S. Rambhatla (2019). [Provably Learning from Data: New Algorithms and Models for Matrix and Tensor Decompositions.](./docs/PhD_thesis_Sirisha_Rambhatla.pdf)_Doctoral Dissertation_ [pdf](./docs/PhD_thesis_Sirisha_Rambhatla.pdf)
+2. S. Rambhatla (2019). [Provably Learning from Data: New Algorithms and Models for Matrix and Tensor Decompositions.](./docs/PhD_thesis_Sirisha_Rambhatla.pdf) _Doctoral Dissertation_ [pdf](./docs/PhD_thesis_Sirisha_Rambhatla.pdf)
 {: .reverse}
 <!--
 1. S. Rambhatla and J. Haupt (2013). [Semi-Blind Source Separation via Sparse Representations and Online Dictionary Learning.](https://ieeexplore.ieee.org/document/6810587) _IEEE Asilomar Conference on Signals, Systems and Computers_, Pacific Grove, CA, pp. 1687-1691. [doi <nobr>10.1109/ACSSC.2013.6810587</nobr>](https://doi.org/10.1109/ACSSC.2013.6810587)[blog](./blog/2016/11/15/SBMCA.html) [slides](./docs/PresentationThesisPDF.pdf) [pdf](https://arxiv.org/abs/1212.0451)
