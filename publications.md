@@ -9,7 +9,7 @@ title: publications
 2. *S. Rambhatla*, N. D. Sidiropoulos, and J. Haupt (2018). [TensorMap: Lidar-based Topological Mapping and Localization via Tensor Decompositions.](https://ieeexplore.ieee.org/document/8646665) _IEEE Global Conference on Signal and Information Processing (GlobalSIP)_, Anaheim, CA, USA, pp. 1368-1372. [doi <nobr>10.1109/GlobalSIP.2018.8646665</nobr>](https://doi.org/10.1109/GlobalSIP.2018.8646665) [pdf](https://arxiv.org/abs/1902.10226)
 3. *S. Rambhatla*, X. Li and J. Haupt (2019). [NOODL: Provable Online Dictionary Learning and Sparse Coding.](https://openreview.net/forum?id=HJeu43ActQ&noteId=ByxrhUoBe4)_International Conference on Learning Representations (ICLR)_, New Orleans, LA, USA. [pdf](https://openreview.net/pdf?id=HJeu43ActQ) [Poster](https://s3.amazonaws.com/postersession.ai/560f7712-6163-4697-b1e2-7064c0654eb3.pdf)<br>
   &#127942; <em style="color:#A4A71E;"> Travel Award </em>
-4. *S. Rambhatla*, X. Li, and J. Haupt (2020). [Provable Online CP/PARAFAC Decomposition of a Structured Tensor via Dictionary Learning.](https://arxiv.org/abs/2006.16442) _(Manuscript Under Review)_. [pdf](https://arxiv.org/pdf/2006.16442.pdf)
+4. *S. Rambhatla*, X. Li, and J. Haupt (2020). [Provable Online CP/PARAFAC Decomposition of a Structured Tensor via Dictionary Learning.](https://arxiv.org/abs/2006.16442) _(Neural Information Processing Systems (NeurIPS))_. [pdf](https://arxiv.org/pdf/2006.16442.pdf)
 {: .reverse} 
 
 
@@ -25,7 +25,7 @@ title: publications
 
 ## Interpretability of Deep Learning Models
 1. L. Trinh, M. Tsang, *S. Rambhatla*, Y. Liu (2020). [Interpretable Deepfake Detection via Dynamic Prototypes.](https://arxiv.org/abs/2006.15473) _(Manuscript Under Review)_. [pdf](https://arxiv.org/pdf/2006.15473.pdf)
-2.  M. Tsang, S. Rambhatla, Y. Liu (2020). [How does this interaction affect me? Interpretable attribution for feature interactions.](https://arxiv.org/abs/2006.10965) _(Manuscript Under Review)_. [pdf](https://arxiv.org/pdf/2006.10965.pdf)
+2.  M. Tsang, S. Rambhatla, Y. Liu (2020). [How does this interaction affect me? Interpretable attribution for feature interactions.](https://arxiv.org/abs/2006.10965) _Neural Information Processing Systems (NeurIPS)_. [pdf](https://arxiv.org/pdf/2006.10965.pdf)
 {: .reverse}
 
 ## Physics Inspired Machine Learning and Spatiotemporal Data Analysis
