@@ -16,14 +16,14 @@ A Matlab package for provable structured CP/PARAFAC tensor factorization via dic
 [Download TensorNOODL](https://github.com/srambhatla/TensorNOODL)
 
 Kindly acknowledge TensorNOODL as
->"S. Rambhatla, X. Li, and J. Haupt (2020). Provable Online CP/PARAFAC Decomposition of a Structured Tensor via Dictionary Learning. _(arxiv preprint arxiv:2006.16442)._ https://arxiv.org/abs/2006.16442
+>"S. Rambhatla, X. Li, and J. Haupt (2020). Provable Online CP/PARAFAC Decomposition of a Structured Tensor via Dictionary Learning. _Neural Information Processing Systems (NeurIPS)_ https://arxiv.org/abs/2006.16442
 
 BibTeX:
 ```
 @article{rambhatla2020provable,
   title={Provable Online CP/PARAFAC Decomposition of a Structured Tensor via Dictionary Learning},
   author={Rambhatla, Sirisha and Li, Xingguo and Haupt, Jarvis},
-  journal={arXiv preprint arXiv:2006.16442},
+  journal={Neural Information Processing Systems (NeurIPS)},
   year={2020}
 }
 ```
