@@ -32,9 +32,9 @@ title: publications
 1. S. Seo, C. Meng, *S. Rambhatla*, Y. Liu (2020). [Physics-aware Spatiotemporal Modules with Auxiliary Tasks for Meta-Learning.](https://arxiv.org/abs/2006.08831) _(Manuscript Under Review)_. [pdf](https://arxiv.org/pdf/2006.08831.pdf)
 {: .reverse}
 
-## COVID-19 Prediction and Misinformation
-1. N. Kamra, Y. Zhang, *S. Rambhatla*, C. Meng, Y. Liu (2020). [PolSIRD: Modeling Epidemic Spread under Intervention Policies and an Application to the Spread of COVID-19.](https://sirisharambhatla.com/publications.html) _(Manuscript Under Review)_.
-2.  K. Sharma, S. Seo, C. Meng, *S. Rambhatla*, Y. Liu (2020). [COVID-19 on Social Media: Analyzing Misinformation in Twitter Conversations.](https://arxiv.org/abs/2003.12309) _(Journal Under Review at the Journal of Computational Social Science)_. [pdf](https://arxiv.org/pdf/2003.12309.pdf) <br>
+## COVID-19 Prediction and Misinformation 
+1. N. Kamra, Y. Zhang, *S. Rambhatla*, C. Meng, Y. Liu (2020). [PolSIRD: Modeling Epidemic Spread under Intervention Policies and an Application to the Spread of COVID-19.](https://arxiv.org/abs/2009.01894) _(Manuscript Under Review)_.
+2.  K. Sharma, S. Seo, C. Meng, *S. Rambhatla*, Y. Liu (2020). [COVID-19 on Social Media: Analyzing Misinformation in Twitter Conversations.](https://arxiv.org/abs/2003.12309) _(Under Review)_. [pdf](https://arxiv.org/pdf/2003.12309.pdf) <br>
   &#128483; <em style="color:#A4A71E;"> [Media Coverage](https://viterbischool.usc.edu/news/2020/03/usc-researchers-analyze-coronavirus-misinformation-on-twitter/) </em>
 {: .reverse}
 
