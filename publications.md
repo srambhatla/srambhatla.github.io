@@ -24,8 +24,8 @@ title: publications
 
 
 ## Interpretability of Deep Learning Models
-1. L. Trinh, M. Tsang, *S. Rambhatla*, Y. Liu (2020). [Interpretable Deepfake Detection via Dynamic Prototypes.](https://arxiv.org/abs/2006.15473) _(Manuscript Under Review)_. [pdf](https://arxiv.org/pdf/2006.15473.pdf)
-2.  M. Tsang, S. Rambhatla, Y. Liu (2020). [How does this interaction affect me? Interpretable attribution for feature interactions.](https://arxiv.org/abs/2006.10965) _Neural Information Processing Systems (NeurIPS)_. [pdf](https://arxiv.org/pdf/2006.10965.pdf)
+1.  M. Tsang, S. Rambhatla, Y. Liu (2020). [How does this interaction affect me? Interpretable attribution for feature interactions.](https://arxiv.org/abs/2006.10965) _Neural Information Processing Systems (NeurIPS)_. [pdf](https://arxiv.org/pdf/2006.10965.pdf)
+2. L. Trinh, M. Tsang, *S. Rambhatla*, Y. Liu (2021). [Interpretable and Trustworthy Deepfake Detection via Dynamic Prototypes.](https://arxiv.org/abs/2006.15473) _IEEE Winter Conference on Applications of Computer Vision (WACV)_. [pdf](https://arxiv.org/pdf/2006.15473.pdf)
 {: .reverse}
 
 ## Physics Inspired Machine Learning and Spatiotemporal Data Analysis
@@ -56,7 +56,7 @@ title: publications
 {: .reverse} 
 
 ## Under Review
-1. L. Trinh, M. Tsang, S. Rambhatla, Y. Liu (2020). [Interpretable Deepfake Detection via Dynamic Prototypes.](https://arxiv.org/abs/2006.15473) _(Manuscript Under Review)_. [pdf](https://arxiv.org/pdf/2006.15473.pdf)
+1. L. Trinh, M. Tsang, S. Rambhatla, Y. Liu (2021). [Interpretable and Trustworthy Deepfake Detection via Dynamic Prototypes.](https://arxiv.org/abs/2006.15473) _IEEE Winter Conference on Applications of Computer Vision (WACV)_. [pdf](https://arxiv.org/pdf/2006.15473.pdf)
 2. N. Kamra, Y. Zhang, S. Rambhatla, C. Meng, Y. Liu (2020). [PolSIRD: Modeling Epidemic Spread under Intervention Policies and an Application to the Spread of COVID-19.](https://sirisharambhatla.com/publications.html) _(Manuscript Under Review)_.
 3. S. Seo, C. Meng, S. Rambhatla, Y. Liu (2020). [Physics-aware Spatiotemporal Modules with Auxiliary Tasks for Meta-Learning.](https://arxiv.org/abs/2006.08831) _(Manuscript Under Review)_. [pdf](https://arxiv.org/pdf/2006.08831.pdf)
 4.  M. Tsang, S. Rambhatla, Y. Liu (2020). [How does this interaction affect me? Interpretable attribution for feature interactions.](https://arxiv.org/abs/2006.10965) _(Manuscript Under Review)_. [pdf](https://arxiv.org/pdf/2006.10965.pdf)
