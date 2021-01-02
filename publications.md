@@ -29,19 +29,24 @@ title: publications
 {: .reverse}
 
 ## Physics Inspired Machine Learning and Spatiotemporal Data Analysis
-1. S. Seo, C. Meng, *S. Rambhatla*, Y. Liu (2020). [Physics-aware Spatiotemporal Modules with Auxiliary Tasks for Meta-Learning.](https://arxiv.org/abs/2006.08831) _(Manuscript Under Review)_. [pdf](https://arxiv.org/pdf/2006.08831.pdf)
+1. S. Seo\*, C. Meng\*, *S. Rambhatla*, Y. Liu (2020). [Physics-aware Spatiotemporal Modules with Auxiliary Tasks for Meta-Learning.](https://arxiv.org/abs/2006.08831) _Neural Information Processing Systems (NeurIPS) Workshop on Machine Learning and the Physical Sciences_. [pdf](https://arxiv.org/pdf/2006.08831.pdf)
+2. C. Meng, *S. Rambhatla*, Y. Liu (2020). [Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling.](/publications.html) _(Manuscript Under Review)_.
 {: .reverse}
 
 ## COVID-19 Prediction and Misinformation 
 1. N. Kamra, Y. Zhang, *S. Rambhatla*, C. Meng, Y. Liu (2020). [PolSIRD: Modeling Epidemic Spread under Intervention Policies and an Application to the Spread of COVID-19.](https://arxiv.org/abs/2009.01894) _(Manuscript Under Review)_.
 2.  K. Sharma, S. Seo, C. Meng, *S. Rambhatla*, Y. Liu (2020). [COVID-19 on Social Media: Analyzing Misinformation in Twitter Conversations.](https://arxiv.org/abs/2003.12309) _(Under Review)_. [pdf](https://arxiv.org/pdf/2003.12309.pdf) <br>
   &#128483; <em style="color:#A4A71E;"> [Media Coverage](https://viterbischool.usc.edu/news/2020/03/usc-researchers-analyze-coronavirus-misinformation-on-twitter/) </em>
+3. *S. Rambhatla\**, S. Zeighami\*, K. Shahabi, C. Shahabi, and Y. Liu (2020). [Towards Accurate Spatiotemporal COVID-19 Risk Scores using High Resolution Real-World Mobility Data.](https://arxiv.org/abs/2012.07283) _Journal Under Review_.
 {: .reverse}
 
 ## Other Publications
 1. S. Rambhatla (2012). [Semi-blind source separation via sparse representations and online dictionary learning.](http://hdl.handle.net/11299/143883) _Master's Thesis_ [pdf](./docs/Sirisha_Rambhatla_Masters_Thesis.pdf)
 2. S. Rambhatla (2019). [Provably Learning from Data: New Algorithms and Models for Matrix and Tensor Decompositions.](./docs/PhD_thesis_Sirisha_Rambhatla.pdf) _Doctoral Dissertation_ [pdf](./docs/PhD_thesis_Sirisha_Rambhatla.pdf)
 {: .reverse}
+
+\* Equal contribution.
+
 <!--
 1. S. Rambhatla and J. Haupt (2013). [Semi-Blind Source Separation via Sparse Representations and Online Dictionary Learning.](https://ieeexplore.ieee.org/document/6810587) _IEEE Asilomar Conference on Signals, Systems and Computers_, Pacific Grove, CA, pp. 1687-1691. [doi <nobr>10.1109/ACSSC.2013.6810587</nobr>](https://doi.org/10.1109/ACSSC.2013.6810587)[blog](./blog/2016/11/15/SBMCA.html) [slides](./docs/PresentationThesisPDF.pdf) [pdf](https://arxiv.org/abs/1212.0451)
 2. S. Rambhatla, X. Li and J. Haupt (2016). [A Dictionary Based Generalization of Robust PCA.](https://ieeexplore.ieee.org/document/7906054) _IEEE Global Conference on Signal and Information Processing (GlobalSIP)_, Washington, DC, pp.1315-1319.[doi <nobr>10.1109/GlobalSIP.2016.7906054</nobr>](https://doi.org/10.1109/GlobalSIP.2016.7906054) [slides](/docs/Dictionary_based_generalization_of_robust_PCA_Sirisha_R.pdf) [pdf](https://arxiv.org/abs/1902.08171) <br>

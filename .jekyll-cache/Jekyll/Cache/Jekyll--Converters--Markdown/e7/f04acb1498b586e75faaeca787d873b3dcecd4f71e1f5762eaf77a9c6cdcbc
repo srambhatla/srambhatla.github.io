@@ -1,29 +1,4 @@
-<!DOCTYPE html>
-<html lang=" en "><head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="keywords" content="lilly, jonathan lilly, j.m. lilly, jm lilly, ocean, oceanography, eddy, eddies, wavelet, wavelets">
-  <!-- seo includes setting the title <title>Sirisha Rambhatla </title>--><!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>publications | Sirisha Rambhatla</title>
-<meta name="generator" content="Jekyll v4.0.1" />
-<meta property="og:title" content="publications" />
-<meta name="author" content="Sirisha Rambhatla" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="The research website of Sirisha Rambhatla." />
-<meta property="og:description" content="The research website of Sirisha Rambhatla." />
-<link rel="canonical" href="http://localhost:4000/publications.html" />
-<meta property="og:url" content="http://localhost:4000/publications.html" />
-<meta property="og:site_name" content="Sirisha Rambhatla" />
-<script type="application/ld+json">
-{"@type":"WebPage","url":"http://localhost:4000/publications.html","author":{"@type":"Person","name":"Sirisha Rambhatla"},"headline":"publications","description":"The research website of Sirisha Rambhatla.","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Sirisha Rambhatla" /><!-- Included since I plan to use javascript for link modification -->    
-  <script src="/assets/jquery-3.4.1.min.js"> </script></head>
-<body><header class="site-header" role="banner">
-    <h1> Sirisha Rambhatla </h1><!-- highlight home in nav when viewing homepage category posts --><!-- highlight blog in nav when viewing blog category posts --><a class="nav" href="/index.html">home</a><!-- highlight home in nav when viewing homepage category posts --><!-- highlight blog in nav when viewing blog category posts -->|<a class="nav" href="/blog.html">blog</a><!-- highlight home in nav when viewing homepage category posts --><!-- highlight blog in nav when viewing blog category posts -->|<a class="nav current" href="/publications.html">publications</a><!-- highlight home in nav when viewing homepage category posts --><!-- highlight blog in nav when viewing blog category posts -->|<a class="nav" href="/teaching.html">teaching</a><!-- highlight home in nav when viewing homepage category posts --><!-- highlight blog in nav when viewing blog category posts -->|<a class="nav" href="/software.html">software</a><!-- highlight home in nav when viewing homepage category posts --><!-- highlight blog in nav when viewing blog category posts -->|<a class="nav" href="/talks.html">talks</a><!-- highlight home in nav when viewing homepage category posts --><!-- highlight blog in nav when viewing blog category posts -->|<a class="nav" href="/vita.html">vita</a></header>
-<main>
-        <div class="content fade-in">
-             <!--Converted from existing html with https://www.browserling.com/tools/html-to-markdown-->
+I"�1<!--Converted from existing html with https://www.browserling.com/tools/html-to-markdown-->
 <h2 id="matrix-and-tensor-factorization-and-their-applications">Matrix and Tensor Factorization and their Applications</h2>
 <ol class="reverse">
   <li><em>S. Rambhatla</em> and J. Haupt (2013). <a href="https://ieeexplore.ieee.org/document/6810587">Semi-Blind Source Separation via Sparse Representations and Online Dictionary Learning.</a> <em>IEEE Asilomar Conference on Signals, Systems and Computers</em>, Pacific Grove, CA, pp. 1687-1691. <a href="https://doi.org/10.1109/ACSSC.2013.6810587">doi <nobr>10.1109/ACSSC.2013.6810587</nobr></a><a href="./blog/2016/11/15/SBMCA.html">blog</a> <a href="./docs/PresentationThesisPDF.pdf">slides</a> <a href="https://arxiv.org/abs/1212.0451">pdf</a></li>
@@ -51,7 +26,7 @@
 
 <h2 id="physics-inspired-machine-learning-and-spatiotemporal-data-analysis">Physics Inspired Machine Learning and Spatiotemporal Data Analysis</h2>
 <ol class="reverse">
-  <li>S. Seo*, C. Meng*, <em>S. Rambhatla</em>, Y. Liu (2020). <a href="https://arxiv.org/abs/2006.08831">Physics-aware Spatiotemporal Modules with Auxiliary Tasks for Meta-Learning.</a> <em>Neural Information Processing Systems (NeurIPS) Workshop on Machine Learning and the Physical Sciences</em>. <a href="https://arxiv.org/pdf/2006.08831.pdf">pdf</a></li>
+  <li>S. Seo, C. Meng, <em>S. Rambhatla</em>, Y. Liu (2020). <a href="https://arxiv.org/abs/2006.08831">Physics-aware Spatiotemporal Modules with Auxiliary Tasks for Meta-Learning.</a> <em>Neural Information Processing Systems (NeurIPS) Workshop on Machine Learning and the Physical Sciences</em>. <a href="https://arxiv.org/pdf/2006.08831.pdf">pdf</a></li>
   <li>C. Meng, <em>S. Rambhatla</em>, Y. Liu (2020). <a href="/publications.html">Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling.</a> <em>(Manuscript Under Review)</em>.</li>
 </ol>
 
@@ -60,7 +35,7 @@
   <li>N. Kamra, Y. Zhang, <em>S. Rambhatla</em>, C. Meng, Y. Liu (2020). <a href="https://arxiv.org/abs/2009.01894">PolSIRD: Modeling Epidemic Spread under Intervention Policies and an Application to the Spread of COVID-19.</a> <em>(Manuscript Under Review)</em>.</li>
   <li>K. Sharma, S. Seo, C. Meng, <em>S. Rambhatla</em>, Y. Liu (2020). <a href="https://arxiv.org/abs/2003.12309">COVID-19 on Social Media: Analyzing Misinformation in Twitter Conversations.</a> <em>(Under Review)</em>. <a href="https://arxiv.org/pdf/2003.12309.pdf">pdf</a> <br />
   🗣 <em style="color:#A4A71E;"> <a href="https://viterbischool.usc.edu/news/2020/03/usc-researchers-analyze-coronavirus-misinformation-on-twitter/">Media Coverage</a> </em></li>
-  <li><em>S. Rambhatla*</em>, S. Zeighami*, K. Shahabi, C. Shahabi, and Y. Liu (2020). <a href="https://arxiv.org/abs/2012.07283">Towards Accurate Spatiotemporal COVID-19 Risk Scores using High Resolution Real-World Mobility Data.</a> <em>Journal Under Review</em>.</li>
+  <li><em>S. Rambhatla*</em>, S. Zeighami, K. Shahabi, C. Shahabi, and Y. Liu (2020). <a href="https://arxiv.org/abs/2012.07283">Towards Accurate Spatiotemporal COVID-19 Risk Scores using High Resolution Real-World Mobility Data.</a> <em>Journal Under Review</em>.</li>
 </ol>
 
 <h2 id="other-publications">Other Publications</h2>
@@ -68,9 +43,6 @@
   <li>S. Rambhatla (2012). <a href="http://hdl.handle.net/11299/143883">Semi-blind source separation via sparse representations and online dictionary learning.</a> <em>Master’s Thesis</em> <a href="./docs/Sirisha_Rambhatla_Masters_Thesis.pdf">pdf</a></li>
   <li>S. Rambhatla (2019). <a href="./docs/PhD_thesis_Sirisha_Rambhatla.pdf">Provably Learning from Data: New Algorithms and Models for Matrix and Tensor Decompositions.</a> <em>Doctoral Dissertation</em> <a href="./docs/PhD_thesis_Sirisha_Rambhatla.pdf">pdf</a></li>
 </ol>
-
-<p>* Equal contribution.</p>
-
 <!--
 1. S. Rambhatla and J. Haupt (2013). [Semi-Blind Source Separation via Sparse Representations and Online Dictionary Learning.](https://ieeexplore.ieee.org/document/6810587) _IEEE Asilomar Conference on Signals, Systems and Computers_, Pacific Grove, CA, pp. 1687-1691. [doi <nobr>10.1109/ACSSC.2013.6810587</nobr>](https://doi.org/10.1109/ACSSC.2013.6810587)[blog](./blog/2016/11/15/SBMCA.html) [slides](./docs/PresentationThesisPDF.pdf) [pdf](https://arxiv.org/abs/1212.0451)
 2. S. Rambhatla, X. Li and J. Haupt (2016). [A Dictionary Based Generalization of Robust PCA.](https://ieeexplore.ieee.org/document/7906054) _IEEE Global Conference on Signal and Information Processing (GlobalSIP)_, Washington, DC, pp.1315-1319.[doi <nobr>10.1109/GlobalSIP.2016.7906054</nobr>](https://doi.org/10.1109/GlobalSIP.2016.7906054) [slides](/docs/Dictionary_based_generalization_of_robust_PCA_Sirisha_R.pdf) [pdf](https://arxiv.org/abs/1902.08171) <br>
@@ -95,20 +67,4 @@
 {: .reverse} 
 
 -->
-</div>
-    </main><footer>
-    <div><a class="media" href="mailto:sirishar@usc.edu">Email</a>|<a class="media" href="https://github.com/srambhatla">GitHub</a>|<a class="media" href="https://scholar.google.com/citations?user=EOSZeBMAAAAJ&hl">Google Scholar</a>||<a class="media" href="https://twitter.com/siri_r">Twitter</a>
-            <br/><p>&copy; 2005&mdash;2020 Sirisha Rambhatla | Powered by <a href="https://jekyllrb.com/">Jekyll</a> using the <a href="https://github.com/jonathanlilly/ghostly">Ghostly</a> theme</p>
-    </div>
-</footer>
-<script>
-    // rules for putting braces around html and mailto links and square brackets around other types
-    // square bracket rules ...ending with any of these
-    $('a[href$="pdf"],a[href$="mp4"],a[href$="zip"],a[href$="gz"],a[href$="mlx"],a[href$="gz"]').prepend('[').append(']');
-    // brace rules ... starts with / http or https except ends with pdf, ends with html except when class=nav,
-    // starts with mailto or javascript,
-    $('a[href^="/"]:not([href$="pdf"]):not([href$="zip"]):not(.nav),a[href^="http"]:not([href$="pdf"]):not([href$="zip"]),a[href^="https"]:not([href$="pdf"]):not([href$="zip"]),[href$="html"]:not(.nav),a[href^="mailto"],a[href^="javascript"]').prepend('{').append('}');
-    // see https://www.quackit.com/css/selectors/ for an helpful instroduction to css selectors
-</script>
-<!--  Lightbox Javascript --><!-- Mailchimp Javascript --><!-- Commentbox Javascript --></body>
-</html>
+:ET
