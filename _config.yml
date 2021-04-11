@@ -1,128 +1,205 @@
-# Configuration file for use with the Ghostly theme
-
-# This paragraph is reproduced from Jekyll's default Minima theme
-##################################################################
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
+# -----------------------------------------------------------------------------
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-##################################################################
+# -----------------------------------------------------------------------------
 
-title: Sirisha Rambhatla
-author: Sirisha Rambhatla
-description: >- # this means to ignore newlines until "baseurl:"
-  The research website of Sirisha Rambhatla.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://sirisharambhatla.com" # the base hostname & protocol for your site
-
-# The order to list your pages in the nav bar, separated by single spaces
-# The first element is whatever you would like index.html to be called
-# All others refer to files with the ".md" extension in your base directory
-pageorder: "home blog publications teaching software talks vita"
-# The order to list social media in the footer, separated by single spaces
-socialorder: "email github googlescholar linkedin twitter"
-# researchgate"
-
-# Contact and social media information ... comment out what you don't have
+title: blank # the website title (if blank, full name will be used instead)
+first_name: Sirisha
+middle_name:
+last_name: Rambhatla
 email: sirishar@usc.edu
-twitter_username: siri_r
-github_username:  srambhatla
-linkedin_username: sirisharambhatla
-#researchgate_username:
-googlescholar_id: EOSZeBMAAAAJ&hl
-# Find this from your Google Scholar address, after "user=" and before the "&"
-# e.g. https://scholar.google.com/citations?user=os-j4rIAAAAJ&hl=en
-#mailchimp_username: jmlilly #Whatver you log in with
-#mailchimp_user_id: 5c78995e12e1229e3cf788002
-#mailchimp_audience_id: b3df7d8423
-# To find your mailchimp IDs is to go to Create > Signup Form > Embedded Form,
-# then look for a string like u=5c78995e12e1229e3cf788002&amp;id=b3df7d8423
-# Your user ID is between "u=" and "&amp", and the audience ID is after "id="
-# If the form doesn't work, compare your code with that in mailchimp.html
-commentbox_id: 5640936277147648-proj
+description: > # the ">" symbol means to ignore newlines until "footer_text:"
+  Research website of Sirisha Rambhatla
+footer_text: >
+  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
-# Theme specifications
-remote_theme: https://github.com/jonathanlilly/ghostly
-ghostly:
-  date_format: "%B %-d, %Y" # Corresponds to e.g. January 1, 2020
-  # see http://shopify.github.io/liquid/filters/date/ for customization
-  backbutton: <a href="javascript:history.back()">{&xlarr; Back}</a>
-  morebutton: "&xrarr;" # Styling for back and more buttons respectively
-  linkwrapping: true #Enable default Ghostly behavior of wrapping
-  # html links in braces {} and others (e.g. to pdfs) in brackets []
-  blogsymbol: <span>&xodot;</span> # Symbol to return from post to blog page
-  # Note that in the above html code, no spaces are allow around the ":"s
-  itemseparator: "|" # Symbol to separate items in horizontal lists
+icon:  # the emoji used as the favicon
+url: "http://sirisharambhatla.com" # the base hostname & protocol for your site
+baseurl:  # the subpath of your site, e.g. /blog/
+last_updated: true # set to true if you want to display last updated in the footer
+impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
-# Enable Google Analytics
-# See https://support.google.com/analytics/answer/1008080?hl=en to find your ID
-google_analytics: UA-361324-2
+# -----------------------------------------------------------------------------
+# Layout
+# -----------------------------------------------------------------------------
 
-future: true
-# Location the site is to be built. The source can't be inside the destination
-#source: ../
-destination: ./_site  #Build into a directory at the same level as the source
+navbar_fixed: true
+footer_fixed: true
 
-# Files or directories inside the destination that you don't want to clobber
-keep_files: [Readme.md, course, doc, figures, images, papers, talks, videos, .gitignore]
+# Dimensions
+max_width: 950px
 
-##################################################################
-# The following values won't need to be changed unless you modify Ghostly
+# TODO: add layout settings (single page vs. multi-page)
 
-# Set kramdown to globally parse within html tags
-# See https://kramdown.gettalong.org/syntax.html
+# -----------------------------------------------------------------------------
+# Open Graph
+# -----------------------------------------------------------------------------
+# Display links to the page with a preview object on social media.
+serve_og_meta: false # Include Open Graph meta tags in the HTML head
+og_image: # The site-wide (default for all links) Open Graph preview image
+
+# -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
+
+github_username: srambhatla
+twitter_username: siri_r # your Twitter handle
+linkedin_username: sirisharambhatla # your LinkedIn user name
+scholar_userid: EOSZeBMAAAAJ&hl # your Google Scholar ID
+#orcid_id: # your ORCID ID
+#medium_username: # your Medium username
+#quora_username: # your Quora username
+#publons_id: # your ID on Publons
+#research_gate_profile: # your profile on ResearchGate
+#blogger_url: # your blogger URL
+#work_url: # work page URL
+#keybase_username: # your keybase user name
+#wikidata_id: # your wikidata id
+
+#contact_note: >
+#  You can even add a little note about which of these is the best way to reach you.
+
+#google_analytics: UA-XXXXXXXXX # out your google-analytics code
+#panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
+
+# -----------------------------------------------------------------------------
+# Blog
+# -----------------------------------------------------------------------------
+
+blog_name: blog  # your blog must have a name for it to show up in the nav bar
+blog_description: notes
+permalink: /blog/:year/:title/
+
+# Pagination
+pagination:
+  enabled: true
+
+# Comments
+#disqus_shortname: al-folio # put your disqus shortname
+
+# -----------------------------------------------------------------------------
+# Collections
+# -----------------------------------------------------------------------------
+
+collections:
+  news:
+    defaults:
+      layout: post
+    output: true
+    permalink: /news/:path/
+  projects:
+    output: false
+    permalink: /projects/:path/
+
+news_limit: 5
+
+# -----------------------------------------------------------------------------
+# Jekyll settings
+# -----------------------------------------------------------------------------
+
+# Markdown and syntax highlight
+markdown: kramdown
+highlighter: rouge
+highlight_theme: github  # https://github.com/jwarby/jekyll-pygments-themes
 kramdown:
-    parse_block_html: true
+  input: GFM
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+    span:
+      line_numbers: false
+    block:
+      line_numbers: false
+      start_line: 1
 
-plugins:
-  - jekyll-feed # For generating a feed of blog posts
-  - jekyll-seo-tag #For search engine optimization
-  - jekyll-remote-theme
-  # See https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md and
-  # https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md
-
-# Exclude from processing
+# Includes & excludes
+include: ['_pages']
 exclude:
-   - minima
-   - ghostly/skeleton
-   - Ghostly-make-skeleton.sh #bash shell I use for copying files for skeleton
-sass:
-  sass_dir: ./ghostly/_sass
-  style: compressed
+  - bin
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+keep_files:
+  - CNAME
+  - .nojekyll
+  - .git
 
-# This paragraph is reproduced from Jekyll's default Minima theme
-##################################################################
-# The following items will not be processed, by default
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list"
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-##################################################################
+# Plug-ins
+plugins:
+  - jekyll-email-protect
+  - jekyll-github-metadata
+  - jekyll-paginate-v2
+  - jekyll/scholar
+  - jekyll-twitter-plugin
+  - jemoji
+
+# Extras
+github: [metadata]
+
+# -----------------------------------------------------------------------------
+# Jekyll Scholar
+# -----------------------------------------------------------------------------
+
+scholar:
+  sort_by: year, month
+  
+  last_name: Rambhatla
+  first_name: [Sirisha, S.]
+
+  style: apa
+  locale: en
+
+  source: /_bibliography/
+  bibliography: papers.bib
+  bibliography_template: bib
+
+  replace_strings: true
+  join_strings: true
+
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: Details
+
+  query: "@*"
+
+# -----------------------------------------------------------------------------
+# Optional Features
+# -----------------------------------------------------------------------------
+
+enable_google_analytics:    false
+enable_panelbear_analytics: false
+enable_mansory:             true
+enable_math:                true
+enable_tooltips:            false
+enable_darkmode:            true
+enable_navbar_social:       true
+
+# -----------------------------------------------------------------------------
+# Library versions
+# -----------------------------------------------------------------------------
+
+academicons:
+  version: "1.9.0"
+  integrity: "sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg=="
+bootstrap:
+  version: "4.5.2"
+  integrity:
+    css: "sha512-MoRNloxbStBcD8z3M/2BmnT+rg4IsMxPkXaGh2zD6LGNNFE80W3onsAhRcMAMrSoyWL9xD7Ert0men7vR8LUZg=="
+    js: "sha512-M5KW3ztuIICmVIhjSqXe01oV2bpe248gOxqmlcYrEzAvws7Pw3z6BK0iGbrwvdrUQUhi3eXgtxp5I8PDo9YfjQ=="
+fontawesome:
+  version: "5.14.0"
+  integrity: "sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog=="
+jquery:
+  version: "3.5.1"
+  integrity: "sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg=="
+mathjax:
+  version: "3.1.2"
+mansory:
+  version: "4.2.2"
+  integrity: "sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI="
+mdb:
+  version: "4.19.1"
+  integrity:
+    css: "sha512-RO38pBRxYH3SoOprtPTD86JFOclM51/XTIdEPh5j8sj4tp8jmQIx26twG52UaLi//hQldfrh7e51WzP9wuP32Q=="
+    js: "sha512-Mug9KHKmroQFMLm93zGrjhibM2z2Obg9l6qFG2qKjXEXkMp/VDkI4uju9m4QKPjWSwQ6O2qzZEnJDEeCw0Blcw=="
+popper:
+  version: "2.4.4"
+  integrity: "sha512-eUQ9hGdLjBjY3F41CScH3UX+4JDSI9zXeroz7hJ+RteoCaY+GP/LDoM8AO+Pt+DRFw3nXqsjh9Zsts8hnYv8/A=="
