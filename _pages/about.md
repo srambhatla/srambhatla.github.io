@@ -36,6 +36,5 @@ I am a Postdoctoral fellow at the [Melady Lab](https://melady.usc.edu/){:target=
 #### Areas of Interests
 | Statistical Machine Learning | Design of Provable Learning Algorithms | Interpretability of Deep Learning Models | AI for Healthcare | Spatiotemporal Data Analysis |
 
-&nbsp;
 
-:earth_asia: _Site viewed best on desktop with full screen._
+
