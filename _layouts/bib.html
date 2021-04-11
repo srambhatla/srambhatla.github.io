@@ -1,9 +1,9 @@
 ---
 ---
 
-<div class="row" style="margin-bottom: 80px;margin-top: 80px; ">
+<div class="row" style="margin-bottom: 40px;margin-top: 40px; ">
 
-  <div class="col-sm-3 abbr" style="text-align:center;">
+  <div class="col-sm-3 col-push-7 abbr" style="text-align:center;">
     <div class='figure' style="background-color:white-color; text-align:center;">
     <img src="{{ entry.img | prepend: '/assets/img/'}}"
          style="width: 100%; display: block; margin: 0 auto; background-color:white;"/>
@@ -24,7 +24,7 @@
   </div>
   </div>
 
-  <div id="{{entry.key}}" class="col-sm-7">
+  <div id="{{entry.key}}" class="col-sm-7 col-pull-7">
     {% if entry.type == "thesis" %}
       {{reference}}
     {% else %}
