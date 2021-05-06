@@ -227,20 +227,32 @@ abbr={TSP},
  
 }
 
- @article{trinh2020interpretable,
-     abbr={WACV},
-    title={Interpretable and Trustworthy Deepfake Detection via Dynamic Prototypes},
-    author={L. Trinh and M. Tsang and S. Rambhatla and Y. Liu},
-    journal={IEEE Winter Conference on Applications of Computer Vision (WACV)},
-    pdf={https://openaccess.thecvf.com/content/WACV2021/papers/Trinh_Interpretable_and_Trustworthy_Deepfake_Detection_via_Dynamic_Prototypes_WACV_2021_paper.pdf},
-    arxiv={2006.15473},
-    url={https://arxiv.org/abs/2006.15473},
-    abstract={In this paper we propose a novel human-centered ap- proach for detecting forgery in face images, using dynamic prototypes as a form of visual explanations. Currently, most state-of-the-art deepfake detections are based on black-box models that process videos frame-by-frame for inference, and few closely examine their temporal inconsistencies. However, the existence of such temporal artifacts within deepfake videos is key in detecting and explaining deep- fakes to a supervising human. To this end, we propose Dynamic Prototype Network (DPNet) – an interpretable and effective solution that utilizes dynamic representations (i.e., prototypes) to explain deepfake temporal artifacts. Extensive experimental results show that DPNet achieves competitive predictive performance, even on unseen test- ing datasets such as Google’s DeepFakeDetection, Deep- erForensics, and Celeb-DF, while providing easy referential explanations of deepfake dynamics. On top of DPNet’s pro- totypical framework, we further formulate temporal logic specifications based on these dynamics to check our model’s compliance to desired temporal behaviors, hence providing trustworthiness for such critical detection systems.
-    },
-     img={DPNet_resized.gif},
-    year={2021}
-  }
 
+     @article{Hung2021a,
+         abbr={AUA},
+      title= {Automating suturing skills assessment with a limited surgeon dataset: Meta learning},
+      author={A. J. Hung and S. Rambhatla and D. I. Sanford and N. Pachauri and J. H. Nguyen and Y. Liu},
+        img={RAS.gif},
+      journal={American Urology Association},
+        award={Podium Talk},
+        month={1},
+      year={2021}
+    } 
+    
+       @article{seo2021physics,
+        abbr={IJCAI}, 
+        title={Physics-aware Spatiotemporal Modules with Auxiliary Tasks for Meta-Learning},
+        author={S. Seo and C. Meng and S. Rambhatla and Y. Liu},
+        journal={International Joint Conferences on Artificial Intelligence (IJCAI)},
+        url={https://arxiv.org/abs/2006.08831},
+        pdf={https://arxiv.org/pdf/2006.08831.pdf},
+        arxiv={2006.08831},
+        abstract={Modeling the dynamics of real-world physical systems is critical for spatiotemporal prediction tasks, but challenging when data is limited. The scarcity of real-world data and the difficulty in reproducing the data distribution hinder directly applying meta-learning techniques. Although the knowledge of governing partial differential equations (PDEs) of the data can be helpful for the fast adaptation to few observations, it is difficult to generalize to different or unknown dynamics. In this paper, we propose a framework, physics-aware modular meta-learning with auxiliary tasks (PiMetaL) whose spatial modules incorporate PDE-independent knowledge and temporal modules are rapidly adaptable to the limited data, respectively. The framework does not require the exact form of governing equations to model the observed spatiotemporal data. Furthermore, it mitigates the need for a large number of real-world tasks for meta-learning by leveraging simulated data. We apply the proposed framework to both synthetic and real-world spatiotemporal prediction tasks and demonstrate its superior performance with limited observations. },
+         img={PiMetal_zoom.png},
+         month={1},
+        year={2021}
+      }
+    
 
     @article{Xu2021a,
       abbr={ICLR Workshop}, 
@@ -249,6 +261,7 @@ abbr={TSP},
       abstract={Recent pandemic events have greatly emphasized the need to understand how hu-mans navigate in modern day cities for both urban planning and recommendingeffective public health policy.  In this paper, we propose a two-stage generativemodel,DeltaGAN, to simulate realistic human mobility trajectories.  Comparedwith existing work where time was discretized,DeltaGANgenerates continuousvisitation time which better captures temporal irregularity in human mobility be-haviors.  Conditioned on the generated time,DeltaGANproduces accurate loca-tions via limiting the range of realizable candidates. Experimental results demon-strate our model achieves competitive distributional similarity to real-world GPStrajectories across 6 individual trajectory and geographical metrics.  We furthervalidateDeltaGAN’s utility on COVID-19 spread simulation and observe the dif-fusion process under generated trajectories is consistent with that under real data.},
       author={N. Xu* and L. Trinh* and S. Rambhatla and S. Assefa and J. Chen and Z. Zeng and Y. Liu},
       journal={Deep Learning for Simulation Workshop, International Conference on Learning Representations (ICLR)},
+      month={1},
       year={2021}
     } 
 
@@ -262,29 +275,37 @@ abbr={TSP},
       pdf={https://arxiv.org/pdf/2009.01894.pdf},
       abstract={Epidemic spread in a population is traditionally modeled via compartmentalized models which represent the free evolution of disease in absence of any intervention policies. In addition, these models assume full observability and do not account for under-reporting of cases. We present a mathematical model, namely PolSIRD, which accounts for the under-reporting by introducing an observation mechanism. It also captures the effects of intervention policies on the disease spread parameters by leveraging intervention policy data along with the reported disease cases. Furthermore, we allow our recurrent model to learn the initial hidden state of all compartments end-to-end along with other parameters via gradient-based training. We apply our model to spread of the recent global outbreak of COVID-19 where our model outperforms the current methods employed by the CDC in most of the metrics. We also provide actionable guidance on the lifting of intervention policies via counterfactual simulations from our model.},
       journal={Journal of Healthcare Informatics Research},
+      month={1},
       year={2021}
     }
    
-      @article{Hung2021a,
+
+
+    
+ @article{trinh2020interpretable,
+     abbr={WACV},
+    title={Interpretable and Trustworthy Deepfake Detection via Dynamic Prototypes},
+    author={L. Trinh and M. Tsang and S. Rambhatla and Y. Liu},
+    journal={IEEE Winter Conference on Applications of Computer Vision (WACV)},
+    pdf={https://openaccess.thecvf.com/content/WACV2021/papers/Trinh_Interpretable_and_Trustworthy_Deepfake_Detection_via_Dynamic_Prototypes_WACV_2021_paper.pdf},
+    arxiv={2006.15473},
+    url={https://arxiv.org/abs/2006.15473},
+    abstract={In this paper we propose a novel human-centered ap- proach for detecting forgery in face images, using dynamic prototypes as a form of visual explanations. Currently, most state-of-the-art deepfake detections are based on black-box models that process videos frame-by-frame for inference, and few closely examine their temporal inconsistencies. However, the existence of such temporal artifacts within deepfake videos is key in detecting and explaining deep- fakes to a supervising human. To this end, we propose Dynamic Prototype Network (DPNet) – an interpretable and effective solution that utilizes dynamic representations (i.e., prototypes) to explain deepfake temporal artifacts. Extensive experimental results show that DPNet achieves competitive predictive performance, even on unseen test- ing datasets such as Google’s DeepFakeDetection, Deep- erForensics, and Celeb-DF, while providing easy referential explanations of deepfake dynamics. On top of DPNet’s pro- totypical framework, we further formulate temporal logic specifications based on these dynamics to check our model’s compliance to desired temporal behaviors, hence providing trustworthiness for such critical detection systems.
+    },
+     img={DPNet_resized.gif},
+     month={1},
+    year={2021}
+  }
+
+      @article{Hung2021b,
           abbr={Under Review},
       title= {Automating Robotic Suturing Skills Assessment: Battling Mislabeling \& Label Uncertainty},
       author={A. J. Hung and S. Rambhatla and D. I. Sanford and N. Pachauri and E. Vanstrum and J. H. Nguyen and Y. Liu},
       journal={(Under Review)},
+      month={10},
       img={NoiseRank.png},
       year={2021}
     } 
-     @article{Hung2021b,
-         abbr={Under Review},
-      title= {Automating suturing skills assessment with a limited surgeon dataset: Meta learning},
-      author={A. J. Hung and S. Rambhatla and D. I. Sanford and N. Pachauri and J. H. Nguyen and Y. Liu},
-        img={RAS.gif},
-      journal={(Under Review)},
-      year={2021}
-    } 
-    
-
-
-
 
     @article{Huang2021b,
         abbr={Under Review},
@@ -292,6 +313,7 @@ abbr={TSP},
       author={S. Huang* and S. Rambhatla* and L. Trinh and M. Zhang and M. Dong and V. Unadkat and H. A. Yenikomshian and J. Gillenwater and Y. Liu},
       img={DL4Burn.png},
       journal={(Manuscript Under Review)},
+      month={10},
       year={2021}
     } 
 
@@ -300,9 +322,10 @@ abbr={TSP},
     @article{Huang2021a,
         abbr={Under Review},
       title= {Predicting burn surgical candidacy using deep learning on photographic images.},
-      author={S. Huang$^*$ and S. Rambhatla$^*$ and L. Trinh and M. Zhang and M. Dong and V. Unadkat and J. Lin and M. K. Sheth and J. Dang and H. A. Yenikomshian and Y. Liu and J. Gillenwater},
+      author={S. Huang* and S. Rambhatla* and L. Trinh and M. Zhang and M. Dong and V. Unadkat and J. Lin and M. K. Sheth and J. Dang and H. A. Yenikomshian and Y. Liu and J. Gillenwater},
       img={burn_cnn.png},
       journal={(Manuscript Under Review)},
+      month={10},
       year={2021}
     } 
 
@@ -310,16 +333,4 @@ abbr={TSP},
 
 
 
-    @article{seo2021physics,
-    abbr={IJCAI}, 
-    title={Physics-aware Spatiotemporal Modules with Auxiliary Tasks for Meta-Learning},
-    author={S. Seo and C. Meng and S. Rambhatla and Y. Liu},
-    journal={International Joint Conferences on Artificial Intelligence (IJCAI)},
-    url={https://arxiv.org/abs/2006.08831},
-    pdf={https://arxiv.org/pdf/2006.08831.pdf},
-    arxiv={2006.08831},
-    abstract={Modeling the dynamics of real-world physical systems is critical for spatiotemporal prediction tasks, but challenging when data is limited. The scarcity of real-world data and the difficulty in reproducing the data distribution hinder directly applying meta-learning techniques. Although the knowledge of governing partial differential equations (PDEs) of the data can be helpful for the fast adaptation to few observations, it is difficult to generalize to different or unknown dynamics. In this paper, we propose a framework, physics-aware modular meta-learning with auxiliary tasks (PiMetaL) whose spatial modules incorporate PDE-independent knowledge and temporal modules are rapidly adaptable to the limited data, respectively. The framework does not require the exact form of governing equations to model the observed spatiotemporal data. Furthermore, it mitigates the need for a large number of real-world tasks for meta-learning by leveraging simulated data. We apply the proposed framework to both synthetic and real-world spatiotemporal prediction tasks and demonstrate its superior performance with limited observations. },
-     img={PiMetal_zoom.png},
-    year={2021}
-  }
-
+ 
