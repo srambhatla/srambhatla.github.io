@@ -28,9 +28,7 @@ Previously, I was a Postdoctoral fellow at the [Melady Lab](https://melady.usc.e
 
 
 
-&nbsp;
-&nbsp;
-&nbsp;
+
 
 
 
@@ -38,4 +36,7 @@ Previously, I was a Postdoctoral fellow at the [Melady Lab](https://melady.usc.e
 | Statistical Machine Learning | Sparse Signal Processing | Spatiotemporal Data Analysis | AI for Surgery and Healthcare | Interpretability of Deep Learning Models |
 
 
+
+#### Research Opportunities
+If you are a prospective Masters or Doctoral student interested in tackling some challenging problems in real-world machine learning and AI with applications to healthcare, misinformation, and computer vision. Apply to the graduate program at [Management Sciences Department](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/future-students/programs/management-sciences-phd-waterloo){:target="\_blank"} and mention my name in your application. You may also reach out to me via email, be sure to highlight your experience with deep learning research and software development, and relevant course-work in linear algebra, optimization, and probability. Let's work together!
 
