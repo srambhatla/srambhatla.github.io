@@ -4,6 +4,7 @@ permalink: /teaching/
 title: teaching
 description: 
 nav: true
+order: 3
 ---
 
 - MSCI 436: Decision Support Systems
