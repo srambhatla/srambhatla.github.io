@@ -9,7 +9,7 @@ order: 1
 profile:
   image: logo.png
 ---
-&#x7c; [Join my lab](/criticalml/join/) &#x7c; [Read about my research](/publications/) &#x7c;
+&#x7c; [Join my lab](/criticalml/join/) &#x7c; [Read about our research](/publications/) &#x7c;
 
 
 <br />
