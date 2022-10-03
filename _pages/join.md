@@ -1,9 +1,9 @@
 ---
 layout: page
-title: join my lab
-permalink: /join/
+title: Join the Critical ML lab
+permalink: /criticalml/join/
 description:
-nav: true
+nav: false
 order: 6
 ---
 
