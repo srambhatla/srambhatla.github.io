@@ -12,7 +12,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
-icon: # the emoji used as the favicon
+icon:  # the emoji used as the favicon
 #url: # the base hostname & protocol for your site
 url: "http://sirisharambhatla.com"
 baseurl:  # the subpath of your site, e.g. /blog/
@@ -41,11 +41,12 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-
+mastodon_userid: sirisha
 github_username: srambhatla
 twitter_username: siri_r # your Twitter handle
 linkedin_username: sirisharambhatla # your LinkedIn user name
 scholar_userid: EOSZeBMAAAAJ&hl # your Google Scholar ID
+
 #orcid_id: # your ORCID ID
 #medium_username: # your Medium username
 #quora_username: # your Quora username
