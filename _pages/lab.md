@@ -65,6 +65,8 @@ blockquote {
     <br>
  </div>
 
+<br>
+
 #### Undergraduate Students
 
 <div class ="image-gallery">
