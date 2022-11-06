@@ -98,7 +98,7 @@ blockquote {
   <div class="box"><a href="https://www.linkedin.com/in/joshua-kurien/" title="Joshua Kurien">
          <img src="/assets/img/grp_mem/Joshua.jpeg" alt="Joshua"  class="img-gallery" />
          <div class ="textbox" style="margin-top:10px;"> <b> Joshua Kurien </b> </div>
-         <div class ="textbox" style="margin-top:3px;"> MASc (MME) <br> Fall 2022 <br> President’s Research Award <br> </div></a>
+         <div class ="textbox" style="margin-top:3px;"> URA (MME) <br> Fall 2022 <br> President’s Research Award <br> </div></a>
   </div>
 
   <div class="box"><a href="https://www.linkedin.com/in/madisonmussari/" title="Madison Mussari">
