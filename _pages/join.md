@@ -1,10 +1,10 @@
 ---
-layout: page
-title: Join the Critical ML lab
+layout: post
+title: Join Critical ML Lab
 permalink: /criticalml/join/
 description:
 nav: false
-order: 6
+order: 3
 ---
 
 If you are a prospective Doctoral or Masters student interested in tackling some challenging problems in machine learning and AI with applications to healthcare, intelligent automation and manufacturing and computer vision, apply to the graduate programs in
