@@ -106,7 +106,7 @@ blockquote {
   </div>
 
   <div class="box"><a href="" title="Daniel Jemin Kim">
-         <img src="" alt="Daniel"  class="img-gallery" />
+         <img src="/assets/img/grp_mem/DanielK.jpeg" alt="Daniel"  class="img-gallery" />
          <div class ="textbox" style="margin-top:10px;"> <b> Daniel Jemin Kim </b> </div>
          <div class ="textbox" style="margin-top:3px;"> URA (David R. Cheriton School of Computer Science) <br> Spring 2023 - Present <br> </div></a>
   </div>
