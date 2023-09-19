@@ -40,21 +40,50 @@ blockquote {
 #### Graduate Students
 <div class ="image-gallery">
   <div class="box"><a href="https://www.linkedin.com/in/kimathikaai/" title="Kimathi Kaai">
-         <img src="/assets/img/grp_mem/Kimathi.jpeg " alt="Kimathi"  class="img-gallery" />
+         <img src="/assets/img/grp_mem/Kimathi.jpeg" alt="Kimathi"  class="img-gallery" />
          <div class ="textbox" style="margin-top:10px;"> <b> Kimathi Kaai </b> </div>
          <div class ="textbox" style="margin-top:3px;"> MASc (SyDE) <br> Co-sup. with Prof. A. Wong<br> </div></a>
   </div>
 
-   <div class="box"><a href="https://ahmedshahriar.com/" title="Ahmed Shahriar">
-         <img src="/assets/img/grp_mem/Ahmed.jpeg " alt="Ahmed"  class="img-gallery" />
-         <div class ="textbox" style="margin-top:10px;"> <b> Ahmed Shahriar Sakib </b> </div>
-         <div class ="textbox" style="margin-top:3px;"> MASc (MSCI) <br> Co-sup. with Prof. F. Gzara<br> </div></a>
+   <div class="box"><a href="https://github.com/Bavesh-B" title="Bavesh Balaji">
+         <img src="/assets/img/grp_mem/Bavesh.jpg" alt="Bavesh"  class="img-gallery" />
+         <div class ="textbox" style="margin-top:10px;"> <b> Bavesh Balaji </b> </div>
+         <div class ="textbox" style="margin-top:3px;"> MASc (SyDE) <br> Co-sup. with Prof. D. Clausi<br> </div></a>
   </div>
 
   <div class="box"><a href="https://github.com/Aniket99coder" title="Aniket Biswal">
          <img src="/assets/img/grp_mem/Aniket.jpg" alt="Aniket"  class="img-gallery" />
          <div class ="textbox" style="margin-top:10px;"> <b> Aniket Biswal </b> </div>
          <div class ="textbox" style="margin-top:3px;"> MASc (MSCI) <br> Co-sup. with Prof. F. Gzara<br> </div></a>
+  </div>
+
+  <div class="box"><a href="https://github.com/anand-adroid" title="Anand Murugan">
+         <img src="/assets/img/grp_mem/Anand.jpeg" alt="Anand"  class="img-gallery" />
+         <div class ="textbox" style="margin-top:10px;"> <b> Anand Murugan </b> </div>
+         <div class ="textbox" style="margin-top:3px;"> MASc (MSCI) <br> Co-sup. with Prof. A. Wong<br> </div></a>
+  </div>
+
+  <div class="box"><a href="https://hellochang.github.io/projects/" title="Chang Liu">
+         <img src="/assets/img/grp_mem/Chang.jpeg" alt="Chang"  class="img-gallery" />
+         <div class ="textbox" style="margin-top:10px;"> <b> Chang Liu </b> </div>
+         <div class ="textbox" style="margin-top:3px;"> MASc (SyDE) <br> Co-sup. with Prof. A. Wong <br> </div></a>
+  </div>
+
+  <div class="box"><a href="https://www.kiernanmcguigan.com/" title="Kiernan McGuigan">
+         <img src="/assets/img/grp_mem/Kiernan.jpeg" alt="Kiernan"  class="img-gallery" />
+         <div class ="textbox" style="margin-top:10px;"> <b> Kiernan McGuigan </b> </div>
+         <div class ="textbox" style="margin-top:3px;"> MASc (SyDE) <br> Co-sup. with A. Scott <br> </div></a>
+  </div>
+
+  <div class="box"><a href="https://github.com/YingkeWang2018" title="Yingke Wang">
+         <img src="/assets/img/grp_mem/Yingke.jpeg" alt="Yingke"  class="img-gallery" />
+         <div class ="textbox" style="margin-top:10px;"> <b> Yingke Wang </b> </div>
+         <div class ="textbox" style="margin-top:3px;"> MMath (CS) <br> Co-sup. with Prof. X. He <br> </div></a>
+  </div>
+  <div class="box"><a href="https://trickyjustice.github.io" title="Achint Soni">
+         <img src="/assets/img/grp_mem/Achint.jpeg" alt="Achint"  class="img-gallery" />
+         <div class ="textbox" style="margin-top:10px;"> <b> Achint Soni </b> </div>
+         <div class ="textbox" style="margin-top:3px;"> MMath (CS) <br> Co-sup. with Prof. C. Clarke <br> </div></a>
   </div>
 
   <div class="box"><a href="https://www.linkedin.com/in/jinmanpark/?originalSubdomain=ca" title="Jinman Park">
@@ -76,46 +105,10 @@ blockquote {
          <div class ="textbox" style="margin-top:3px;"> URA (BME) <br> Winter '22 - Present <br> </div></a>
   </div>
 
-  <div class="box"><a href="https://www.linkedin.com/in/michael-du-28b035156/" title="Yipeng Du">
-         <img src="/assets/img/grp_mem/Yipeng.jpeg " alt="Yipeng"  class="img-gallery" />
-         <div class ="textbox" style="margin-top:10px;"> <b> Yipeng Du </b> </div>
-         <div class ="textbox" style="margin-top:3px;"> URA (Comp. Math. & Stats.) <br> Spring 2022 - Present <br> </div></a>
-  </div>
-
-  <div class="box"><a href="https://github.com/safros" title="Sheila Afros">
-         <img src="/assets/img/grp_mem/Sheila.jpg " alt="Sheila"  class="img-gallery" />
-         <div class ="textbox" style="margin-top:10px;"> <b> Sheila Afros </b> </div>
-         <div class ="textbox" style="margin-top:3px;"> NSERC USRA (MSCI) <br> Fall 2022<br> </div></a>
-  </div>
-
-  <div class="box"><a href="https://www.linkedin.com/in/fbarnard/" title="Francois Barnard">
-         <img src="/assets/img/grp_mem/Francois.jpeg " alt="Francois"  class="img-gallery" />
-         <div class ="textbox" style="margin-top:10px;"> <b> Francois Barnard </b> </div>
-         <div class ="textbox" style="margin-top:3px;"> URA (MSCI) <br> Fall 2022 <br> </div></a>
-  </div>
-
-
-  <div class="box"><a href="https://www.linkedin.com/in/joshua-kurien/" title="Joshua Kurien">
-         <img src="/assets/img/grp_mem/Joshua.jpeg" alt="Joshua"  class="img-gallery" />
-         <div class ="textbox" style="margin-top:10px;"> <b> Joshua Kurien </b> </div>
-         <div class ="textbox" style="margin-top:3px;"> URA (MME) <br> Fall 2022 <br> President’s Research Award <br> </div></a>
-  </div>
-
-  <div class="box"><a href="https://www.linkedin.com/in/madisonmussari/" title="Madison Mussari">
-         <img src="/assets/img/grp_mem/Madison.jpeg " alt="Madison"  class="img-gallery" />
-         <div class ="textbox" style="margin-top:10px;"> <b> Madison Mussari </b> </div>
-         <div class ="textbox" style="margin-top:3px;"> URA (SE) <br> Fall 2022 <br> President’s Research Award  <br> </div></a>
-  </div>
-  <div class="box"><a href="https://github.com/valamuri2020" title="Vivek Alamuri">
-         <img src="/assets/img/grp_mem/Vivek.jpeg " alt="Vivek"  class="img-gallery" />
-         <div class ="textbox" style="margin-top:10px;"> <b> Vivek Alamuri </b> </div>
-         <div class ="textbox" style="margin-top:3px;"> URA (ECE) <br> Fall 2022 <br> President’s Research Award<br> </div></a>
-  </div>
-
-  <div class="box"><a href="https://hellochang.github.io/projects/" title="Chang Liu">
-         <img src="/assets/img/grp_mem/Chang.jpeg " alt="Chang"  class="img-gallery" />
-         <div class ="textbox" style="margin-top:10px;"> <b> Chang Liu </b> </div>
-         <div class ="textbox" style="margin-top:3px;"> URA (Comp. Math. & Stats.) <br> Fall 2022 <br> </div></a>
+  <div class="box"><a href="" title="Daniel Jemin Kim">
+         <img src="" alt="Daniel"  class="img-gallery" />
+         <div class ="textbox" style="margin-top:10px;"> <b> Daniel Jemin Kim </b> </div>
+         <div class ="textbox" style="margin-top:3px;"> URA (David R. Cheriton School of Computer Science) <br> Spring 2023 - Present <br> </div></a>
   </div>
 
 
@@ -152,8 +145,8 @@ blockquote {
 
 #### Final Year Design Team Supervision
 
-| **Justine Archer, Francois Barnard, Arden Song, Christiana Wu, and Charles Yu**, *Collaborative Selection Systems in Recruiting* , May '22 -- May '23|
-| **Gunchica Bhalla, Laurie Gao, Soohyun Kim, Ashwuni Kumar,and Olivia You**, *AI-based Non-expert Assistive System*, May '22 -- May '23|
+| **Justine Archer, Francois Barnard, Arden Song, Christiana Wu, and Charles Yu**, *Collaborative Selection Systems in Recruiting* , May '22 -- May '23, Konrad Capstone Design Award, Management Engineering Design Award 🏆|
+| **Gunchica Bhalla, Laurie Gao, Soohyun Kim, Ashwuni Kumar,and Olivia You**, *AI-based Non-expert Assistive System*, May '22 -- May '23, Semi-Finalist for the Norman Esch Entrepreneurship Award 🏆|
 | **Kimathi Kaai (MME), Peter Marshall (SyDE), Nathan Rowe (MME), and James Serez (SyDE)**, *Vysio: AI for improving Physiotherapy Adherence and Outcomes*, (I-Beam Award for being voted best by peers), May '22 -- May '23  🏆|
 
 <br>
@@ -162,6 +155,28 @@ blockquote {
 #### Past Members
 
 | **Kimathi Kaai**, *URA, Mechanical and Mechatronics Engineering* , Winter '22|
+
+| **Bruce Wang**, *URA, Mechanical and Mechatronics Engineering*, Winter '23 |
+
+| **Chang Liu**, *URA, Statistics and Computational Mathematics* Fall '22 -- Winter '23|
+
+| **Marlize Van Sittert**, *URA, Faculty of Arts* Fall '22 -- Winter '23|
+
+| **Francois Barnard**, *URA, Management Sciences*, Fall '22 -- Winter '23|
+
+| **Sheila Afros**, *NSERC USRA, Management Sciences*, Fall '22|
+
+| **Madison Mussari**, *URA, Software Engineering*, Fall '22|
+
+| **Joshua Kurien**, *URA, Mechanical and Mechatronics Engineering*, Fall '22|
+
+| **Vivek Alamuri**, *URA, Electrical and Computer Engineering*, Fall '22|
+
+| **Yipeng Du**, *URA, Statistics and Computational Mathematics*, Spring -- Fall '22|
+
+| **Mariam Sedik**,  *Mitacs Business Strategy Intern*, Spring -- Fall '22|
+
+| **Vanshaj Vohra**, *Mitacs Business Strategy Intern*, Spring -- Fall '22|
 
 <!---
 
