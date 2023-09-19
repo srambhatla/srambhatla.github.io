@@ -9,7 +9,7 @@ order: 3
 
 <br>
 
-<a href="https://uwaterloo.ca/cybersecurity-privacy-institute/news/sirisha-rambhatlas-real-world-machine-learning-revolution"><img src="/assets/media/img/CPI-profile.jpg" style="border-radius:12px; width: 70%; height: 250; border-color: #fff; box-shadow: 10px 10px 5px #ccc;
+<a href="https://uwaterloo.ca/cybersecurity-privacy-institute/news/sirisha-rambhatlas-real-world-machine-learning-revolution"><img src="/assets/media/img/CPI-Profile.jpg" style="border-radius:12px; width: 70%; height: 250; border-color: #fff; box-shadow: 10px 10px 5px #ccc;
       -moz-box-shadow: 10px 10px 5px #ccc;
       -webkit-box-shadow: 10px 10px 5px #ccc;
       -khtml-box-shadow: 10px 10px 5px #ccc; "></a>
