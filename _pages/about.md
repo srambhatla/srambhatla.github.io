@@ -9,7 +9,8 @@ order: 1
 
 profile:
   align: center
-  image: prof_pic.jpg
+  #image: prof_pic.jpg
+  image: Sirisha-1.jpg
   logo: logo.png
   address: >
     <p>CPH 4358, 200 University Ave. W.,
@@ -22,7 +23,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 <br />
 <br />
 I am an Assistant Professor at the [University of Waterloo](https://uwaterloo.ca) with appointments in the
-* [Management Sciences Department](https://uwaterloo.ca/management-sciences/), Faculty of Engineering,
+* [Management Science and Engineering Department](https://uwaterloo.ca/management-sciences/), Faculty of Engineering,
 * [Systems Design Engineering](https://uwaterloo.ca/systems-design-engineering/), Faculty of Engineering, and 
 * [David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca), Faculty of Mathematics.
 
@@ -30,6 +31,8 @@ I am an Assistant Professor at the [University of Waterloo](https://uwaterloo.ca
 I lead the [Critical ML lab](/criticalml/) at the University of Waterloo. I am also affiliated with:
 * The [Waterloo Artificial Intelligence Institute (Waterloo.AI)](https://uwaterloo.ca/artificial-intelligence-institute/)
 * The [Waterloo Institute for Sustainable Aeronautics (WISA)](https://uwaterloo.ca/sustainable-aeronautics/)
+
+* The [Waterloo Cybersecurity and Privacy Institute (CPI)](https://uwaterloo.ca/cybersecurity-privacy-institute/)
 
 
 
