@@ -31,7 +31,6 @@ I am an Assistant Professor at the [University of Waterloo](https://uwaterloo.ca
 I lead the [Critical ML lab](/criticalml/) at the University of Waterloo. I am also affiliated with:
 * The [Waterloo Artificial Intelligence Institute (Waterloo.AI)](https://uwaterloo.ca/artificial-intelligence-institute/)
 * The [Waterloo Institute for Sustainable Aeronautics (WISA)](https://uwaterloo.ca/sustainable-aeronautics/)
-
 * The [Waterloo Cybersecurity and Privacy Institute (CPI)](https://uwaterloo.ca/cybersecurity-privacy-institute/)
 
 
