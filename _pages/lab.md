@@ -39,7 +39,7 @@ blockquote {
 
 #### Graduate Students
 <div class ="image-gallery">
-  <div class="box"><a href="https://www.linkedin.com/in/kimathikaai/" title="Kimathi Kaai">
+  <div class="box"><a href="https://kimathikaai.com" title="Kimathi Kaai">
          <img src="/assets/img/grp_mem/Kimathi.jpeg" alt="Kimathi"  class="img-gallery" />
          <div class ="textbox" style="margin-top:10px;"> <b> Kimathi Kaai </b> </div>
          <div class ="textbox" style="margin-top:3px;"> MASc (SyDE) <br> Co-sup. with Prof. A. Wong<br> </div></a>
