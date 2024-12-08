@@ -142,7 +142,10 @@ github: [metadata]
 # -----------------------------------------------------------------------------
 
 scholar:
-  sort_by: year, month
+  sort_by: year
+  order: ascending
+
+  
   
   last_name: Rambhatla
   first_name: [Sirisha, S.]

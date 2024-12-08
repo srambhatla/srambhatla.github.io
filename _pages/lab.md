@@ -51,17 +51,6 @@ blockquote {
          <div class ="textbox" style="margin-top:3px;"> MASc (SyDE) <br> Co-sup. with Prof. D. Clausi<br> </div></a>
   </div>
 
-  <div class="box"><a href="https://github.com/Aniket99coder" title="Aniket Biswal">
-         <img src="/assets/img/grp_mem/Aniket.jpg" alt="Aniket"  class="img-gallery" />
-         <div class ="textbox" style="margin-top:10px;"> <b> Aniket Biswal </b> </div>
-         <div class ="textbox" style="margin-top:3px;"> MASc (MSCI) <br> Co-sup. with Prof. F. Gzara<br> </div></a>
-  </div>
-
-  <div class="box"><a href="https://github.com/anand-adroid" title="Anand Murugan">
-         <img src="/assets/img/grp_mem/Anand.jpeg" alt="Anand"  class="img-gallery" />
-         <div class ="textbox" style="margin-top:10px;"> <b> Anand Murugan </b> </div>
-         <div class ="textbox" style="margin-top:3px;"> MASc (MSCI) <br> Co-sup. with Prof. A. Wong<br> </div></a>
-  </div>
 
   <div class="box"><a href="https://hellochang.github.io/projects/" title="Chang Liu">
          <img src="/assets/img/grp_mem/Chang.jpeg" alt="Chang"  class="img-gallery" />
@@ -154,7 +143,13 @@ blockquote {
 
 #### Past Members
 
-| **Kimathi Kaai**, *URA, Mechanical and Mechatronics Engineering* , Winter '22|
+| **Bavesh Balaji**, * Masters (Thesis)* , Aug '24|
+
+| **Aniket Biswal**, * Masters (Thesis)* , Aug '24|
+
+| **Kimathi Kaai**, *URA and Masters (Thesis)* , Aug '24|
+
+| **Anand Murugan**, * Masters (Thesis)* , April '24|
 
 | **Bruce Wang**, *URA, Mechanical and Mechatronics Engineering*, Winter '23 |
 
