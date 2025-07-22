@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: Theory-guided Machine Learning for the Real World
+description: Efficient, Safe, and Adaptive AI for the Real World
 order: 1
 
 
@@ -22,14 +22,16 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 <br />
 <br />
-I am an Assistant Professor at the [University of Waterloo](https://uwaterloo.ca) with appointments in the
+
+I am the Director of [Critical ML Lab](https://sirisharambhatla.com/criticalml/) and an Assistant Professor at the [University of Waterloo](https://uwaterloo.ca) with cross-appointments in the
 * [Management Science and Engineering Department](https://uwaterloo.ca/management-sciences/), Faculty of Engineering,
 * [Systems Design Engineering](https://uwaterloo.ca/systems-design-engineering/), Faculty of Engineering, and 
 * [David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca), Faculty of Mathematics.
 
 
-I lead the [Critical ML lab](/criticalml/) at the University of Waterloo. I am also affiliated with:
+I am also affiliated with:
 * The [Waterloo Artificial Intelligence Institute (Waterloo.AI)](https://uwaterloo.ca/artificial-intelligence-institute/)
+* The [Future Cities Institute Founded by CAIVAN](https://uwaterloo.ca/future-cities-institute)
 * The [Waterloo Institute for Sustainable Aeronautics (WISA)](https://uwaterloo.ca/sustainable-aeronautics/)
 * The [Waterloo Cybersecurity and Privacy Institute (CPI)](https://uwaterloo.ca/cybersecurity-privacy-institute/)
 
@@ -37,7 +39,6 @@ I lead the [Critical ML lab](/criticalml/) at the University of Waterloo. I am a
 
 
 More details about my background at here: [Curriculum Vitae](/docs/CV.pdf){:target="\_blank"}
-
 
 
 
