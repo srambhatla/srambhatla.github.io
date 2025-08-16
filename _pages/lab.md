@@ -37,6 +37,7 @@ blockquote {
 <br>
 
 
+
 #### Graduate Students
 <div class ="image-gallery">
   <div class="box"><a href="https://kimathikaai.com" title="Kimathi Kaai">
@@ -48,15 +49,45 @@ blockquote {
    <div class="box"><a href="https://github.com/Bavesh-B" title="Bavesh Balaji">
          <img src="/assets/img/grp_mem/Bavesh.jpg" alt="Bavesh"  class="img-gallery" />
          <div class ="textbox" style="margin-top:10px;"> <b> Bavesh Balaji </b> </div>
-         <div class ="textbox" style="margin-top:3px;"> MASc (SyDE) <br> Co-sup. with Prof. D. Clausi<br> </div></a>
+         <div class ="textbox" style="margin-top:3px;"> Ph.D. (SyDE) <br> Co-sup. with Prof. D. Clausi<br> </div></a>
+  </div>
+
+ <div class="box"><a href="https://scholar.google.com/citations?user=JmPxjS8AAAAJ&hl=en" title="Sahar Rajabi">
+         <img src="/assets/img/grp_mem/Sahar.jpg" alt="Sahar"  class="img-gallery" />
+         <div class ="textbox" style="margin-top:10px;"> <b> Sahar Rajabi </b> </div>
+         <div class ="textbox" style="margin-top:3px;"> Incoming Ph.D. (MS&E) <br> <br> </div></a>
   </div>
 
 
-  <div class="box"><a href="https://hellochang.github.io/projects/" title="Chang Liu">
-         <img src="/assets/img/grp_mem/Chang.jpeg" alt="Chang"  class="img-gallery" />
-         <div class ="textbox" style="margin-top:10px;"> <b> Chang Liu </b> </div>
-         <div class ="textbox" style="margin-top:3px;"> MASc (SyDE) <br> Co-sup. with Prof. A. Wong <br> </div></a>
-  </div>
+<div class="box">
+  <a href="https://vip.uwaterloo.ca/zhibo-wang/" title="Zhibo Wang">
+    <img src="/assets/img/grp_mem/Zhibo.jpg" alt="Zhibo Wang" class="img-gallery" />
+    <div class="textbox" style="margin-top:10px;"> <b> Zhibo Wang </b> </div>
+    <div class="textbox" style="margin-top:3px;"> Ph.D. (SyDE) <br> Co-sup. with Prof. D. Clausi<br> </div></a>
+</div>
+
+<div class="box">
+  <a href="https://github.com/NayeemaNonta" title="Nayeema Nonta">
+    <img src="/assets/img/grp_mem/Nayeema.jpg" alt="Nayeema Nonta" class="img-gallery" />
+    <div class="textbox" style="margin-top:10px;"> <b> Nayeema Nonta </b> </div>
+    <div class="textbox" style="margin-top:3px;"> MASc (MS&E) <br> <br> </div>
+  </a>
+</div>
+
+<div class="box">
+  <a href="https://lt.linkedin.com/in/dmytro-klepachevskyi-5a05561b7" title="Dmytro Klepachevsky">
+    <img src="/assets/img/grp_mem/Dmytro.jpeg" alt="Dmytro Klepachevsky" class="img-gallery" />
+    <div class="textbox" style="margin-top:10px;"> <b> Dmytro Klepachevsky </b> </div>
+    <div class="textbox" style="margin-top:3px;"> MASc (SyDE) <br> co-supervised with Prof. Y. Chen <br> </div></a>
+</div>
+
+<div class="box">
+  <a href="https://ca.linkedin.com/in/joshua-kurien" title="Joshua Kurien">
+    <img src="/assets/img/grp_mem/Joshua.jpg" alt="Joshua Kurien" class="img-gallery" />
+    <div class="textbox" style="margin-top:10px;"> <b> Joshua Kurien </b> </div>
+    <div class="textbox" style="margin-top:3px;"> MASc (SYDE) <br> co-supervised with Prof. A. Wong  <br> </div></a>
+</div>
+
 
   <div class="box"><a href="https://www.kiernanmcguigan.com/" title="Kiernan McGuigan">
          <img src="/assets/img/grp_mem/Kiernan.jpeg" alt="Kiernan"  class="img-gallery" />
@@ -64,22 +95,7 @@ blockquote {
          <div class ="textbox" style="margin-top:3px;"> MASc (SyDE) <br> Co-sup. with A. Scott <br> </div></a>
   </div>
 
-  <div class="box"><a href="https://github.com/YingkeWang2018" title="Yingke Wang">
-         <img src="/assets/img/grp_mem/Yingke.jpeg" alt="Yingke"  class="img-gallery" />
-         <div class ="textbox" style="margin-top:10px;"> <b> Yingke Wang </b> </div>
-         <div class ="textbox" style="margin-top:3px;"> MMath (CS) <br> Co-sup. with Prof. X. He <br> </div></a>
-  </div>
-  <div class="box"><a href="https://trickyjustice.github.io" title="Achint Soni">
-         <img src="/assets/img/grp_mem/Achint.jpeg" alt="Achint"  class="img-gallery" />
-         <div class ="textbox" style="margin-top:10px;"> <b> Achint Soni </b> </div>
-         <div class ="textbox" style="margin-top:3px;"> MMath (CS) <br> Co-sup. with Prof. C. Clarke <br> </div></a>
-  </div>
-
-  <div class="box"><a href="https://www.linkedin.com/in/jinmanpark/?originalSubdomain=ca" title="Jinman Park">
-         <img src="/assets/img/grp_mem/Jinman.jpeg" alt="Jinman"  class="img-gallery" />
-         <div class ="textbox" style="margin-top:10px;"> <b> Jinman Park </b> </div>
-         <div class ="textbox" style="margin-top:3px;"> Ph.D. (SyDE) <br> Mentoring <br> </div></a>
-  </div>
+ 
     <br>
  </div>
 
@@ -143,13 +159,22 @@ blockquote {
 
 #### Past Members
 
-| **Bavesh Balaji**, * Masters (Thesis)* , Aug '24|
 
-| **Aniket Biswal**, * Masters (Thesis)* , Aug '24|
+
+
+| **Achint Soni**, *Masters (Thesis)* , May '25|
+
+| **Chang Liu**, *Masters (Thesis)* , May '25|
+
+| **Yingke Wang**, *Masters (Thesis)* , Jan '25|
+
+| **Bavesh Balaji**, *Masters (Thesis)* , Aug '24|
+
+| **Aniket Biswal**, *Masters (Thesis)* , Aug '24|
 
 | **Kimathi Kaai**, *URA and Masters (Thesis)* , Aug '24|
 
-| **Anand Murugan**, * Masters (Thesis)* , April '24|
+| **Anand Murugan**, *Masters (Thesis)* , April '24|
 
 | **Bruce Wang**, *URA, Mechanical and Mechatronics Engineering*, Winter '23 |
 

@@ -23,19 +23,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 <br />
 <br />
 
-I am the Director of [Critical ML Lab](https://sirisharambhatla.com/criticalml/) and an Assistant Professor at the [University of Waterloo](https://uwaterloo.ca) with cross-appointments in the
-* [Management Science and Engineering Department](https://uwaterloo.ca/management-sciences/), Faculty of Engineering,
-* [Systems Design Engineering](https://uwaterloo.ca/systems-design-engineering/), Faculty of Engineering, and 
-* [David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca), Faculty of Mathematics.
+I am the Director of [Critical ML Lab](https://sirisharambhatla.com/criticalml/) and an Assistant Professor in the [Management Science and Engineering Department](https://uwaterloo.ca/management-sciences/) at the [University of Waterloo](https://uwaterloo.ca) with cross-appointments in the
+ [Systems Design Engineering](https://uwaterloo.ca/systems-design-engineering/), and [David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca).
 
 
-I am also affiliated with:
+I hold the *Val O’Donovan endowed Chair in Efficient, Safe, and Adaptive AI* in the Faculty of Engineering. I am also affiliated with:
 * The [Waterloo Artificial Intelligence Institute (Waterloo.AI)](https://uwaterloo.ca/artificial-intelligence-institute/)
 * The [Future Cities Institute Founded by CAIVAN](https://uwaterloo.ca/future-cities-institute)
 * The [Waterloo Institute for Sustainable Aeronautics (WISA)](https://uwaterloo.ca/sustainable-aeronautics/)
 * The [Waterloo Cybersecurity and Privacy Institute (CPI)](https://uwaterloo.ca/cybersecurity-privacy-institute/)
-
-
 
 
 More details about my background at here: [Curriculum Vitae](/docs/CV.pdf){:target="\_blank"}
