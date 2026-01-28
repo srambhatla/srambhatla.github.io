@@ -50,7 +50,7 @@ jobs:
           echo "DEPLOY_BRANCH=gh-pages" >> $GITHUB_OUTPUT
         fi
 
-  - name: Deploy website 
+    - name: Deploy website 
       run: |
         CUR_DIR=$(pwd)
         
