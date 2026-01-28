@@ -9,4 +9,5 @@ group :jekyll_plugins do
     gem 'jemoji'
     gem 'unicode_utils'
     gem 'webrick'
+    gem 'nokogiri', '>= 1.11.0'
 end
