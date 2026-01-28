@@ -15,23 +15,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout code
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+
     - name: Setup Ruby
-      uses: ruby/setup-ruby@v1 # default actions/setup-ruby@v1
+      uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '3.3' # default 2.7
-    - name: Enable bundler cache
-      uses: actions/cache@v4
-      with:
-        path: vendor/bundle
-        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-        restore-keys: |
-          ${{ runner.os }}-gems-
+        ruby-version: '2.7' # 使用 2.7 以兼容旧版 nokogiri
+
     - name: Install deps
       run: |
-        gem install bundler
+        # 安装兼容 Ruby 2.7 的 Bundler 版本
+        gem install bundler -v 2.4.22
         bundle config path vendor/bundle
         bundle install --jobs 4 --retry 3
+
     - name: Setup deploy options
       id: setup
       run: |
@@ -54,27 +53,9 @@ jobs:
     - name: Deploy website 
       run: |
         chmod +x bin/deploy
+        # 核心修复：防止脚本因为 vendor 目录未提交而报错
         echo "vendor/" >> .gitignore
+        # 核心修复：自动输入 y 绕过 read 阻塞
         yes y | ./bin/deploy --verbose ${{ steps.setup.outputs.NO_PUSH }} \
                             --src ${{ steps.setup.outputs.SRC_BRANCH }} \
                             --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }}
-    # - name: Setup deploy options
-    #   id: setup
-    #   run: |
-    #     git config --global user.name "GitHub Action"
-    #     git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-    #     if [[ ${GITHUB_REF} = refs/pull/*/merge ]]; then # pull request
-    #       echo "::set-output name=SRC_BRANCH::${GITHUB_HEAD_REF}"
-    #       echo "::set-output name=NO_PUSH::--no-push"
-    #     elif [[ ${GITHUB_REF} = refs/heads/* ]]; then # branch, e.g. master, source etc
-    #       echo "::set-output name=SRC_BRANCH::${GITHUB_REF#refs/heads/}"
-    #     fi
-    #     if [[ ${{ github.repository }} = *.github.io ]]; then # user/org repo
-    #       echo "::set-output name=DEPLOY_BRANCH::master"
-    #     else
-    #       echo "::set-output name=DEPLOY_BRANCH::gh-pages"
-    #     fi
-    # - name: Deploy website 
-    #   run:  yes | bin/deploy --verbose ${{ steps.setup.outputs.NO_PUSH }}
-    #                 --src ${{ steps.setup.outputs.SRC_BRANCH }} 
-    #                 --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }} 
