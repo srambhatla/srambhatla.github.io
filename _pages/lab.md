@@ -81,7 +81,7 @@ blockquote {
     <div class="textbox" style="margin-top:3px;"> MASc (SyDE) <br> co-supervised with Prof. Y. Chen <br> </div></a>
 </div>
 
-<div class="box">
+<!-- <div class="box">
   <a href="https://ca.linkedin.com/in/joshua-kurien" title="Joshua Kurien">
     <img src="/assets/img/grp_mem/Joshua.jpg" alt="Joshua Kurien" class="img-gallery" />
     <div class="textbox" style="margin-top:10px;"> <b> Joshua Kurien </b> </div>
@@ -93,7 +93,7 @@ blockquote {
          <img src="/assets/img/grp_mem/Kiernan.jpeg" alt="Kiernan"  class="img-gallery" />
          <div class ="textbox" style="margin-top:10px;"> <b> Kiernan McGuigan </b> </div>
          <div class ="textbox" style="margin-top:3px;"> MASc (SyDE) <br> Co-sup. with A. Scott <br> </div></a>
-  </div>
+  </div> -->
 
  
     <br>
