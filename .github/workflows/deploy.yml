@@ -53,9 +53,11 @@ jobs:
     - name: Deploy website 
       run: |
         chmod +x bin/deploy
-        # 核心修复：防止脚本因为 vendor 目录未提交而报错
+        
         echo "vendor/" >> .gitignore
-        # 核心修复：自动输入 y 绕过 read 阻塞
+        
+        git checkout .gitignore Gemfile.lock bin/deploy
+        
         yes y | ./bin/deploy --verbose ${{ steps.setup.outputs.NO_PUSH }} \
                             --src ${{ steps.setup.outputs.SRC_BRANCH }} \
                             --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }}
