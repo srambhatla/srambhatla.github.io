@@ -81,12 +81,12 @@ blockquote {
     <div class="textbox" style="margin-top:3px;"> MASc (SyDE) <br> co-supervised with Prof. Y. Chen <br> </div></a>
 </div>
 
-<div class="box">
+<!-- <div class="box">
   <a href="https://ca.linkedin.com/in/joshua-kurien" title="Joshua Kurien">
     <img src="/assets/img/grp_mem/Joshua.jpg" alt="Joshua Kurien" class="img-gallery" />
     <div class="textbox" style="margin-top:10px;"> <b> Joshua Kurien </b> </div>
     <div class="textbox" style="margin-top:3px;"> MASc (SYDE) <br> co-supervised with Prof. A. Wong  <br> </div></a>
-</div>
+</div> -->
 
 
   <!-- <div class="box"><a href="https://www.kiernanmcguigan.com/" title="Kiernan McGuigan">
