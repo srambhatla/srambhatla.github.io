@@ -12,7 +12,6 @@ on:
 
 jobs:
   deploy:
-    # 使用 20.04 避开新版 Ubuntu 的 C 库冲突
     runs-on: ubuntu-20.04 
     steps:
     - name: Checkout code
@@ -27,7 +26,6 @@ jobs:
 
     - name: Install deps
       run: |
-        # 直接安装到系统全局路径，不再使用 vendor/bundle
         gem install bundler -v 2.4.22
         bundle install --jobs 4 --retry 3
 
@@ -52,14 +50,10 @@ jobs:
 
     - name: Deploy website 
       run: |
-        # 赋予执行权限
         chmod +x bin/deploy
         
-        # 既然是全局安装，我们不需要 vendor 目录了
-        # 直接恢复被修改过的文件，确保 git status 是干净的
         git checkout Gemfile.lock bin/deploy
         
-        # 执行部署，自动回复 y
         yes y | ./bin/deploy --verbose ${{ steps.setup.outputs.NO_PUSH }} \
                             --src ${{ steps.setup.outputs.SRC_BRANCH }} \
                             --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }}
