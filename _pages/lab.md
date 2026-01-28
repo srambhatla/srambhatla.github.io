@@ -61,7 +61,7 @@ blockquote {
 
 <div class="box">
   <a href="https://vip.uwaterloo.ca/zhibo-wang/" title="Zhibo Wang">
-    <img src="/assets/img/grp_mem/Zhibo.jpg" alt="Zhibo Wang" class="img-gallery" />
+    <img src="/assets/img/grp_mem/Zhibo.JPEG" alt="Zhibo Wang" class="img-gallery" />
     <div class="textbox" style="margin-top:10px;"> <b> Zhibo Wang </b> </div>
     <div class="textbox" style="margin-top:3px;"> Ph.D. (SyDE) <br> Co-sup. with Prof. D. Clausi<br> </div></a>
 </div>
