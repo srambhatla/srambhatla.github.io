@@ -50,11 +50,13 @@ jobs:
           echo "DEPLOY_BRANCH=gh-pages" >> $GITHUB_OUTPUT
         fi
 
-    - name: Deploy website 
+  - name: Deploy website 
       run: |
+        CUR_DIR=$(pwd)
+        
         chmod +x bin/deploy
         
-        echo "vendor/" >> .gitignore
+        export BUNDLE_PATH="$CUR_DIR/vendor/bundle"
         
         git checkout .gitignore Gemfile.lock bin/deploy
         
