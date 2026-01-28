@@ -12,7 +12,8 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
+    # 使用 20.04 避开新版 Ubuntu 的 C 库冲突
+    runs-on: ubuntu-20.04 
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
@@ -22,13 +23,12 @@ jobs:
     - name: Setup Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '2.7' # 使用 2.7 以兼容旧版 nokogiri
+        ruby-version: '2.7'
 
     - name: Install deps
       run: |
+        # 直接安装到系统全局路径，不再使用 vendor/bundle
         gem install bundler -v 2.4.22
-        bundle config path vendor/bundle
-        bundle update nokogiri
         bundle install --jobs 4 --retry 3
 
     - name: Setup deploy options
@@ -52,14 +52,14 @@ jobs:
 
     - name: Deploy website 
       run: |
-        CUR_DIR=$(pwd)
-        
+        # 赋予执行权限
         chmod +x bin/deploy
         
-        export BUNDLE_PATH="$CUR_DIR/vendor/bundle"
+        # 既然是全局安装，我们不需要 vendor 目录了
+        # 直接恢复被修改过的文件，确保 git status 是干净的
+        git checkout Gemfile.lock bin/deploy
         
-        git checkout .gitignore Gemfile.lock bin/deploy
-        
+        # 执行部署，自动回复 y
         yes y | ./bin/deploy --verbose ${{ steps.setup.outputs.NO_PUSH }} \
                             --src ${{ steps.setup.outputs.SRC_BRANCH }} \
                             --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }}
