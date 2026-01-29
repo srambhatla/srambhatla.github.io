@@ -81,6 +81,13 @@ blockquote {
     <div class="textbox" style="margin-top:3px;"> MASc (SyDE) <br> co-supervised with Prof. Y. Chen <br> </div></a>
 </div>
 
+<div class="box">
+  <a href="https://ipouyall.github.io/" title="Pouya Sadeghi">
+    <img src="/assets/img/grp_mem/Pouya.jpg" alt="Pouya Sadeghi" class="img-gallery" />
+    <div class="textbox" style="margin-top:10px;"> <b> Pouya Sadeghi </b> </div>
+    <div class="textbox" style="margin-top:3px;"> MASc (CS) <br> co-supervised with Prof. J. Lin <br> </div></a>
+</div>
+
 <!-- <div class="box">
   <a href="https://ca.linkedin.com/in/joshua-kurien" title="Joshua Kurien">
     <img src="/assets/img/grp_mem/Joshua.jpg" alt="Joshua Kurien" class="img-gallery" />
