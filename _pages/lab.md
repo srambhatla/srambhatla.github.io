@@ -89,11 +89,20 @@ blockquote {
 </div>
 
 <div class="box">
+  <a href="https://www.linkedin.com/in/mahip-singh/" title="Mahip Singh">
+    <img src="/assets/img/grp_mem/Mahip.jpg" alt="Mahip Singh" class="img-gallery" />
+    <div class="textbox" style="margin-top:10px;"> <b> Mahip Singh </b> </div>
+    <div class="textbox" style="margin-top:3px;"> MASc (CS) <br> Co-sup. with Prof. C. Clarke <br> </div></a>
+</div>
+
+<div class="box">
   <a href="https://www.linkedin.com/in/ziyao-s-142224165/" title="Ziyao Shang">
     <img src="/assets/img/grp_mem/Ziyao.jpg" alt="Ziyao Shang" class="img-gallery" />
     <div class="textbox" style="margin-top:10px;"> <b> Ziyao Shang </b> </div>
     <div class="textbox" style="margin-top:3px;"> Ph.D. (SyDE) <br> Co-sup. with Prof. A. Wong <br> </div></a>
 </div>
+
+
 
 <!-- <div class="box">
   <a href="https://ca.linkedin.com/in/joshua-kurien" title="Joshua Kurien">
