@@ -78,14 +78,21 @@ blockquote {
   <a href="https://lt.linkedin.com/in/dmytro-klepachevskyi-5a05561b7" title="Dmytro Klepachevsky">
     <img src="/assets/img/grp_mem/Dmytro.jpeg" alt="Dmytro Klepachevsky" class="img-gallery" />
     <div class="textbox" style="margin-top:10px;"> <b> Dmytro Klepachevsky </b> </div>
-    <div class="textbox" style="margin-top:3px;"> MASc (SyDE) <br> co-supervised with Prof. Y. Chen <br> </div></a>
+    <div class="textbox" style="margin-top:3px;"> MASc (SyDE) <br> Co-sup. with Prof. Y. Chen <br> </div></a>
 </div>
 
 <div class="box">
   <a href="https://ipouyall.github.io/" title="Pouya Sadeghi">
     <img src="/assets/img/grp_mem/Pouya.jpg" alt="Pouya Sadeghi" class="img-gallery" />
     <div class="textbox" style="margin-top:10px;"> <b> Pouya Sadeghi </b> </div>
-    <div class="textbox" style="margin-top:3px;"> MASc (CS) <br> co-supervised with Prof. J. Lin <br> </div></a>
+    <div class="textbox" style="margin-top:3px;"> MASc (CS) <br> Co-sup. with Prof. J. Lin <br> </div></a>
+</div>
+
+<div class="box">
+  <a href="https://www.linkedin.com/in/ziyao-s-142224165/" title="Ziyao Shang">
+    <img src="/assets/img/grp_mem/Ziyao.jpg" alt="Ziyao Shang" class="img-gallery" />
+    <div class="textbox" style="margin-top:10px;"> <b> Ziyao Shang </b> </div>
+    <div class="textbox" style="margin-top:3px;"> Ph.D. (SyDE) <br> Co-sup. with Prof. A. Wong <br> </div></a>
 </div>
 
 <!-- <div class="box">
