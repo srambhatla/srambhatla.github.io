@@ -159,8 +159,9 @@ blockquote {
 
 #### Past Members
 
+| **Kiernan McGuigan**, *Masters (Thesis)* , Jan '26|
 
-
+| **Joshua Kurien**, *Masters (Thesis)* , Dec '25|
 
 | **Achint Soni**, *Masters (Thesis)* , May '25|
 
