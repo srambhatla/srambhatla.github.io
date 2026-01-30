@@ -102,6 +102,13 @@ blockquote {
     <div class="textbox" style="margin-top:3px;"> Ph.D. (SyDE) <br> Co-sup. with Prof. A. Wong <br> </div></a>
 </div>
 
+<div class="box">
+  <a href="https://tonnew5418.github.io/" title="Letian Jiang">
+    <img src="/assets/img/grp_mem/Letian.jpg" alt="Letian Jiang" class="img-gallery" />
+    <div class="textbox" style="margin-top:10px;"> <b> Letian Jiang </b> </div>
+    <div class="textbox" style="margin-top:3px;"> Ph.D. (CS) <br> Co-sup. with Prof. J. Lin <br> </div></a>
+</div>
+
 
 
 <!-- <div class="box">
