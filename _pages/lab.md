@@ -36,7 +36,10 @@ blockquote {
 
 <br>
 
+![Critical ML Lab](/assets/img/grp_mem/group_1.JPG)
+*Critical ML Lab Photo*
 
+<br>
 
 #### Graduate Students
 <div class ="image-gallery">
