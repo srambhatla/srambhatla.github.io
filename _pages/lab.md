@@ -43,7 +43,7 @@ blockquote {
   <div class="box"><a href="https://kimathikaai.com" title="Kimathi Kaai">
          <img src="/assets/img/grp_mem/Kimathi.jpeg" alt="Kimathi"  class="img-gallery" />
          <div class ="textbox" style="margin-top:10px;"> <b> Kimathi Kaai </b> </div>
-         <div class ="textbox" style="margin-top:3px;"> MASc (SyDE) <br> Co-sup. with Prof. A. Wong<br> </div></a>
+         <div class ="textbox" style="margin-top:3px;"> Ph.D. (SyDE) <br> Co-sup. with Prof. A. Wong<br> </div></a>
   </div>
 
    <div class="box"><a href="https://github.com/Bavesh-B" title="Bavesh Balaji">
@@ -55,7 +55,7 @@ blockquote {
  <div class="box"><a href="https://scholar.google.com/citations?user=JmPxjS8AAAAJ&hl=en" title="Sahar Rajabi">
          <img src="/assets/img/grp_mem/Sahar.jpg" alt="Sahar"  class="img-gallery" />
          <div class ="textbox" style="margin-top:10px;"> <b> Sahar Rajabi </b> </div>
-         <div class ="textbox" style="margin-top:3px;"> Incoming Ph.D. (MS&E) <br> <br> </div></a>
+         <div class ="textbox" style="margin-top:3px;"> Ph.D. (MS&E) <br> <br> </div></a>
   </div>
 
 
@@ -133,7 +133,12 @@ blockquote {
 
 #### Undergraduate Students
 
-<div class ="image-gallery">
+| **Ammielle Wambo Becker**, *URA, Systems Design Engineering* , Spring '25 |
+| **Alka Devi Ukarni**, *URA, Biomedical Engineering* , Fall '25|
+| **Arya Javadi Moghaddam**, *URA, Systems Design Engineering* , Fall '25|
+| **Owen Kim**, *URA, Systems Design Engineering* , Fall '25|
+
+<!-- <div class ="image-gallery">
   <div class="box"><a href="https://github.com/sdhossain" title="Saad Hossain">
          <img src="/assets/img/grp_mem/Saad.jpg" alt="Saad"  class="img-gallery" />
          <div class ="textbox" style="margin-top:10px;"> <b> Saad Hossain </b> </div>
@@ -144,7 +149,7 @@ blockquote {
          <img src="/assets/img/grp_mem/DanielK.jpeg" alt="Daniel"  class="img-gallery" />
          <div class ="textbox" style="margin-top:10px;"> <b> Daniel Jemin Kim </b> </div>
          <div class ="textbox" style="margin-top:3px;"> URA (CS) <br> Spring 2023 - Present <br> </div></a>
-  </div>
+  </div> -->
 
 
 <br>
