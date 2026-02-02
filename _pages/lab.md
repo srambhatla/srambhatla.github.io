@@ -36,8 +36,10 @@ blockquote {
 
 <br>
 
-![Critical ML Lab](/assets/img/grp_mem/group_1.JPG)
-*Critical ML Lab Photo*
+<div style="width: 100%; max-width: 100%; overflow: hidden;">
+  <img src="/assets/img/grp_mem/group_1.JPG" alt="Critical ML Lab" style="width: 100%; max-width: 100%; height: auto; display: block;" />
+</div>
+<p style="text-align: center; font-size: 0.875rem; margin-top: 0.5rem; color: var(--global-text-color-light, #666);"><em>Critical ML Lab Photo</em></p>
 
 <br>
 
@@ -157,7 +159,7 @@ blockquote {
 
 <br>
     
- </div>
+ <!-- </div> -->
 
 
 <!---
