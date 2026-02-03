@@ -26,6 +26,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 I am the Director of [Critical ML Lab](https://sirisharambhatla.com/criticalml/) and an Assistant Professor in the [Management Science and Engineering Department](https://uwaterloo.ca/management-sciences/) at the [University of Waterloo](https://uwaterloo.ca) with cross-appointments in the
  [Systems Design Engineering](https://uwaterloo.ca/systems-design-engineering/), and [David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca).
 
+ <div style="width: 100%; max-width: 100%; overflow: hidden;">
+  <img src="/assets/img/grp_mem/group_2.JPG" alt="Critical ML Lab" style="width: 100%; max-width: 100%; height: auto; display: block;" />
+</div>
+<p style="text-align: center; font-size: 0.875rem; margin-top: 0.5rem; color: var(--global-text-color-light, #666);"><em>Prof. Rambhatla with her students</em></p>
+
 
 I hold the *Val O’Donovan endowed Chair in Efficient, Safe, and Adaptive AI* in the Faculty of Engineering. I am also affiliated with:
 * The [Waterloo Artificial Intelligence Institute (Waterloo.AI)](https://uwaterloo.ca/artificial-intelligence-institute/)
