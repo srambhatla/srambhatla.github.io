@@ -87,6 +87,13 @@ blockquote {
 </div>
 
 <div class="box">
+  <a href="https://www.linkedin.com/in/utkucicek61/" title="Utku Clcek">
+    <img src="/assets/img/grp_mem/Utku.jpeg" alt="Utku Clcek" class="img-gallery" />
+    <div class="textbox" style="margin-top:10px;"> <b> Utku Clcek </b> </div>
+    <div class="textbox" style="margin-top:3px;"> MASc (SyDE) <br> Co-sup. with Prof. A. Wong <br> </div></a>
+</div>
+
+<div class="box">
   <a href="https://ipouyall.github.io/" title="Pouya Sadeghi">
     <img src="/assets/img/grp_mem/Pouya.jpg" alt="Pouya Sadeghi" class="img-gallery" />
     <div class="textbox" style="margin-top:10px;"> <b> Pouya Sadeghi </b> </div>
