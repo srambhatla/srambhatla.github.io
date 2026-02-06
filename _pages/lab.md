@@ -148,7 +148,7 @@ blockquote {
 | **Ammielle Wambo Becker**, *URA, Systems Design Engineering* , Spring '25 |
 | **Alka Devi Ukarni**, *URA, Biomedical Engineering* , Fall '25|
 | **Arya Javadi Moghaddam**, *URA, Systems Design Engineering* , Fall '25|
-| **Owen Kim**, *URA, Systems Design Engineering* , Fall '25|
+| **Owen Kim**, *URA, Biomedical Engineering* , Fall '25|
 
 <!-- <div class ="image-gallery">
   <div class="box"><a href="https://github.com/sdhossain" title="Saad Hossain">
