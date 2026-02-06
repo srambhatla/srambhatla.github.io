@@ -145,6 +145,7 @@ blockquote {
 
 #### Undergraduate Students
 
+| **Fayiz Ahmed Mohideen**, *URA, Mechanical and Mechatronics Engineering* , Winter '26 |
 | **Ammielle Wambo Becker**, *URA, Systems Design Engineering* , Spring '25 |
 | **Alka Devi Ukarni**, *URA, Biomedical Engineering* , Fall '25|
 | **Arya Javadi Moghaddam**, *URA, Systems Design Engineering* , Fall '25|
