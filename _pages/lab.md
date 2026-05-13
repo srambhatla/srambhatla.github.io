@@ -121,6 +121,13 @@ blockquote {
     <div class="textbox" style="margin-top:3px;"> Ph.D. (CS) <br> Co-sup. with Prof. J. Lin <br> </div></a>
 </div>
 
+<div class="box">
+  <a href="https://www.linkedin.com/in/markiian-leshchyshyn/" title="Markiian Leshchyshyn">
+    <img src="/assets/img/grp_mem/Markiian.jpeg" alt="Markiian" class="img-gallery" />
+    <div class="textbox" style="margin-top:10px;"> <b> Markiian Leshchyshyn </b> </div>
+    <div class="textbox" style="margin-top:3px;"> Undergraduate Co-op <br> </div></a>
+</div>
+
 
 
 <!-- <div class="box">
