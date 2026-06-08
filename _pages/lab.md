@@ -128,6 +128,13 @@ blockquote {
     <div class="textbox" style="margin-top:3px;"> Undergraduate Co-op <br> </div></a>
 </div>
 
+<div class="box">
+  <a href="https://www.linkedin.com/in/jaechan-lee-06a930295/" title="Jaechan Lee">
+    <img src="/assets/img/grp_mem/Jaechan.jpg" alt="Jaechan" class="img-gallery" />
+    <div class="textbox" style="margin-top:10px;"> <b> Jaechan Lee </b> </div>
+    <div class="textbox" style="margin-top:3px;"> Visiting M.S. from POSTECH <br> </div></a>
+</div>
+
 
 
 <!-- <div class="box">
