@@ -121,19 +121,19 @@ blockquote {
     <div class="textbox" style="margin-top:3px;"> Ph.D. (CS) <br> Co-sup. with Prof. J. Lin <br> </div></a>
 </div>
 
-<div class="box">
+<!-- <div class="box">
   <a href="https://www.linkedin.com/in/markiian-leshchyshyn/" title="Markiian Leshchyshyn">
     <img src="/assets/img/grp_mem/Markiian.jpg" alt="Markiian" class="img-gallery" />
     <div class="textbox" style="margin-top:10px;"> <b> Markiian Leshchyshyn </b> </div>
     <div class="textbox" style="margin-top:3px;"> Undergraduate Co-op <br> </div></a>
-</div>
+</div> -->
 
-<div class="box">
+<!-- <div class="box">
   <a href="https://www.linkedin.com/in/jaechan-lee-06a930295/" title="Jaechan Lee">
     <img src="/assets/img/grp_mem/Jaechan.jpg" alt="Jaechan" class="img-gallery" />
     <div class="textbox" style="margin-top:10px;"> <b> Jaechan Lee </b> </div>
     <div class="textbox" style="margin-top:3px;"> Visiting M.S. from POSTECH <br> </div></a>
-</div>
+</div> -->
 
 
 
@@ -220,6 +220,10 @@ blockquote {
 
 
 #### Past Members
+
+| **Jaechan Lee**, *Visiting M.S. Student, POSTECH* , Spring '26|
+
+| **Markiian Leshchyshyn**, *Undergraduate Co-op* , Spring '26|
 
 | **Kiernan McGuigan**, *Masters (Thesis)* , Jan '26|
 
